@@ -1,10 +1,9 @@
 ---
 # new `_layouts/default.html` for backwards-compatibility when multiple
 # layouts have been customized.
-
 layout: page
+title: Norman Denny Introduction
 ---
-# Norman Denny Introduction 
 ## I
 
 VICTOR HUGO was born in 1802 at Besançon, now capital of the department of Doubs in eastern France. His father, a career officer in Napoleon’s army, was at that time a major, but he rose eventually to the rank of general and was created a count. His various garrison appointments occasioned a number of removals, and the education of the youthful Victor-Marie was in consequence diversified, taking place in Italy and Spain as well as in Paris, at the Maison des Feuillantines. This was certainly good for him. There may be some doubt as to whether he could really read Tacitus at the age of seven, as he claimed, but he received a very thorough grounding in the humanities.
