@@ -861,7 +861,7 @@ Les bleuets sont bleus, j’aime mes amours. <br/>
 
 3. “Shrove Tuesday”: the day before Ash Wednesday, better known as Mardi Gras. The religious connotations were still more important than those of the Carnival in nineteenth-century France.
 
-XI: Champmathieu More and More Amazed
+### 1.7.11: Champmathieu More and More Amazed
 1. “the three letters T.F.P.”: Convicts sent to Toulon were branded with the letters TF, for travaux forcés, or “forced labour”; those sentenced to hard labour for life, like Chenildieu, were branded with TFP, travaux forcés perpetuels, “perpetual forced labour.”
 
 ## Book 8: Aftershock
