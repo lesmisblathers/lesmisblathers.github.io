@@ -1,4 +1,3 @@
-{% include toc.html html=content %}
 # Rose/Madden Footnotes
 ## Volume 1: Fantine
 ### Book 1: A Just Man
