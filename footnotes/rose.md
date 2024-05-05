@@ -2585,7 +2585,7 @@ IX: Eclipse
 ### 4.9.3: Monsieur Mabeuf
 1. “Round by the Arsenal”: The Arsenal stands on the right bank, just east of the Marais.
 
-# Book 10: June 5, 1832
+## Book 10: June 5, 1832
 ### 4.10.1: The Issue on the Surface
 1. Philinte versus Alceste: In Molière’s Misanthrope, Alceste is the protagonist of unyielding principle who refuses to compromise with the hypocrisies of the society he lives in; his best friend, Philinte, urges him to compromise in order to fit in more comfortably with those around him.
 
