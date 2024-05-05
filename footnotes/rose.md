@@ -2,7 +2,7 @@
 layout: page
 title: "Rose/Madden Footnotes"
 ---
-# Volume 1: Fantine
+# Part 1: Fantine
 ## Book 1: A Just Man
 ### 1.1.1: Monsieur Myriel
 1. Myriel was bishop of Digne: Hugo based his bishop on Charles-François-Melchior-Bienvenu de Miollis (1753–1838), bishop of Digne from 1805 to 1831. Like his fictional counterpart, Miollis was known for the simplicity of his lifestyle and his attention to the poorest members of his diocese. Miollis also welcomed a convict named Pierre Maurin, who had spent five years in prison for stealing a loaf of bread (with aggravating circumstances). Several details of Bishop Myriel’s life are inventions of the novelist and were even criticized by conservative Catholics, who saw Myriel’s lifestyle as a rebuke of the Church, and by the surviving members of Miollis’s family. <br/> The town of Digne was also a fortuitous location for Bishop Myriel’s good works, given that digne means “worthy” in French. The bishop’s name may suggest other meanings. The -iel ending recalls the traditional names of the archangels (Gabriel, Raphael, Michael, Uriel). The name also has a certain assonance with miel, “honey.”
@@ -872,7 +872,7 @@ XI: Champmathieu More and More Amazed
 1. a galley slave: The term galérien outlasted the use of the galleys in the French navy; the term was used frequently in place of the proper term of forçat for one sentenced to forced labour.
 
 2. the Drapeau Blanc: the White Flag, still another legitimist newspaper; note the lady’s pronunciation “Buonapartists”; the Italian pronunciation emphasized Napoléon’s foreignness.
-# Volume 2: Cosette
+# Part 2: Cosette
 ## Book 1: Waterloo
 ### 2.1.1: What You Meet with When You Come from Nivelles
 1. Last year, 1861, on a lovely morning in May: Hugo did in fact travel to Waterloo in May 1861, in order to confirm his understanding of the battle. Even though, as he wrote in a letter, he would say only “a word” (un mot) about Waterloo in Les Misérables, he wanted to be sure of his accuracy.
@@ -1428,7 +1428,7 @@ image
 
 5. lacerated by discipline: i.e., by the scourge with which certain religious practised self-mortification.
 
-# Volume 3: Marius
+# Part 3: Marius
 ## Book 1: Paris Studied Down to Its Minutest Atom
 ### 3.1.1: Parvulus
 1. Parvulus: Latin for child.
@@ -2000,7 +2000,7 @@ image
 ### 3.4.6: Res Angusta
 1. Res Angusta: “straitened (financial) circumstances.”
 
-# Book 5: The Virtues of Adversity
+## Book 5: The Virtues of Adversity
 ### 3.5.2: Marius Poor
 1. Rousseau’s: one of the cheap greasy spoons of the Latin Quarter.
 
@@ -2893,7 +2893,7 @@ Se sont envolés dans les cieux profonds! <br/>
 
 2. “no more Satan … no more Michael”: i.e., when the progess of humanity and the human spirit has brought an end to evil, there will no longer be a need for God’s warrior, Michael, the avenging archangel.
 
-## Book 13: Marius Steps Into the Shadows 
+## Book 13: Marius Steps Into the Shadows
 ### 4.13.1: From the Rue Plumet to the Quartier Saint-Denis
 1. Black coats and round hats … caked with dirt: i.e., the bourgeoisie had given way to the working class.
 
