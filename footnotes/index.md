@@ -4,9 +4,11 @@ title: "Combined Footnotes"
 ---
 # Volume 2: Cosette
 ## Book 6: Petit-Picpus
-### 2.6.7
+
+### 2.6.7
 
 #### Donougher: Some Figures in the Gloom
+
 **Marguerite de Blemeur:** The Benedictine nun Jacqueline Bouette de Blemur (1618–96) is the author of *L’année bénédictine, ou les vies des saints de l’ordre de S. Benoît* (The Benedictine Year, or the Lives of the Saints of the Order of St Benedict), 1667–73.
 
 **Madame Dacier:** Anne Dacier (1654–1720) was a noted scholar and translator of the classics, including Homer’s *Iliad* (1699) and *Odyssey* (1708).
@@ -22,6 +24,7 @@ title: "Combined Footnotes"
 **‘What a devil of a noise!’**: In the French text, ‘C’est le diable à quatre’. With Madame de Genlis’s signature four rings in mind, Hugo here is playing on the expression *faire le diable à quatre,* meaning ‘to create a great deal of noise and disorder’ and said to derive from medieval morality plays featuring four characters – the devil and his lieutenants.
 
 #### Rose/Madden: A Few Silhouettes in the Shadows
+
 **Marguerite de Blemeur:** a seventeenth-century (1618–96) nun and scholar who wrote the Lives of the Saints of the Order of Saint Benedict.
 
 **the Dacier of the Order:** its scholar, Anne Dacier (1647–1720), was an accomplished woman of letters who translated classical authors from Sappho and Aristophanes to Plautus and Terence.
@@ -41,6 +44,7 @@ title: "Combined Footnotes"
 **Rue Droit-Mur ... Rue des Églantiers**: *Droit-Mur* means ‘straight wall’. *Églantier* is the sweet briar, or wild rose.
 
 #### Rose/Madden: Post Corda Lapides
+
 **Post corda lapides:** “After the hearts, the stones.”
 
 **_a jeu de paume_ … “eleven thousand devils”:** The *jeu de paume* (predecessor of the tennis court) was another landmark on the left bank near the convent of the rue Neuve-Sainte-Geneviève.
