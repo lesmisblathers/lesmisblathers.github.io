@@ -2,6 +2,11 @@
 layout: page
 title: "Combined Footnotes"
 ---
+
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: My reference.
+
 # Volume 2: Cosette
 ## Book 6: Le Petit-Picpus
 
