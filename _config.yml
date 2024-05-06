@@ -1,6 +1,4 @@
 title: Les Mis Blathers
-author:
-  name: Blathers
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
