@@ -9,6 +9,7 @@ title: "Combined Footnotes"
 
 #### Donougher:  Number 62 Petite-Rue-Picpus
 No footnotes
+
 #### Rose/Madden: Petite Rue Picpus, No. 62
 No footnotes
 
