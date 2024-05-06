@@ -81,7 +81,7 @@ No footnotes
 
 **St Margaret’s cross:** St Margaret of Antioch is associated with a number of miraculous incidents, including being swallowed by Satan in the form of a dragon, from which she escaped alive, protected by the cross that she was wearing.
 
-**Nemo regulas, seu constitutiones nostras, externis communicabit.:** ‘No one shall divulge our rule or regulations to any outsiders.’
+**Nemo regulas … communicabit.:** ‘No one shall divulge our rule or regulations to any outsiders.’
 
 **Monsieur de Quélen:** Louis de Quélen (1778–1839), archbishop of Paris from 1821, member of the French Academy from 1824.
 
