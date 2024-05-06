@@ -18,20 +18,20 @@ She had in a closet, under key, a mysterious object, which she cherished very hi
 This good old woman would receive no visit from the outside world,
 *because*, said she, *the locutory is too gloomy*.
 
-[^D1]: **Fontevrault:** The huge medieval abbey complex at Fontevrault in Anjou, once housing four communities – of monks, repentant fallen women, lepers and nuns, ruled by the aristocratic women who predominated within the order – was the burial place of the Plantagenet kings Henry II (1133–89) and his sons Richard the Lionheart (1157–99) and John (1167–1216), and also of Henry’s wife Eleanor of Aquitaine (1124–1204).
+[^D1]: The huge medieval abbey complex at Fontevrault in Anjou, once housing four communities – of monks, repentant fallen women, lepers and nuns, ruled by the aristocratic women who predominated within the order – was the burial place of the Plantagenet kings Henry II (1133–89) and his sons Richard the Lionheart (1157–99) and John (1167–1216), and also of Henry’s wife Eleanor of Aquitaine (1124–1204). 🍩
 
-[^D2]: **Monsieur de Miromesnil:** Armand Thomas Hue (1723–96), Marquis de Miromesnil, Louis XVI’s minister of justice (1774–87).
+[^D2]: Armand Thomas Hue (1723–96), Marquis de Miromesnil, Louis XVI’s minister of justice (1774–87). 🍩
 
-[^D3]: **Monseigneur St François made his profession of vows to … and so on and so forth, and now, mon père, it’s my turn to take advantage of you:** The nun’s quaintness of expression, using the verb *bailler*, ‘to give’ or ‘to pledge’, which has a chivalric resonance, becomes comic when she inadvertently uses the verb in a turn of phrase that has a decidedly colloquial ring to it, suggesting deception.
+[^D3]: **… and now, mon père, it’s my turn to take advantage of you:** The nun’s quaintness of expression, using the verb *bailler*, ‘to give’ or ‘to pledge’, which has a chivalric resonance, becomes comic when she inadvertently uses the verb in a turn of phrase that has a decidedly colloquial ring to it, suggesting deception. 🍩
 
-[^D4]: **the distinction of inspiring Molière:** In Molière’s play of 1669, *Monsieur de Pourceaugnac*, the hapless provincial nobleman of the title, who has come to Paris to claim an unwilling bride, is the victim of a comic conspiracy to thwart him, and he ends up at the end of Act I being pursued by an apothecary, doctors and dancing swordsmen, all brandishing syringes.
+[^D4]: In Molière’s play of 1669, *Monsieur de Pourceaugnac*, the hapless provincial nobleman of the title, who has come to Paris to claim an unwilling bride, is the victim of a comic conspiracy to thwart him, and he ends up at the end of Act I being pursued by an apothecary, doctors and dancing swordsmen, all brandishing syringes. 🍩
 
 #### Rose/Madden: A Century Under a Wimple
 
-[^R1]: **the abbey of Fontevrault:** sometimes Fontevraud, an unusual abbey that was both a monastery and a nunnery. The Plantagenets supported the abbey, and several members of the family—Henry II, Eleanor of Aquitaine, and Richard the Lion-Hearted—are buried there. It was turned into a prison in 1804.
+[^R1]: Sometimes Fontevraud, an unusual abbey that was both a monastery and a nunnery. The Plantagenets supported the abbey, and several members of the family—Henry II, Eleanor of Aquitaine, and Richard the Lion-Hearted—are buried there. It was turned into a prison in 1804. 🌹  
 
-[^R2]: **Monsieur de Miromesnil:** Armand-Thomas Hue de Miromesnil (1723–96), keeper of the seals for most of the reign of Louis XVI (1774–87).
+[^R2]: Armand-Thomas Hue de Miromesnil (1723–96), keeper of the seals for most of the reign of Louis XVI (1774–87). 🌹
 
-[^R3]: **the Bernardines were right up there:** a reference to the great age of libertinage in the eighteenth century; the implication is that Bernardine monks of aristocratic origin were as elegant and worldly as young officers of the musketeers. While the *abbé mondain* is a common literary and historical figure of the Enlightenment, it is unusual to see monks described in this way.
+[^R3]: A reference to the great age of libertinage in the eighteenth century; the implication is that Bernardine monks of aristocratic origin were as elegant and worldly as young officers of the musketeers. While the *abbé mondain* is a common literary and historical figure of the Enlightenment, it is unusual to see monks described in this way. 🌹
 
-[^R4]: **giving Molière an idea:** It is not clear what play Hugo might be referring to, but farces about lovers’ misunderstandings are not unusual in Molière’s work.
+[^R4]: It is not clear what play Hugo might be referring to, but farces about lovers’ misunderstandings are not unusual in Molière’s work. 🌹
