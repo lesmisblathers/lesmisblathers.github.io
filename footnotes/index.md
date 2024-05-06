@@ -7,7 +7,6 @@ title: "Combined Footnotes"
 ### 2.6.7
 
 #### Donougher: Some Figures in the Gloom
-
 **Marguerite de Blemeur:** The Benedictine nun Jacqueline Bouette de Blemur (1618–96) is the author of *L’année bénédictine, ou les vies des saints de l’ordre de S. Benoît* (The Benedictine Year, or the Lives of the Saints of the Order of St Benedict), 1667–73.
 
 **Madame Dacier:** Anne Dacier (1654–1720) was a noted scholar and translator of the classics, including Homer’s *Iliad* (1699) and *Odyssey* (1708).
