@@ -55,7 +55,7 @@ No footnotes
 
  **Talbot:** the family name of the earls of Shrewsbury, several of whom remained in the Catholic Church after the Reformation.
 
-### 2.6.4 Gayeties
+### 2.6.4: Gayeties
 
 #### Donougher: Gladness
 
