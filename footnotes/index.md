@@ -3,9 +3,9 @@ layout: page
 title: "Combined Footnotes"
 ---
 # Volume 2: Cosette
-## Book 6: Petit-Picpus
+## Book 6: Le Petit-Picpus
 
-### 2.6.1
+### 2.6.1: Number 62 Rue Petit-Picpus
 
 #### Donougher:  Number 62 Petite-Rue-Picpus
 No footnotes
@@ -13,7 +13,7 @@ No footnotes
 #### Rose/Madden: Petite Rue Picpus, No. 62
 No footnotes
 
-### 2.6.2
+### 2.6.2: The Obedience of Martin Verga
 
 #### Donougher: The Observance of Martin Verga
 
@@ -43,7 +43,7 @@ No footnotes
 
 **Philip di Neri … Pierre de Bérulle:** Philip di Neri (1515–95) was founder of the order of the Oratory in Italy. Pierre de Bérulle (1575–1629) founded the French Oratory.
 
-### 2.6.3
+### 2.6.3: Austerities
 
 #### Donougher: Austerities
 
@@ -55,7 +55,7 @@ No footnotes
 
  **Talbot:** the family name of the earls of Shrewsbury, several of whom remained in the Catholic Church after the Reformation.
 
-### 2.6.4
+### 2.6.4 Gayeties
 
 #### Donougher: Gladness
 
@@ -73,7 +73,7 @@ No footnotes
 
 **There … in prison:** “ Il est arrivé un coup de bâton. / C’est Polichinelle qui l’a donné au chat. / Ça ne lui a pas fait de bien, ça lui a fait du mal. / Alors une dame a mis Polichinelle en prison.”
 
-### 2.6.5
+### 2.6.5: Distractions
 
 #### Donougher: Diversions
 
@@ -110,7 +110,7 @@ Citing an ordinance of 1207 by ‘the legate Odo’, Hugo uses this formula in f
 
 **Monsieur le duc de Rohan:** Louis-François-Auguste de Rohan-Chabot (1788–1833), known as the prince de Léon before succeeding his father as duc de Rohan; one of the most elegant young men of the *grand monde*, he shocked his family and friends by entering the priesthood after the death of his young wife in 1815. He was named archbishop of Auch in 1828 and later cardinal archbishop of Besançon. He was the model for the elegant bishop of Agde in Stendhal’s *The Red and the Black*. Hugo knew the ducal archbishop in the 1820s.
 
-### 2.6.6
+### 2.6.6: The Little Convent
 
 #### Donougher: The Little Convent
 
@@ -138,7 +138,7 @@ Citing an ordinance of 1207 by ‘the legate Odo’, Hugo uses this formula in f
 
 **the Hospitaller order:** Several orders of nuns were described as *hospitalières*, that is, dedicated to the care of the sick.
 
-### 2.6.7
+### 2.6.7: Some Silhouettes of This Darkness
 
 #### Donougher: Some Figures in the Gloom
 
@@ -166,7 +166,7 @@ Citing an ordinance of 1207 by ‘the legate Odo’, Hugo uses this formula in f
 
 **the Isle of Bourbon … Roze:** Réunion, in the Indian Ocean, now an overseas department (Département d’Outre-Mer, DOM) of France. The chevalier Roze was Nicolas Roger Roze (1675–1733), who worked heroically to alleviate the conditions in Marseilles during the plague of 1720.
 
-### 2.6.8
+### 2.6.8: Post Corda Lapides
 
 #### Donougher: Post Corda Lapides
 
@@ -181,3 +181,63 @@ Citing an ordinance of 1207 by ‘the legate Odo’, Hugo uses this formula in f
 **Post corda lapides:** “After the hearts, the stones.”
 
 **_a jeu de paume_ … “eleven thousand devils”:** The *jeu de paume* (predecessor of the tennis court) was another landmark on the left bank near the convent of the rue Neuve-Sainte-Geneviève.
+
+### 2.6.9: A Century Under a Guimpe
+
+#### Donougher:
+
+**Fontevrault:** The huge medieval abbey complex at Fontevrault in Anjou, once housing four communities – of monks, repentant fallen women, lepers and nuns, ruled by the aristocratic women who predominated within the order – was the burial place of the Plantagenet kings Henry II (1133–89) and his sons Richard the Lionheart (1157–99) and John (1167–1216), and also of Henry’s wife Eleanor of Aquitaine (1124–1204).
+
+**Monsieur de Miromesnil:** Armand Thomas Hue (1723–96), Marquis de Miromesnil, Louis XVI’s minister of justice (1774–87).
+
+**Monseigneur St François made his profession of vows to … and so on and so forth, and now, mon père, it’s my turn to take advantage of you:** The nun’s quaintness of expression, using the verb *bailler*, ‘to give’ or ‘to pledge’, which has a chivalric resonance, becomes comic when she inadvertently uses the verb in a turn of phrase that has a decidedly colloquial ring to it, suggesting deception.
+
+**the distinction of inspiring Molière:** In Molière’s play of 1669, *Monsieur de Pourceaugnac*, the hapless provincial nobleman of the title, who has come to Paris to claim an unwilling bride, is the victim of a comic conspiracy to thwart him, and he ends up at the end of Act I being pursued by an apothecary, doctors and dancing swordsmen, all brandishing syringes.
+
+#### Rose/Madden: A Century Under a Wimple
+
+**the abbey of Fontevrault: sometimes Fontevraud,** an unusual abbey that was both a monastery and a nunnery. The Plantagenets supported the abbey, and several members of the family—Henry II, Eleanor of Aquitaine, and Richard the Lion-Hearted—are buried there. It was turned into a prison in 1804.
+
+**Monsieur de Miromesnil:** Armand-Thomas Hue de Miromesnil (1723–96), keeper of the seals for most of the reign of Louis XVI (1774–87).
+
+**the Bernardines were right up there:** a reference to the great age of libertinage in the eighteenth century; the implication is that Bernardine monks of aristocratic origin were as elegant and worldly as young officers of the musketeers. While the *abbé mondain* is a common literary and historical figure of the Enlightenment, it is unusual to see monks described in this way.
+
+**giving Molière an idea:** It is not clear what play Hugo might be referring to, but farces about lovers’ misunderstandings are not unusual in Molière’s work.
+
+### 2.6.10: Origin of the Perpetual Adoration
+
+#### Donougher:
+
+No footnotes
+
+#### Rose/Madden: Origins of Perpetual Adoration
+
+**In 1649, the Blessed Sacrament … with this pious aim:** Hugo seems to have invented the incident involving the desecration of the Eucharist, but he has once again used real people in his fictional creation. Catherine de Bar (1614–98), known as Mother Mechthilde du Saint-Sacrement, was a well known, influential abbess in the seventeenth century. She did in fact found a convent dedicated to the adoration of the Blessed Sacrament, in the rue du Bac, in 1653. The comtesse de Châteauvieux was a friend and supporter of Mother Mechthilde.
+
+### 2.6.11: End of the Petit-Picpus
+
+#### Donougher: The End of the Petit-Picpus
+
+**Volaverunt:** ‘They have flown.’
+
+**Julia Alpinula:** According to legend, Julia Alpinula was a priestess serving the goddess Aventia in Helvetia when the Roman emperor Galba died in AD 69. Loyal to Galba, her father refused to recognize his successor Vitellius, and when defeated by one of Vitellius’ ruthless generals, Aulus Caecina, he was executed despite his daughter’s pleas for mercy. She too was executed. Byron alludes to her story in *Childe Harold* (canto 3, stanza 66) and in a footnote gives a fuller version of the epitaph: *Julia Alpinula / Hic jaceo / Infelicis patris infelix proles / Deae Aventiae Sacerdos / Exorare patris necem non potui / Male mori in fatis illi erat / Vixi annos XXIII* (‘Julia Alpinula / here I lie / unhappy child of an unhappy father / priestess of the goddess Aventia / I could not avert my father’s death by entreaty / he was doomed to die by violence / I lived twenty-three years.’) Byron comments: ‘I know of no human composition so affecting as this; nor a history of deeper interest: these are names and actions which ought not to perish …’ Even in 1846 the epitaph was considered a forgery and there is no evidence that Julia Alpinula ever existed.
+
+**Hic jaceo. Vixi annos viginti et tres:** ‘Here I lie. I lived twenty-three years.’
+
+**Hortus conclusus:** The enclosed garden is a visual theme of devotional art identified with Mary the Mother of God, emerging in the fifteenth century and evoking her perpetual virginity. Its literary origins go back to the Song of Songs 4:12: ‘A garden enclosed is my sister, my spouse; a spring shut up, a fountain sealed.’
+
+**Voltaire … to mock the crucifix:** Voltaire was famously outraged by the barbaric torture and execution of a young nobleman, the Chevalier de la Barre, accused of mutilating a crucifix at Abbeville in 1765, a crime which was not proven and which should not in any case have warranted the death penalty. In his *Account of the Death of the Chevalier de la Barre* (1766) he protested against the exposure of crucifixes and religious images on public highways, rather than in the churches where in his view they more properly belonged. In 1761, Voltaire had taken up the case of the Huguenot merchant Jean Calas of Toulouse, who was found guilty of murdering his son in order to prevent or punish his conversion to Catholicism, for which Calas was tortured and executed. As a result of Voltaire’s involvement in the campaign to clear his name, the case was reviewed. The conviction was overturned and the family was paid compensation. In his *Treatise on Tolerance* (1763; ch. 23) Voltaire addresses a prayer to an all-embracing God: ‘que les petites différences entre les vêtements qui couvrent nos débiles corps, entre tous nos langages insuffisants, entre tous nos usages ridicules, entre toutes nos lois imparfaites, entre toutes nos opinions insensées, entre toutes nos conditions si disproportionnées à nos yeux, et si égales devant toi; que toutes ces petites nuances qui distinguent les atomes appelés *hommes* ne soient pas des signaux de haine et de persécution’ (‘that the slight differences in the garments that cover our frail bodies, in our insufficient languages, in our ridiculous customs, in our imperfect laws, in our unreasonable opinions, in all our conditions, so incomparable in our eyes and so equal before you; that all these small distinctions that differentiate the atoms called men be not signals for hatred and persecution’).
+
+**Voltaire … Sirven:** In 1762 a Huguenot couple named Sirven, accused of murdering their daughter because she wanted to become a Catholic, escaped to Switzerland to avoid arrest. They were sentenced to death in absentia, and all their assets confiscated. Voltaire took up their cause, and eventually their conviction was overthrown.
+
+#### Rose/Madden: End of the Petit-Picpus
+
+**Volaverunt:** “They have flown away.”
+
+**Julia Alpinula:** the inscription of a tombstone found in a Roman excavation in Switzerland: “Here I lie, I lived for twenty-three years.”
+
+**Joseph de Maistre … Voltaire:** Joseph de Maistre (see here) was as devoted to orthodox Catholicism as he was to absolute monarchy; Voltaire’s hostility to the Catholic Church was legendary.
+
+> **Maistre … Beccaria:** The conservative count Joseph de Maistre (1753–1821) was one of the leading politcal theorists of legitimacy and conservatism in post-Napoleonic France; Marquis Cesare di Beccaria (1738–94) was an Italian philosopher and politician whose treatise *On Crime and Punishment* (1764) advocated penal reform and the abolition of torture and the death penalty.
+
+**Calas:** *The affaire Calas* was a criminal trial in which a Protestant, Jean Calas, was convicted of the murder of his son in spite of inconclusive evidence. In Toulouse, where relations between Catholics and Protestants remained hostile well into the nineteenth century, Calas was suspected of having wanted to stop his son from converting to Catholicism. Calas was executed in 1762, but Voltaire was able to have his conviction posthumously overturned three years later.
