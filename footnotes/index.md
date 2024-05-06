@@ -184,7 +184,7 @@ Citing an ordinance of 1207 by ‘the legate Odo’, Hugo uses this formula in f
 
 ### 2.6.9: A Century Under a Guimpe
 
-#### Donougher:
+#### Donougher: A Century under the Veil
 
 **Fontevrault:** The huge medieval abbey complex at Fontevrault in Anjou, once housing four communities – of monks, repentant fallen women, lepers and nuns, ruled by the aristocratic women who predominated within the order – was the burial place of the Plantagenet kings Henry II (1133–89) and his sons Richard the Lionheart (1157–99) and John (1167–1216), and also of Henry’s wife Eleanor of Aquitaine (1124–1204).
 
@@ -206,7 +206,7 @@ Citing an ordinance of 1207 by ‘the legate Odo’, Hugo uses this formula in f
 
 ### 2.6.10: Origin of the Perpetual Adoration
 
-#### Donougher:
+#### Donougher: The Origin of Perpetual Adoration
 
 No footnotes
 
