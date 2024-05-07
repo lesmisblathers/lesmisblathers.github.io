@@ -26,8 +26,7 @@ title: "2.6.9: A Century Under a Guimp"
 
 Since we are dealing with the details of what was formerly the convent of the Petit Picpus, and have dared to open a window upon that secluded asylum, the reader will pardon us another little digression, foreign to the object of this book, but characteristic and useful, as it teaches us that the cloister itself has its original characters.
 
-There was in the Little Convent a centenarian who came from the
-<a href="#fontre" class="stretchsummary">Abbey of Fontevrault.</a>
+There was in the Little Convent a centenarian who came from the <a href="#fontre" class="stretchsummary">Abbey of Fontevrault.</a>
 <aside id="fontre" class="stretchdetail">
   sometimes Fontevraud, an unusual abbey that was both a monastery and a nunnery. The Plantagenets supported the abbey, and several members of the family—Henry II, Eleanor of Aquitaine, and Richard the Lion-Hearted—are buried there. It was turned into a prison in 1804.
 </aside> Before the revolution she had even been in society. She talked much of M. de Miromesnil, keeper of the seals under Louis XVI., and of the lady of a President Duplat whom she had known very well. It was her pleasure and her vanity to bring forward these names on all occasions. She told wonders of the Abbey of Fontevrault, that it was like a city, and that there were streets within the convent.
