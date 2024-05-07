@@ -2,6 +2,16 @@
 layout: page
 title: "2.6.9: A Century Under a Guimp"
 ---
+<p>Most scientists accept <a href="#global-warming-details" epub-type="stretchsummary">global warming</a>.</p>
+
+<aside id="global-warming-details" epub-type="stretchdetail">
+    <p>More details on global warming. <a epub-type="stretchsummary" href="#evenmore">More supporting evidence</a></p>
+
+    <ol id="evenmore" epub-type="stretchdetail">
+        <li>Greater degrees of CO<sub>2</sub></li>
+        <li>Evidence of warming <span epub-type="stretchsummary">trend</span><span epub type="stretchdetail"> It's the truth -- accept it!</span>.</li>
+    </ol>
+</aside>
 
 Since we are dealing with the details of what was formerly the convent of the Petit Picpus, and have dared to open a window upon that secluded asylum, the reader will pardon us another little digression, foreign to the object of this book, but characteristic and useful, as it teaches us that the cloister itself has its original characters.
 

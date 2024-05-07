@@ -6,7 +6,7 @@
   <body>
 
     {%- include header.html -%}
-
+    <script src="/_includes/stretchtext.js"></script>
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
@@ -14,13 +14,6 @@
     </main>
 
     {%- include footer.html -%}
-    <script
-      src="https://unpkg.com/littlefoot/dist/littlefoot.js"
-      type="application/javascript"
-    ></script>
-    <script type="application/javascript">
-      littlefoot.littlefoot() // Pass any littlefoot settings here.
-    </script>
   </body>
 
 </html>
