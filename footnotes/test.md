@@ -2,7 +2,6 @@
 layout: page
 title: "2.6.9: A Century Under a Guimp"
 ---
-<h1>Using epub-type</h1>
 <p>There once was a <span epub-type="stretchsummary">girl</span><span epub-type="stretchdetail"> Her name was <span epub-type="stretchsummary">Nancy</span><span epub-type="stretchdetail">That was my mother's name.</span> Some stuff at the end</span></p>
 <p>Most scientists accept <a href="#global-warming-details" epub-type="stretchsummary">global warming</a>.</p>
 <aside id="global-warming-details" epub-type="stretchdetail">
@@ -14,7 +13,6 @@ title: "2.6.9: A Century Under a Guimp"
 </aside>
 <p>This is material at the bottom of the page that will get stretched down.</p>
 
-<h1>Using CSS Class</h1>
 <p>There once was a <span class="stretchsummary">girl</span><span class="stretchdetail"> Her name was <span class="stretchsummary">Nancy</span><span class="stretchdetail">That was my mother's name.</span> Some stuff at the end</span></p>
 <p>Most scientists accept <a href="#global-warming-details3" class="stretchsummary">global warming</a>.</p>
 <aside id="global-warming-details3" class="stretchdetail">
