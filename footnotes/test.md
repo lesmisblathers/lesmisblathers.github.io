@@ -2,6 +2,10 @@
 layout: page
 title: "2.6.9: A Century Under a Guimp"
 ---
+<details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
 
 Since we are dealing with the details of what was formerly the convent of the Petit Picpus, and have dared to open a window upon that secluded asylum, the reader will pardon us another little digression, foreign to the object of this book, but characteristic and useful, as it teaches us that the cloister itself has its original characters.
 
