@@ -196,11 +196,11 @@ Citing an ordinance of 1207 by ‘the legate Odo’, Hugo uses this formula in f
 
 #### Rose/Madden: A Century Under a Wimple
 
-**the abbey of Fontevrault: sometimes Fontevraud,** an unusual abbey that was both a monastery and a nunnery. The Plantagenets supported the abbey, and several members of the family—Henry II, Eleanor of Aquitaine, and Richard the Lion-Hearted—are buried there. It was turned into a prison in 1804.
+**the abbey of Fontevrault:** sometimes Fontevraud, an unusual abbey that was both a monastery and a nunnery. The Plantagenets supported the abbey, and several members of the family—Henry II, Eleanor of Aquitaine, and Richard the Lion-Hearted—are buried there. It was turned into a prison in 1804.
 
 **Monsieur de Miromesnil:** Armand-Thomas Hue de Miromesnil (1723–96), keeper of the seals for most of the reign of Louis XVI (1774–87).
 
-**the Bernardines were right up there:** a reference to the great age of libertinage in the eighteenth century; the implication is that Bernardine monks of aristocratic origin were as elegant and worldly as young officers of the musketeers. While the *abbé mondain* is a common literary and historical figure of the Enlightenment, it is unusual to see monks described in this way.
+**the Bernardines were right up there with the Musketeers:** a reference to the great age of libertinage in the eighteenth century; the implication is that Bernardine monks of aristocratic origin were as elegant and worldly as young officers of the musketeers. While the *abbé mondain* is a common literary and historical figure of the Enlightenment, it is unusual to see monks described in this way.
 
 **giving Molière an idea:** It is not clear what play Hugo might be referring to, but farces about lovers’ misunderstandings are not unusual in Molière’s work.
 
