@@ -26,11 +26,7 @@ title: "2.6.9: A Century Under a Guimp"
 
 Since we are dealing with the details of what was formerly the convent of the Petit Picpus, and have dared to open a window upon that secluded asylum, the reader will pardon us another little digression, foreign to the object of this book, but characteristic and useful, as it teaches us that the cloister itself has its original characters.
 
-There was in the Little Convent a centenarian who came from the
-<details>
-<summary>Abbey of Fontevrault</summary>
-  <p>The huge medieval abbey complex at Fontevrault in Anjou, once housing four communities – of monks, repentant fallen women, lepers and nuns, ruled by the aristocratic women who predominated within the order – was the burial place of the Plantagenet kings Henry II (1133–89) and his sons Richard the Lionheart (1157–99) and John (1167–1216), and also of Henry’s wife Eleanor of Aquitaine (1124–1204).</p>
-</details>. Before the revolution she had even been in society. She talked much of M. de Miromesnil, keeper of the seals under Louis XVI., and of the lady of a President Duplat whom she had known very well. It was her pleasure and her vanity to bring forward these names on all occasions. She told wonders of the Abbey of Fontevrault, that it was like a city, and that there were streets within the convent.
+There was in the Little Convent a centenarian who came from the <a href="#fontre" class="stretchsummary">Abbey of Fontevrault</a>. Before the revolution she had even been in society. She talked much of M. de Miromesnil, keeper of the seals under Louis XVI., and of the lady of a President Duplat whom she had known very well. It was her pleasure and her vanity to bring forward these names on all occasions. She told wonders of the Abbey of Fontevrault, that it was like a city, and that there were streets within the convent.
 
 She spoke with a Picardy accent which delighted the pupils. Every year she solemnly renewed her vows, and, at the moment of taking the oath, she would say to the priest: Monseigneur St. Francis gave it to Monseigneur St. Julian, Monseigneur St. Julian gave it to Monseigneur St. Eusebius, Monseigneur St. Eusebius gave it to Monseigneur St. Procopius, etc., etc.; so I give it to you, my father[^D3]. And the pupils would laugh, not in their sleeves, but in their veils, joyous little stifled laughs which made the mothers frown.
 
@@ -71,7 +67,9 @@ This good old woman would receive no visit from the outside world,
 
 
 #### Rose/Madden: A Century Under a Wimple
-
+<aside id="fontre" class="stretchdetail">
+  **the abbey of Fontevrault:** sometimes Fontevraud, an unusual abbey that was both a monastery and a nunnery. The Plantagenets supported the abbey, and several members of the family—Henry II, Eleanor of Aquitaine, and Richard the Lion-Hearted—are buried there. It was turned into a prison in 1804.
+</aside>
 **the abbey of Fontevrault:** sometimes Fontevraud, an unusual abbey that was both a monastery and a nunnery. The Plantagenets supported the abbey, and several members of the family—Henry II, Eleanor of Aquitaine, and Richard the Lion-Hearted—are buried there. It was turned into a prison in 1804.
 
 **Monsieur de Miromesnil:** Armand-Thomas Hue de Miromesnil (1723–96), keeper of the seals for most of the reign of Louis XVI (1774–87).
