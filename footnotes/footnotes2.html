@@ -1,0 +1,171 @@
+<html>
+    <head>
+
+        <style>
+                
+
+            p button {
+                font-family: inherit;
+                font-size: inherit;
+
+                display: inline;
+                background-color: none;
+                border: none;
+                margin:0;
+                padding:0;
+                cursor: pointer;
+
+                font-weight: bold;
+                background-color: pink;
+            }
+    
+            p:has(+ details) { display: inline; }
+
+        details { display: inline;  
+        background-color:aquamarine}
+        
+        details[open],p:has(+ details[open])  {
+            display:inline;
+        }
+        summary { cursor: pointer; display: inline; font-weight:bold; background-color: pink;}
+ 
+
+        aside {
+            background-color: aquamarine;
+        }
+            </style>
+    
+    </head>
+    <body>
+
+        <h1>Footnotes proposals</h1>
+
+        <p>Good evening! Not tested with an actual screen-reader or with input from anyone who uses assistive tech</p>
+
+        <h2>Goals</h2>
+
+        <ul>
+            <li>footnotes must be clickable by keyboard users (using TAB/Shift+TAB and ENTER)</li>
+            <li>Hidden content must appear and disappear correctly for screen-readers</li>
+            <li>Footnotes behaviour must be elegant & inoffensive to sighted people </li>
+        </ul>
+
+        <h2>Option 1</h2>
+        <p>There was in the Little Convent a centenarian who came from the <button id="a">Abbey of Fontevrault</button>. Before the revolution she had even been in society. She talked much of <button id="b">M. de Miromesnil, keeper of the seals under Louis XVI.,</button> and of the lady of a President Duplat whom she had known very well. It was her pleasure and her vanity to bring forward these names on all occasions. She told wonders of the Abbey of Fontevrault, that it was like a city, and that there were streets within the convent.</p>
+    
+
+        <aside hidden id="ab"> <h5>D:</h5> <p>The huge medieval abbey complex at Fontevrault in Anjou, once housing four communities – of monks, repentant fallen women, lepers and nuns, ruled by the aristocratic women who predominated within the order – was the burial place of the Plantagenet kings Henry II (1133–89) and his sons Richard the Lionheart (1157–99) and John (1167–1216), and also of Henry’s wife Eleanor of Aquitaine (1124–1204).</p>
+            <h4>R&amp;M</h4>: sometimes Fontevraud, an unusual abbey that was both a monastery and a nunnery. The Plantagenets supported the abbey, and several members of the family—Henry II, Eleanor of Aquitaine, and Richard the Lion-Hearted—are buried there. It was turned into a prison in 1804.</aside>
+
+            <aside hidden  id="bb"><h5>D:</h5> Armand Thomas Hue (1723–96), Marquis de Miromesnil, Louis XVI’s minister of justice (1774–87).<br /> <h5>R&amp;M</h5>: Armand-Thomas Hue de Miromesnil (1723–96), keeper of the seals for most of the reign of Louis XVI (1774–87).<br /></aside> 
+
+        <p>She spoke with a Picardy accent which delighted the pupils. Every year she solemnly renewed her vows, and, at the moment of taking the oath, she would say to the priest: Monseigneur St. Francis gave it to Monseigneur St. Julian, Monseigneur St. Julian gave it to Monseigneur St. Eusebius, Monseigneur St. Eusebius gave it to Monseigneur St. Procopius, etc., etc.; <button id="x">so I give it to you, my father.</button> and additional text for good measure. And the pupils would laugh, not in their sleeves, but in their veils, joyous little stifled laughs which made the mothers frown.</p> 
+        <aside hidden  id="xb">D translates as “… and now, mon père, it’s my turn to take advantage of you.” <h5>D:</h5> The nun’s quaintness of expression, using the verb <em>bailler</em>, ‘to give’ or ‘to pledge’, which has a chivalric resonance, becomes comic when she inadvertently uses the verb in a turn of phrase that has a decidedly colloquial ring to it, suggesting deception.</aside> 
+
+        <section>
+            <h3>Comments</h3>
+        
+            <ul>
+                <li>Uses a button & some javascript</li>
+                <li>You can tab through the footnote links on keyboard, and open and close them on keyboard</li>
+                <li>Footnotes will appear and disappear from the DOM when clicked, presumably meaning they are appearing and disappearing for screen reader users</li>
+                <li>An aside is an appropriate semantic element for a footnote</li>
+                <li>Can be next to footnote or elsewhere</li>
+                <li>Footnotes cant be expanded in Reader Mode, but the text is clean to read</li>
+                <li>I think I've added accessibility features but idk for sure</li>
+                <li>You have to come up with a Strategy for choosing an id for every footnote (if you want the footnotes to be linked to from other places); OR, automate them (but then they might change in future). I have them automated for now.</li>
+                <li>I've not set the footnotes to automatically display for people with no javascript, as I don't think that's behaviour you want in this case</li>
+            </ul>
+        
+        </section>
+
+        <h2>Option 2</h2>
+
+        <p>There was in the Little Convent a centenarian who came from the <details> <summary>Abbey of Fontevrault</summary>.  <h5>DETAIL EXAMPLE:</h5> The huge medieval abbey complex at Fontevrault in Anjou, once housing four communities – of monks, repentant fallen women, lepers and nuns, ruled by the aristocratic women who predominated within the order – was the burial place of the Plantagenet kings Henry II (1133–89) and his sons Richard the Lionheart (1157–99) and John (1167–1216), and also of Henry’s wife Eleanor of Aquitaine (1124–1204).
+            <h4>R&amp;M</h4>: sometimes Fontevraud, an unusual abbey that was both a monastery and a nunnery. The Plantagenets supported the abbey, and several members of the family—Henry II, Eleanor of Aquitaine, and Richard the Lion-Hearted—are buried there. It was turned into a prison in 1804.</details>Before the revolution she had even been in society. She talked much of <details><summary>M. de Miromesnil, keeper of the seals under Louis XVI.,</summary><h5>D:</h5> Armand Thomas Hue (1723–96), Marquis de Miromesnil, Louis XVI’s minister of justice (1774–87).<br /> <h5>R&amp;M</h5>: Armand-Thomas Hue de Miromesnil (1723–96), keeper of the seals for most of the reign of Louis XVI (1774–87).<br /></details> and of the lady of a President Duplat whom she had known very well. It was her pleasure and her vanity to bring forward these names on all occasions. She told wonders of the Abbey of Fontevrault, that it was like a city, and that there were streets within the convent.</p>
+
+            <p>She spoke with a Picardy accent which delighted the pupils. Every year she solemnly renewed her vows, and, at the moment of taking the oath, she would say to the priest: Monseigneur St. Francis gave it to Monseigneur St. Julian, Monseigneur St. Julian gave it to Monseigneur St. Eusebius, Monseigneur St. Eusebius gave it to Monseigneur St. Procopius, etc., etc.; <details><summary>so I give it to you, my father.</summary>D translates as “… and now, mon père, it’s my turn to take advantage of you.” <h5>D:</h5> The nun’s quaintness of expression, using the verb <em>bailler</em>, ‘to give’ or ‘to pledge’, which has a chivalric resonance, becomes comic when she inadvertently uses the verb in a turn of phrase that has a decidedly colloquial ring to it, suggesting deception.</details> and additional text for good measure. And the pupils would laugh, not in their sleeves, but in their veils, joyous little stifled laughs which made the mothers frown.</p> 
+
+            <h3>Comments</h3>
+
+            <ul>
+                <li>uses details/summary</li>
+                <li>pretty chuffed somebody (not me!) solved the details problem! I cannot explain how this code works</li>
+                <li>No javascript: some people (privacy weirdos[affectionate]) have it turned off</li>
+                <li>Natively <a href=https://www.hassellinclusion.com/blog/accessible-accordions-part-2-using-details-summary>works well</a> for accessibility </li>
+                <li>For sighted people, text hops about more than one might like - unattractive</li>
+                <li>details is also an appropriate semantic element for a footnote</li>
+                <li>Must be directly next to the footnote</li>
+                <li>Footnotes can be expanded in reader mode, but lie outside of paragraphs unattractively (as there is no CSS, therefore no tricks, in Reader Mode) </li>
+                <li>general hint: You can style details one way, and details[open] another way</li>
+                <li>Easier to mark up (but not by much) as doesn't rely on ids</li>
+            </ul>
+
+            <h2>Some sources</h2>
+
+            <ul>
+                <li><a href=https://www.scottohara.me/blog/2017/10/25/accordion-release.html>Scott OHara:</a> an Accessible Accordion</li>
+                <li><a href=https://github.com/scottaohara/aria_disclosure_widget/blob/main/index.js>Disclosure widget</a> - option 3, designed by an accessibility guy but would need adapting</li>
+                <li><a href=https://www.sarasoueidan.com/blog/accordion-markup>Accordion Markup</a></li>
+                <li><a href=https://www.hassellinclusion.com/blog/accessible-accordion-pattern>Requirements for an accessible accordion</a></li>
+                <li><a href=https://www.w3.org/WAI/ARIA/apg/patterns/accordion>W3 accordion rules</a></li>
+                <li><a href=https://www.w3.org/WAI/ARIA/apg/patterns/disclosure>W3 disclosure rules</a></li>
+                <li><a href=https://www.aditus.io/patterns/accordion>ADITUS</a> - accordions </li>
+            </ul>
+    </body>
+</html>
+
+<script>
+
+const buttons = document.querySelectorAll("button")
+const footnotes = document.querySelectorAll("aside")
+var num = 0
+var tempnum = 0
+var footnum = 0
+
+for (var i = 0; i < buttons.length; i++){
+    num += 1;
+    buttons[i].setAttribute("id", num)
+}
+
+
+for (var i = 0; i < footnotes.length; i++){
+    tempnum += 1;
+    footnum = tempnum + "b"
+    footnotes[i].setAttribute("id", footnum)
+}
+
+
+
+buttons.forEach((footnote) => {
+    footnote.addEventListener("click", function(){
+    
+        var id = event.srcElement.id;
+        console.log('Clicked footnote: ' + id);
+
+        var aside = id + "b"
+        console.log(aside)
+
+        if (document.getElementById(aside).hasAttribute("hidden")) {
+            document.getElementById(aside).removeAttribute("hidden");
+            document.getElementById(id).setAttribute("aria-expanded", "true");
+            
+        } else {
+            document.getElementById(aside).setAttribute("hidden", "true");
+            document.getElementById(id).setAttribute("aria-expanded", "false");
+        }
+/*
+        if (document.getElementById(aside).style.display === "block") {
+            document.getElementById(aside).style.display = "none";
+        } else {
+            document.getElementById(aside).style.display = "block";
+        }*/
+    })
+
+}
+//should it be div, not aside?
+)
+
+    </script>
+    
+    
