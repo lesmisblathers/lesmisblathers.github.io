@@ -319,3 +319,106 @@ Joseph de Maistre (see here) was as devoted to orthodox Catholicism as he was to
 
 ##### Calas:
 *The affaire Calas* was a criminal trial in which a Protestant, Jean Calas, was convicted of the murder of his son in spite of inconclusive evidence. In Toulouse, where relations between Catholics and Protestants remained hostile well into the nineteenth century, Calas was suspected of having wanted to stop his son from converting to Catholicism. Calas was executed in 1762, but Voltaire was able to have his conviction posthumously overturned three years later.
+
+## Book 7: Parenthesis
+
+### 2.7.1: The Convent As an Abstract Idea
+
+#### Donougher: The Convent as Abstract Idea
+
+No footnotes
+
+#### Rose/Madden: The Convent as an Abstract Idea
+
+##### A Parenthesis:
+Yves Gohin notes that Hugo’s Belgian publisher, Lacroix, asked him to delete this section from the novel, which was growing to an alarming length. Hugo at first agreed, then protested, “I cannot introduce a convent into *Les Misérables* only to praise it. There must be some reservations.”
+
+##### the infinite:
+The idea of the infinite, *l’infini*—the limitless nature of the sky, the ocean, God, love, hate, the natural world—fascinated the Romantics.
+
+##### a hideous side … and a sublime side:
+an apparent allusion to Hugo’s theory of the *grotesque*, his fascination with the duality of *laideur* (ugliness) and *beauté* in a single person, feeling, or entity. Hugo elaborated on his idea of the *grotesque* in the preface to his play *Cromwell*; the play is in fact remembered because of the preface. The best-known example is probably Quasimodo of *Notre-Dame de Paris*, whose hideous physical appearance hides the sublime and infinite love he bears for Esmeralda. see [next chapter], where the image of the bleeding Christ is described as “hideous and magnificent.”
+
+### 2.7.2: The Convent As an Historical Fact
+
+#### Donougher: The Convent as Historical Fact
+
+##### kizlar-agha:
+Turkish: Literally, ‘lord of the girls’, the chief black eunuch of the Ottoman sultan’s harem.
+
+##### in pace:
+The Latin ‘in peace’, used to refer to a monastic prison cell.
+
+##### that poor Holofernes:
+As related in the Book of Judith, Holofernes was the Assyrian general who laid siege to the Jewish city of Bethulia and was beheaded in his sleep by a woman called Judith; it was a popular theme of the Renaissance and Baroque periods, treated by Michelangelo (in the Sistine Chapel) and Caravaggio, among many others.
+
+#### Rose/Madden: The Convent as Historical Fact
+
+##### what mistletoe is to oak:
+Mistletoe is a parasite on oak.
+
+##### seraphim:
+the highest order of angels, who live in the presence of God.
+
+##### a whiff of the East:
+French and European writers of the Romantic era, indeed the entire nineteenth century, were fascinated by the “Orient.” The references in this paragraph to the aga khan of heaven, the seraglio (the harem), the odalisque, and the eunuch are all manifestations of this exotic imagining of the East.
+
+##### aga khan of heaven:
+The aga khan was the ruler of the Ismalian sect of Muslims; here the reference is more vaguely meant to indicate a Muslim equivalent of an archbishop.
+
+##### seraglio:
+In the harem, or seraglio, the odalisques (concubines) of the sultan were guarded by eunuchs.
+
+##### The *in pace* replaced the leather bag:
+The *in pace* is a cell used as a means of discipline in convents. The “leather bag” refers to the legendary means of execution favoured by Ottoman sultans, in this case for adulterous wives or insolent concubines: The victim was sewn into a leather bag and thrown, alive, into the waters of the Bosporus.
+
+##### Jean-Jacques:
+Rousseau’s last name was not necessary, especially for those who saw him as a virtual prophet, as did many Romantics.
+
+##### Diderot:
+Denis Diderot (see here), with Voltaire and Rousseau, is considered the greatest of the *philosophes* He is best known for directing and editing the *Encyclopédie* and writing novels such as *Jacques the Fatalist and His Master*, *Rameau’s Nephew*, and the scandalous, posthumously published *The Nun*.
+
+##### Voltaire on Calas, Labarre, and Sirven:
+As in the *affaire Calas* (see here), Jacques de Labarre and the Protestant Sirvens were convicted of crimes before Voltaire took up their cause. At the age of sixteen, the chevalier de Labarre (1746–66) was accused of blasphemy for the desecration of a statue of the Virgin Mary. He was condemned to have his hand cut off and his tongue cut out before being burned at the stake; on appeal the sentence was reduced to simple decapitation. Voltaire (among others) fought in vain to stop his execution, which was the last for a charge of blasphemy under the ancien régime. The Sirvens, husband and wife, were accused of murdering their daughter in order to prevent her from converting to Catholicism. In this case, the couple fled to Switzerland before being arrested and were condemned to death in absentia. Voltaire succeeded in his efforts to have their sentence overturned.
+
+##### Tacitus, too … “that poor Holofernes”:
+The works of the Roman senator and historian Tacitus (ca. 56–117) chronicled the lives of five Caesars, including Nero. In the book of Judith, in the Catholic Old Testament (excluded by the Protestant and Jewish canons), Holofernes was the Assyrian general sent by Nebuchadnezzar to subdue the rebellious Jerusalem. As his armies starved the city by siege, the beautiful and pious widow Judith made her way to his tent, seduced him, and gave him wine until he fell asleep, at which point she cut off his head, which she carried back to Jerusalem in triumph. The story of Judith and Holofernes inspired painters from Rembrandt to Klimt and several operas.
+
+##### *oubliettes*:
+these cells evocatively derive their name from the French verb *oublier*, “to forget.”
+
+### 2.7.3: On What Conditions One Can Respect the Past
+
+#### Donougher: On What Conditions We Can Respect the Past
+
+#### Rose/Madden: On What Conditions We can Respect The Past
+
+### 2.7.4: The Convent From the Point of View of Principles
+
+#### Donougher: The Convent from the Viewpoint of Principles
+
+#### Rose/Madden: The Convent from the Point of View of Principles
+
+### 2.7.5: Prayer
+
+#### Donougher: Prayer
+
+#### Rose/Madden: Prayer
+
+### 2.7.6: The Absolute Goodness of Prayer
+
+#### Donougher: The Absolute Goodness of Prayer
+
+#### Rose/Madden: Absolute Goodness of Prayer
+
+### 2.7.7: Precautions to Be Observed in Blame
+
+#### Donougher: Take Care in Censuring
+
+#### Rose/Madden: Precautions to Take in Laying Blame
+
+### 2.7.8: Faith, Law
+
+#### Donougher: Faith Rules
+
+#### Rose/Madden: Faith, Law
