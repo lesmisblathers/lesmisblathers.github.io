@@ -354,25 +354,25 @@ As related in the Book of Judith, Holofernes was the Assyrian general who laid s
 
 #### Rose/Madden: The Convent as Historical Fact
 
-##### what mistletoe is to oak:
+##### what mistletoe is to oak:
 Mistletoe is a parasite on oak.
 
-##### seraphim:
+##### seraphim:
 the highest order of angels, who live in the presence of God.
 
-##### a whiff of the East:
+##### a whiff of the East:
 French and European writers of the Romantic era, indeed the entire nineteenth century, were fascinated by the “Orient.” The references in this paragraph to the aga khan of heaven, the seraglio (the harem), the odalisque, and the eunuch are all manifestations of this exotic imagining of the East.
 
-##### aga khan of heaven:
+##### aga khan of heaven:
 The aga khan was the ruler of the Ismalian sect of Muslims; here the reference is more vaguely meant to indicate a Muslim equivalent of an archbishop.
 
-##### seraglio:
+##### seraglio:
 In the harem, or seraglio, the odalisques (concubines) of the sultan were guarded by eunuchs.
 
 ##### The *in pace* replaced the leather bag:
 The *in pace* is a cell used as a means of discipline in convents. The “leather bag” refers to the legendary means of execution favoured by Ottoman sultans, in this case for adulterous wives or insolent concubines: The victim was sewn into a leather bag and thrown, alive, into the waters of the Bosporus.
 
-##### Jean-Jacques:
+##### Jean-Jacques:
 Rousseau’s last name was not necessary, especially for those who saw him as a virtual prophet, as did many Romantics.
 
 ##### Diderot:
@@ -384,7 +384,7 @@ As in the *affaire Calas* (see here), Jacques de Labarre and the Protestant Sirv
 ##### Tacitus, too … “that poor Holofernes”:
 The works of the Roman senator and historian Tacitus (ca. 56–117) chronicled the lives of five Caesars, including Nero. In the book of Judith, in the Catholic Old Testament (excluded by the Protestant and Jewish canons), Holofernes was the Assyrian general sent by Nebuchadnezzar to subdue the rebellious Jerusalem. As his armies starved the city by siege, the beautiful and pious widow Judith made her way to his tent, seduced him, and gave him wine until he fell asleep, at which point she cut off his head, which she carried back to Jerusalem in triumph. The story of Judith and Holofernes inspired painters from Rembrandt to Klimt and several operas.
 
-##### *oubliettes*:
+##### *oubliettes*:
 these cells evocatively derive their name from the French verb *oublier*, “to forget.”
 
 ### 2.7.3: On What Conditions One Can Respect the Past
