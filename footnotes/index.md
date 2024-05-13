@@ -337,7 +337,7 @@ Yves Gohin notes that Hugo’s Belgian publisher, Lacroix, asked him to delete t
 The idea of the infinite, *l’infini*—the limitless nature of the sky, the ocean, God, love, hate, the natural world—fascinated the Romantics.
 
 ##### a hideous side … and a sublime side:
-an apparent allusion to Hugo’s theory of the *grotesque*, his fascination with the duality of *laideur* (ugliness) and *beauté* in a single person, feeling, or entity. Hugo elaborated on his idea of the *grotesque* in the preface to his play *Cromwell*; the play is in fact remembered because of the preface. The best-known example is probably Quasimodo of *Notre-Dame de Paris*, whose hideous physical appearance hides the sublime and infinite love he bears for Esmeralda. see [next chapter], where the image of the bleeding Christ is described as “hideous and magnificent.”
+an apparent allusion to Hugo’s theory of the *grotesque*, his fascination with the duality of *laideur* (ugliness) and *beauté* in a single person, feeling, or entity. Hugo elaborated on his idea of the *grotesque* in the preface to his play *Cromwell*; the play is in fact remembered because of the preface. The best-known example is probably Quasimodo of *Notre-Dame de Paris*, whose hideous physical appearance hides the sublime and infinite love he bears for Esmeralda. see [2.7.2], where the image of the bleeding Christ is described as “hideous and magnificent.”
 
 ### 2.7.2: The Convent As an Historical Fact
 
@@ -378,6 +378,8 @@ Rousseau’s last name was not necessary, especially for those who saw him as a 
 ##### Diderot:
 Denis Diderot (see here), with Voltaire and Rousseau, is considered the greatest of the *philosophes* He is best known for directing and editing the *Encyclopédie* and writing novels such as *Jacques the Fatalist and His Master*, *Rameau’s Nephew*, and the scandalous, posthumously published *The Nun*.
 
+> Denis Diderot (1713–84), along with Voltaire and Rousseau one of the greatest figures of the French Enlightenment. An archrationalist and atheist, Diderot was best known in his time as the co-editor (with d’Alembert) of the *Encyclopédie*, the great compendium of Enlightenment rationalism; he was also an essayist, playwright, and novelist. The senator’s opinions on Diderot reveal him to be a man of dangerously little knowledge.
+
 ##### Voltaire on Calas, Labarre, and Sirven:
 As in the [*affaire Calas*](#calas), Jacques de Labarre and the Protestant Sirvens were convicted of crimes before Voltaire took up their cause. At the age of sixteen, the chevalier de Labarre (1746–66) was accused of blasphemy for the desecration of a statue of the Virgin Mary. He was condemned to have his hand cut off and his tongue cut out before being burned at the stake; on appeal the sentence was reduced to simple decapitation. Voltaire (among others) fought in vain to stop his execution, which was the last for a charge of blasphemy under the ancien régime. The Sirvens, husband and wife, were accused of murdering their daughter in order to prevent her from converting to Catholicism. In this case, the couple fled to Switzerland before being arrested and were condemned to death in absentia. Voltaire succeeded in his efforts to have their sentence overturned.
 
@@ -393,17 +395,34 @@ these cells evocatively derive their name from the French verb *oublier*, “to 
 
 #### Rose/Madden: On What Conditions We can Respect The Past
 
+##### put the handles back on the aspersoria and the sabres:
+Aspersoria are vessels made to carry holy water. Paired with sabres, the image suggests forced conversions to Christianity in early medieval Europe.
+
+##### Haruspices:
+Haruspices were Etruscan, and later Roman, priests who specialized in reading the entrails of sacrificed animals.
+
+##### *Bos cretatus*:
+a reference to the satires of Juvenal, in which the author mocks the superficial religious practices of his contemporaries. If a white bull was required for sacrifice but unavailable, a bull of some other colour was simply whitened with chalk.
+
+##### the city of 1789, of 1830, of 1848:
+the French revolutions that toppled, respectively, Louis XVI and the ancien régime, Charles X and the Charter of 1815, and finally Louis-Philippe and the July Monarchy.
+
+##### fakirs, bonzes … talapoins, and dervishes:
+Muslim, Hindu, and Eastern Orthodox clerics are lumped together in a scornful comparison to those living in Catholic cloisters.
+
 ### 2.7.4: The Convent From the Point of View of Principles
 
 #### Donougher: The Convent from the Viewpoint of Principles
 
 #### Rose/Madden: The Convent from the Point of View of Principles
+No footnotes
 
 ### 2.7.5: Prayer
 
 #### Donougher: Prayer
 
 #### Rose/Madden: Prayer
+No footnotes
 
 ### 2.7.6: The Absolute Goodness of Prayer
 
@@ -411,14 +430,40 @@ these cells evocatively derive their name from the French verb *oublier*, “to 
 
 #### Rose/Madden: Absolute Goodness of Prayer
 
+##### Marcus Aurelius: (121–180)
+Roman emperor (from 161 until his death) and stoic philosopher, author of the *Meditations*
+
+##### lyceum:
+Aristotle’s school in Athens. The French word lycée, secondary school, is derived from “lyceum.”
+
 ### 2.7.7: Precautions to Be Observed in Blame
 
 #### Donougher: Take Care in Censuring
 
 #### Rose/Madden: Precautions to Take in Laying Blame
 
+##### Caiaphas as bishop … Tiberius as emperor:
+Caiaphus was the high priest of Jerusalem at the time of Christ’s trial; he continued to persecute early Christians after the Crucifixion. Draco, the Athenian ruler (seventh century B.C.E.), is remembered as the creator of unreasonably harsh laws. The adjective draconian derives from his name. Trimalcion was from the *Satyricon* of the first-century Roman author Petronius; Trimalcion, or Trimalchio, is a pompous nouveau riche Roman who flaunts his wealth and his shallow understanding of literature and philosophy. Trimalcion as “lawmaker” or legislator recalls the senator of Part One, and would have had great resonance for readers of France under the July Monarchy and the Second Empire. Tiberius (42 B.C.E.–A.D. 37) succeeded Caesar Augustus as Roman emperor (14–37). His reign was marked by the execution of political enemies and legendary debauchery on the island of Capri.
+
+##### Cenobitism:
+i.e., those living in cloistered religious communities.
+
 ### 2.7.8: Faith, Law
 
 #### Donougher: Faith Rules
 
 #### Rose/Madden: Faith, Law
+
+##### Thales:
+Thales of Miletus (ca. 624–546 B.C.E.); a pre-Socratic philosopher regarded as the founder of the Greek schools of philosophy and science.
+
+##### The abbé of La Trappe … Horace’s lines with him:
+the abbey of La Trappe became famous for its strict of observance of the Cistercian rule. A philosophical fatalism unites the austere monk of La Trappe with the poet of first-century Rome.
+
+##### Leibniz at prayer … Voltaire at worship:
+The German mathematician and philosopher Gottfried Leibniz (1646–1716) was a rationalist and firm believer in God. In *Candide* (1756), Voltaire made Dr. Pangloss the satirically reductive voice of Leibniz’s philosophical optimism in “this the best of all possible worlds.” The deist Voltaire believed in the “watchmaker god” who had created a brilliant machine but was indifferent to its operations, including prayer.
+
+##### *Deo erexit Voltaire*:
+“A monument to God, erected by Voltaire,” the inscription on the church Voltaire had built in the village of Ferney (see here). Whatever his hostility to politicized religious institutions such as the Catholic Church (the object of his legendary motto *“Écrasez l’Infame,”* “Crush the Infamous One”), he believed that religion was necessary to provide moral guidance to the masses. He also promoted such cottage industries as pottery and watchmaking in Ferney, as work was also necessary to social order. It is worth noting that Voltaire’s church is dedicated to God, not to any religion or saint.
+
+> the patriarch of Ferney: Voltaire spent much of the last half of his life on an estate at Ferney, near the Swiss border, in case prudence dictated an absence from French territory.
