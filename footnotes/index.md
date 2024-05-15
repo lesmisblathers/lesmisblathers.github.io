@@ -436,7 +436,7 @@ No footnotes
 
 #### Donougher: The Absolute Goodness of Prayer
 
-##### metaphysical school of the north:
+##### metaphysical school of the north:
 For the German philosopher Arthur Schopenhauer (1788–1860), author of *The World as Will* and *Representation* (1819), the driving energy is Will; for Descartes it is Force.
 
 ##### a Lyceum:
