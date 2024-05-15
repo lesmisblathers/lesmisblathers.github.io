@@ -393,6 +393,12 @@ these cells evocatively derive their name from the French verb *oublier*, “to 
 
 #### Donougher: On What Conditions We Can Respect the Past
 
+##### a black heifer:
+‘White animals were offered to heavenly deities, black to those of the underworld … So at Rome, where the importance and difficulty of getting a white victim for Jupiter led to whitening with pipe clay (Juvenal, Satire 10, line 65, *cretatum bovem*)’, *A Dictionary of Greek and Roman Antiquities*, ed. W. Smith, W. Wayte and G. E. Marindin, London: J. Murray, 1890.
+
+##### *Bos cretatus*:
+Latin: ‘Chalk-whitened ox’, for sacrificial purposes.
+
 #### Rose/Madden: On What Conditions We can Respect The Past
 
 ##### put the handles back on the aspersoria and the sabres:
@@ -413,6 +419,7 @@ Muslim, Hindu, and Eastern Orthodox clerics are lumped together in a scornful co
 ### 2.7.4: The Convent From the Point of View of Principles
 
 #### Donougher: The Convent from the Viewpoint of Principles
+No footnotes
 
 #### Rose/Madden: The Convent from the Point of View of Principles
 No footnotes
@@ -420,6 +427,7 @@ No footnotes
 ### 2.7.5: Prayer
 
 #### Donougher: Prayer
+No footnotes
 
 #### Rose/Madden: Prayer
 No footnotes
@@ -427,6 +435,12 @@ No footnotes
 ### 2.7.6: The Absolute Goodness of Prayer
 
 #### Donougher: The Absolute Goodness of Prayer
+
+##### metaphysical school of the north:
+For the German philosopher Arthur Schopenhauer (1788–1860), author of *The World as Will* and *Representation* (1819), the driving energy is Will; for Descartes it is Force.
+
+##### a Lyceum:
+The gymnasium located beyond the walls of ancient Athens, mentioned in Plato’s dialogues as a place where Socrates taught, and the site of a later philosophical school founded by Aristotle.
 
 #### Rose/Madden: Absolute Goodness of Prayer
 
@@ -440,6 +454,9 @@ Aristotle’s school in Athens. The French word lycée, secondary school, is der
 
 #### Donougher: Take Care in Censuring
 
+##### Caiaphas … Draco … Trimalchio … Tiberius:
+Caiaphas was the Jewish high priest who presided over the court that sought evidence against Christ in order to put him to death (Matthew 26:57–68). He appears in medieval passion plays dressed as a bishop. Draco, the Athenian legislator of the seventh century BC, established a legal code that was considered particularly harsh, with the death penalty prescribed for even minor offences – hence the term ‘draconian’. A debauched parvenu of immense wealth and no morals, Trimalchio is a character in the satirical novel *Satyricon* by the first-century-AD Latin author Petronius. The Roman emperor Tiberius (42 BC–AD 37) is portrayed by the historian Tacitus (56–117) as crafty, cruel, licentious and unprincipled.
+
 #### Rose/Madden: Precautions to Take in Laying Blame
 
 ##### Caiaphas as bishop … Tiberius as emperor:
@@ -451,6 +468,18 @@ i.e., those living in cloistered religious communities.
 ### 2.7.8: Faith, Law
 
 #### Donougher: Faith Rules
+
+##### Thales:
+Writing in the third century AD in *Lives and Opinions of Eminent Philosophers*, Diogenes Laertius describes Thales of Miletus (c.624–c.546 BC) as one attached to a solitary and reclusive life.
+
+##### We must die … La Trappe echoes Horace:
+Horace, Odes II:3: ‘moreris / Victima nil miserantis Orci. / Omnes eodem cogimur, omnium / Versatur urna serius ocius / Sors exitura et nos in aeternum / Exilium impositura cumbae’ (‘you will die, victim of none-sparing Orcus. We are all compelled to go there, a turn of the urn determines the fate of all and sooner or later imposes on us embarkation for eternal exile’). Founded in 1140, the monastery of La Trappe acquired its modern reputation for austerity in the late seventeenth century under the rule of Armand de Rance (1626–1700), nominally abbot from a very young age. For many years he led a dissolute life, but he underwent a conversion in the late 1650s and introduced a strict ascetic rule with which the name of the reformed Cistercian monastery is now synonymous. It was an erroneous popular belief that the monks of La Trappe greeted each other with the words ‘Memento mori’ and that they daily dug their own graves.
+
+##### Leibniz:
+The German mathematician and rationalist philosopher Gottfried von Leibniz (1646–1716), who discovered integral and differential calculus (independently of Isaac Newton), argued that God of necessity must exist and could not but choose the most perfect universe; therefore this world is the best of all possible worlds (a claim satirized by Voltaire in his novel *Candide*, 1759). Leibniz defended prayers as useful ‘because the idea or the foreknowledge of our prayers aided the divine understanding when it arranged the universe’ (Lloyd Strickland, *The Shorter Leibniz Texts: A Collection of New Translations*, London: Continuum, 2006, p. 102).
+
+##### *Deo erexit Voltaire*
+‘Voltaire raised [this building] to God.’ In 1760 Voltaire retired to his estate at Ferney, where he built a church for the villagers that bore this inscription.
 
 #### Rose/Madden: Faith, Law
 
