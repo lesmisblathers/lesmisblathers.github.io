@@ -496,3 +496,166 @@ The German mathematician and philosopher Gottfried Leibniz (1646–1716) was a r
 “A monument to God, erected by Voltaire,” the inscription on the church Voltaire had built in the village of Ferney (see here). Whatever his hostility to politicized religious institutions such as the Catholic Church (the object of his legendary motto *“Écrasez l’Infame,”* “Crush the Infamous One”), he believed that religion was necessary to provide moral guidance to the masses. He also promoted such cottage industries as pottery and watchmaking in Ferney, as work was also necessary to social order. It is worth noting that Voltaire’s church is dedicated to God, not to any religion or saint.
 
 > the patriarch of Ferney: Voltaire spent much of the last half of his life on an estate at Ferney, near the Swiss border, in case prudence dictated an absence from French territory.
+
+## Book 8: Cemeteries Take That Which is Committed Them
+### Chapter 1: Which Treats of the Manner of Entering a Convent
+#### Donougher: In Which There Is Discussion about How to Get into the Convent
+
+##### ‘half burgher, half peasant’:
+An allusion to La Fontaine’s description – ‘demi-bourgeois, demi-manant’ – of the gardener in his fable ‘Le Jardinier et son Seigneur’ (‘The Gardener and his Lord’; bk 4, fable 4).
+
+##### *De profundis*:
+The opening words of Psalm 130: ‘De profundis clamavi ad te, Domine’, ‘Out of the depths have I cried unto thee, O Lord!’ It is recited at funerals.
+
+#### Rose/Madden: In Which the Way to Enter a Convent is Dealt With
+#### Chapter 2: Fauchelevent in the Presence of a Difficulty
+#### Donougher: Fauchelevent Faces Difficulty
+No footnotes
+#### Rose/Madden: Fauchelevent Confronted With a Problem
+
+### Chapter 3: Mother Innocente
+#### Donougher: Mère Innocente
+
+##### Dom Mabillon … Merlonus Horstius:
+In 1641 the Dutch theologian Jacobus Merlonus Horstius – there are numerous variant spellings of this name – (1597–1644) published in Cologne an edition of *The Works of St Bernard*, including letters. The Benedictine monk Jean Mabillon (1632–1707) published an edition of *The Works* in 1667. Mabillon is also the author of a celebrated work entitled *Réflexions sur les prisons des ordres religieux* (Reflections on the Prisons of Religious Orders; written 1690, published 1724), which exposed and condemned the *in pace* as inhuman.
+
+##### a Jansenist:
+The Augustinian-inspired teachings of Cornelius Jansen (1585–1638), bishop of Ypres, published after his death, were regarded by the Roman Catholic Church as heretical on the issues of grace and predestination. Fuelled by anti-papalism and an ascetic spirituality, and centred on the Cistercian religious communities of the Port-Royal abbeys, Jansenism attracted influential supporters in France but was vigorously opposed by the Jesuits, the papacy and Louis XIV. By the mid eighteenth century it was in decline, although the spirit of Jansenism persisted into the nineteenth century.
+
+##### Cardinal de Bérulle:
+Died of an apoplexy at the altar on 2 October 1629.
+
+##### *Hanc igitur oblationem:*
+The beginning of the eucharistic prayer in the canon of the mass, pronounced by the celebrant over the offerings of bread and wine before the consecration. ‘Wherefore we beseech thee, O Lord, graciously to receive this oblation …’
+
+##### St Diodorus … Acarus:
+St Diodorus (died c.392) was bishop of Tarsus. *Acarus* means ‘tick’, ‘mite’.
+
+##### Portus:
+There is no record of a St Terence who was bishop of Portus.
+
+##### Bernard Guidonis:
+Bishop of Tuy in Galicia, then of Lodève; inquisitor of Toulouse against the Albigensians, the Dominican Bernard Guidonis (or Gui; 1261–1331) was born and died in France.
+
+##### Plantavit de la Fosse:
+Jean de Plantavit de la Pause (1579–1651) was bishop of Lodève from 1625; Guillaume Plantavit de la Pause (1684–1760), abbot of Margon, retired to a Bernardine abbey and wrote a number of works of religious history.
+
+##### St Benedict II … Constantine Pogonatus:
+St Benedict II (elected to the papacy in 683, died in 685) was pope-elect for eleven months before his position was confirmed by the Byzantine emperor Constantine IV (c.652–85).
+
+##### Constans:
+The youngest son of the Byzantine emperor Constantine the Great, Constans (c.320–50) was emperor of the Western Roman Empire from 337 to 350.
+
+##### *Stat crux dum volvitur orbis*:
+‘The cross remains steady while the world turns’, the motto of the contemplative Carthusian Order, founded in the eleventh century by St Bruno (c.1032–1101).
+
+##### Bernard … Abelard … de Bruys … Henry … Apostolicals … Arnold of Brescia … Radulf … Porée … Étoile … Louis the Young … Eugenius III … Templars:
+At the Council of Sens (1140), the writings and teachings of the scholastic philosopher and theologian Peter Abelard (1079–1142), challenged by Bernard of Clairvaux, were condemned as heretical, and in consequence Abelard was sentenced to monastic isolation. Pierre de Bruys was burned as a heretic in 1126 and his disciple Henry of Lausanne was arrested in 1145/6 and sentenced to life imprisonment. Apostolicals is a designation loosely applied to a twelfth-century heretical grouping with pretensions to an apostolic way of life. Abelard’s disciple Arnold of Brescia (c.1100–c.1155) was eventually executed in Rome. Bernard deplored the anti-Jewish violence to which a Cistercian monk, Radulf, incited the population in the Rhineland at the time of the Second Crusade (1145–9), and took measures to curtail his activities. Gilbert de la Porée, bishop of Poitiers (1070–1154), was censured by the Council of Reims (1148) for some of his teachings about the Trinity, a judgement to which he bowed without protest. A self-appointed messiah, the Breton monk Éon de l’Étoile was deemed insane at the Council of Reims and sentenced to the seclusion of a monastery. Louis VII, known as Louis the Young (1120–80), was prevailed upon by St Bernard to join the Second Crusade (proclaimed by Pope Eugenius III in 1145, the year of his election to the papacy). The first Cistercian to become pope, Eugenius III (died 1153) presided over the Council of Reims. The rule of the Knights Templars, dating from the Council of Troyes in 1128, was inspired by St Bernard.
+
+##### the Basil of the West:
+Particularly revered in the Eastern Christian Churches, St Basil the Great (330–79), bishop of Caesarea, was born in Cappadocia. He founded the Basilian monastic order and is regarded as the father of Eastern monasticism, his influence on the monastic tradition extending to the Western Church.
+
+##### Bernard of the Poor Catholics:
+Bernard Primus was the first superior of the mendicant Order of the Poor Catholics, founded in 1208 to combat the Albigensian heresy.
+
+##### Yet César de Bus … far from blessed:
+In the French text, ‘Pourtant César de Bus est un bienheureaux, et Voltaire est un malheureaux.’ A French Catholic priest who founded two religious congregations devoted to the teaching of Christian doctrine, César de Bus (1544–1607) was declared Venerable in 1821. He would not formally have been called Blessed (‘bienheureaux’) until he was beatified in 1975, but Mère Innocente is using the term a little more loosely, in contrast with the ‘malheureux’ (‘wretched’) Voltaire.
+
+##### Périgord … Gondren … Bourgoing … Senault … Père de la Ste-Marthe:
+The churchman Alexandre-Angélique de Talleyrand-Périgord (1736–1821), uncle of Talleyrand the politician, was made cardinal in 1817 and archbishop of Paris later the same year. Father Charles de Gondren was the second superior of the Oratorians; he was succeeded in 1641 by François Bourgoing, who died in 1662. The Belgian theologian Jean-François Senault was Bourgoing’s successor, and following his death in 1672 Louis de la Sainte-Marthe (1621–97) became the superior of the order.
+
+##### Père Coton:
+Pierre Coton (or Cotton; 1564–1626) and St Francis of Sales (1567–1622) were both strong supporters of the founding of the French Oratorian Congregation by Pierre de Bérulle.
+
+##### The name of Père Coton  […] the Huguenot king Henri IV:
+Confessor to Henri IV, the Jesuit priest Pierre Coton is supposed to have prevailed on the king to stop blaspheming by changing his favourite oath, ‘Je renie Dieu’, ‘I deny God’, to ‘Je renie Coton’, which became shortened to ‘jarnicoton’.
+
+##### [St Francis of Sales] […] cheated at cards:
+This accusation is reported (in her vast correspondence, by the German-born Duchesse d’Orléans, Charlotte-Élisabeth, Princess Palatine; 1652–1722) to have been made by Marshal Nicolas de Neufville de Villeroi (1598–1685).
+
+##### Sagittarius … Salonius … Mummulus:
+Gregory of Tours (539–94) relates in his History of the Franks (bk IV) that an incursion into Gaul by the Lombards in the early 570s was defeated by the Comte d’Auxerre, Ennius Mummulus, at the head of a Burgundian army, with the two brother bishops Sagittarius and Salonius taking part in the battle – and, ‘what is worse’, killing many by their own hand.
+
+##### St Martin of Tours:
+St Martin (316–97), born in Hungary, came to Gaul as a soldier, where according to legend he shared his cloak with a beggar and was subsequently baptized. He lived as a monk for many years and about 371, by the will of the people, was made bishop of Tours.
+
+##### St Leo II:
+Pope Leo II (died 683) had to wait even longer than his successor St Benedict II for his election to the papacy (in 681) to be confirmed (in 682) by the imperial authority, represented in Italy by the exarch of Ravenna. Spain was at that time ruled by the Visigoths; there are extant some letters that Leo sent to Spain by the notary Peter, one of which is addressed to King Ervig.
+
+##### Gautier … Duc de Bourgogne:
+When Robert de Molesme founded the Cistercian Order in 1098, his new abbey was built on land granted to him by Eudes, sometimes Othon (in various spellings), Duc de Bourgogne; Robert was installed as abbot by Gautier, bishop of Châlons (1080–1121).
+
+##### Arnold de Wyon, Gabriel Bucelin, Trithemius, Maurolycus … Luc d’Achéry:
+Benedictine scholars who wrote about the order and its most illustrious figures: the Flemish Arnold de Wyon (1554–?), author of *Lignum Vitae* (Tree of Life: History of the Order of St Benedict); the German ecclesiastical historian Gabriel Bucelin (1599–1681); the humanist historian Abbot Johannes Trithemius (1462–1516); the Sicilian-born Greek mathematician and astronomer Franciscus Maurolycus (1494–1575); Luc d’Achéry (1609–85), a Benedictine of the Congregation of St-Maur.
+
+##### Emperor Henry II:
+Crowned Holy Roman Emperor by Pope Benedict VIII (died 1024) in 1014, Henry II (972–1024) was canonized in 1147. Benedict’s election to the papacy in 1012 had been opposed by the antipope Gregory VI, who appealed to Henry for his support but was denied it.
+
+##### Two overcoats are a very good thing to have:
+Fauchelevent has misheard the reverend mother, who spoke of two epithets (*surnoms*), not two overcoats (*surtouts*).
+
+#### Rose/Madden: Mother Innocent
+##### “Dom Mabillon” … “Me neither”:
+Dom Mabillon (1623–1707), a Benedictine monk and scholar, author of *The Lives of the Benedictine Saints*. We will not follow Mother Innocent through all twists and turns of her erudition, which, though Hugo gently mocks it, was his own as well. Yves Gohin attributes this scene to Hugo’s love of reading dictionaries, in this case Louis Moreri’s *Catholic Encyclopaedia*, first published in 1649. Several of the authorities and examples Mother Innocent cites are erroneous or simply inventions of Hugo’s. Old man Fauchelevent’s uncomprehending goodwill (“Me neither”) toward Merlonus Horstius confirms Hugo’s lighthearted touch in this scene, in which one can see the hand of Hugo the playwright.
+
+##### “a Jansenist, Madame de Béthune”:
+The ducal Béthune family descended from the family of Sully, the great minister of Henri IV. The Jansenists were Catholic reformers who believed in austerity and predestination. The movement was ferociously opposed by the Vatican, the powerful Jesuits, and Louis XIV. Largely stamped out in the early eighteenth century, Jansenism continued to trouble the religious and political establishment for many years.
+
+##### *“Hanc igitur oblationem”*:
+“With this sacrifice.” In the Catholic Church, these words begin the prayer with which the officiant presents the host, the body of Christ.
+
+##### “the emp—Buonaparte”:
+Father Fauchelevent is careful to use the appropriate language to describe the usurper.
+
+##### *“Stat crux dum volvitur orbis”*:
+“The cross remains standing as the world turns.”
+
+##### “he brought down Abelard at the Council of Sens”:
+In a celebrated theological quarrel, the scholar and theologian Pierre Abelard (1079–1142), best remembered as the lover of Héloïse, debated the more orthodox Bernard of Clairvaux before a Church tribunal at Sens. The council ruled in favour of Bernard and condemned Abelard as a heretic.
+
+##### “King Louis the Young”:
+i.e., Louis VII, born 1120, reigned 1137–1180.
+
+##### “Eugenius III”:
+pope from 1145 to 1153, he gave the Knights Templar—i.e., the Temple—an official status in the Church and sponsored the Second Crusade.
+
+##### “Monte Cassino”:
+the site of Saint Benedict’s first abbey; see here.
+> he was old and … hermit: Hugo seems to be playing on the old French proverb “When the devil gets old, he’ll become a monk.” One of the abbeys Saint Benedict founded is the famous abbey of Monte Cassino, previously the site of a pagan temple dedicated to Apollo.
+
+##### “the Basil of the West”:
+Basil of Caesarea, or Saint Basil the Great (ca. 330–79), one of the fathers of the Eastern and Roman churches.
+
+##### “the Huguenot king Henri IV”:
+Mother Innocent, after more than two hundred years, seems suspicious of the sincerity of Henri IV’s conversion (see here).
+
+> the wars of religion: At the end of the sixteenth century, clashes between Protestants and Catholics erupted into civil war, coming to a head when the Protestant King Henri IV inherited the throne from his cousin, Charles IX, last of the Valois dynasty. The wars ended when Henri converted to Catholicism, reasoning, according to legend, that Paris was well worth a mass.
+
+Henri’s confessor, Father Coton, persuaded the earthy Béarnais to refrain from using blasphemous expletives, at least in the priest’s presence.
+
+##### “Martin of Tours”:
+Saint Martin of Tours (ca. 316–97), the first Christian bishop of Tours and an influential figure in the early Church. While serving as an officer in the Roman cavalry, Martin came upon a beggar shivering in the cold. He cut his cloak in half and gave half to the beggar. That night he had a dream of Jesus wearing his cloak, and when he awoke his cloak was whole again. Martin declared himself a soldier of Christ, quit the army, and took holy orders.
+
+### Chapter 4: In Which Jean Valjean Has Quite the Air of Having Read Austin Castillejo
+#### Donougher: In Which It Seems Jean Valjean Might Well Have Read Austin Castillejo
+#### Rose/Madden: In Which Jean Valjean Looks as Though He Has Read Austin Castillejo
+
+### Chapter 5: It Is Not Necessary to Be Drunk in Order to Be Immortal
+#### Donougher: To Be Immortal It Is Not Enough to Be a Drunkard
+#### Rose/Madden:  It’s Not Enough to Be a Drunk to Be Immortal
+
+### Chapter 6: Between Four Planks
+#### Donougher: Inside the Wooden Box
+#### Rose/Madden: Between Four Planks
+
+### Chapter 7: In Which Will Be Found the Origin of the Saying: Don’t Lose the Card
+#### Donougher: In Which We Find the Origin of the Saying ‘Ne Pas Perdre la Carte’
+#### Rose/Madden: In Which We Find the Origins of the Saying: Don’t Lose Your Pass
+
+### Chapter 8: A Successful Interrogatory
+#### Donougher: A Successful Interview
+#### Rose/Madden: A Successful Interrogation
+
+### Chapter 9: Cloistered
+#### Donougher: Cloistered
+#### Rose/Madden: Enclosure
