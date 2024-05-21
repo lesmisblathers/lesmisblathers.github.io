@@ -511,12 +511,16 @@ The opening words of Psalm 130: ‘De profundis clamavi ad te, Domine’, ‘Out
 
 #### Rose/Madden: In Which the Way to Enter a Convent is Dealt With
 
+##### a *tabellion* [Fauchelevent’s former job]:
+A *tabellion* was a sort of copy clerk who made and preserved copies of important legal documents for attorneys. Fauchelevent’s oft-referenced illiteracy should be understood as ignorance rather than an inability to read; he was unlettered rather than illiterate.
+
 ### 2.8.2: Fauchelevent in the Presence of a Difficulty
 
 #### Donougher: Fauchelevent Faces Difficulty
 No footnotes
 
 #### Rose/Madden: Fauchelevent Confronted With a Problem
+No footnotes
 
 ### 2.8.3: Mother Innocente
 
