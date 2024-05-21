@@ -498,7 +498,9 @@ The German mathematician and philosopher Gottfried Leibniz (1646–1716) was a r
 > the patriarch of Ferney: Voltaire spent much of the last half of his life on an estate at Ferney, near the Swiss border, in case prudence dictated an absence from French territory.
 
 ## Book 8: Cemeteries Take That Which is Committed Them
-### Chapter 1: Which Treats of the Manner of Entering a Convent
+
+### 2.8.1: Which Treats of the Manner of Entering a Convent
+
 #### Donougher: In Which There Is Discussion about How to Get into the Convent
 
 ##### ‘half burgher, half peasant’:
@@ -508,12 +510,16 @@ An allusion to La Fontaine’s description – ‘demi-bourgeois, demi-manant’
 The opening words of Psalm 130: ‘De profundis clamavi ad te, Domine’, ‘Out of the depths have I cried unto thee, O Lord!’ It is recited at funerals.
 
 #### Rose/Madden: In Which the Way to Enter a Convent is Dealt With
-#### Chapter 2: Fauchelevent in the Presence of a Difficulty
+
+### 2.8.2: Fauchelevent in the Presence of a Difficulty
+
 #### Donougher: Fauchelevent Faces Difficulty
 No footnotes
+
 #### Rose/Madden: Fauchelevent Confronted With a Problem
 
-### Chapter 3: Mother Innocente
+### 2.8.3: Mother Innocente
+
 #### Donougher: Mère Innocente
 
 ##### Dom Mabillon … Merlonus Horstius:
@@ -595,6 +601,7 @@ Crowned Holy Roman Emperor by Pope Benedict VIII (died 1024) in 1014, Henry II (
 Fauchelevent has misheard the reverend mother, who spoke of two epithets (*surnoms*), not two overcoats (*surtouts*).
 
 #### Rose/Madden: Mother Innocent
+
 ##### “Dom Mabillon” … “Me neither”:
 Dom Mabillon (1623–1707), a Benedictine monk and scholar, author of *The Lives of the Benedictine Saints*. We will not follow Mother Innocent through all twists and turns of her erudition, which, though Hugo gently mocks it, was his own as well. Yves Gohin attributes this scene to Hugo’s love of reading dictionaries, in this case Louis Moreri’s *Catholic Encyclopaedia*, first published in 1649. Several of the authorities and examples Mother Innocent cites are erroneous or simply inventions of Hugo’s. Old man Fauchelevent’s uncomprehending goodwill (“Me neither”) toward Merlonus Horstius confirms Hugo’s lighthearted touch in this scene, in which one can see the hand of Hugo the playwright.
 
@@ -636,26 +643,26 @@ Henri’s confessor, Father Coton, persuaded the earthy Béarnais to refrain fro
 ##### “Martin of Tours”:
 Saint Martin of Tours (ca. 316–97), the first Christian bishop of Tours and an influential figure in the early Church. While serving as an officer in the Roman cavalry, Martin came upon a beggar shivering in the cold. He cut his cloak in half and gave half to the beggar. That night he had a dream of Jesus wearing his cloak, and when he awoke his cloak was whole again. Martin declared himself a soldier of Christ, quit the army, and took holy orders.
 
-### Chapter 4: In Which Jean Valjean Has Quite the Air of Having Read Austin Castillejo
+### 2.8.4: In Which Jean Valjean Has Quite the Air of Having Read Austin Castillejo
 #### Donougher: In Which It Seems Jean Valjean Might Well Have Read Austin Castillejo
 #### Rose/Madden: In Which Jean Valjean Looks as Though He Has Read Austin Castillejo
 
-### Chapter 5: It Is Not Necessary to Be Drunk in Order to Be Immortal
+### 2.8.5: It Is Not Necessary to Be Drunk in Order to Be Immortal
 #### Donougher: To Be Immortal It Is Not Enough to Be a Drunkard
 #### Rose/Madden:  It’s Not Enough to Be a Drunk to Be Immortal
 
-### Chapter 6: Between Four Planks
+### 2.8.6: Between Four Planks
 #### Donougher: Inside the Wooden Box
 #### Rose/Madden: Between Four Planks
 
-### Chapter 7: In Which Will Be Found the Origin of the Saying: Don’t Lose the Card
+### 2.8.7: In Which Will Be Found the Origin of the Saying: Don’t Lose the Card
 #### Donougher: In Which We Find the Origin of the Saying ‘Ne Pas Perdre la Carte’
 #### Rose/Madden: In Which We Find the Origins of the Saying: Don’t Lose Your Pass
 
-### Chapter 8: A Successful Interrogatory
+### 2.8.8: A Successful Interrogatory
 #### Donougher: A Successful Interview
 #### Rose/Madden: A Successful Interrogation
 
-### Chapter 9: Cloistered
+### 2.8.9: Cloistered
 #### Donougher: Cloistered
 #### Rose/Madden: Enclosure
