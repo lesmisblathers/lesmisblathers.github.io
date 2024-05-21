@@ -648,25 +648,125 @@ Henri’s confessor, Father Coton, persuaded the earthy Béarnais to refrain fro
 Saint Martin of Tours (ca. 316–97), the first Christian bishop of Tours and an influential figure in the early Church. While serving as an officer in the Roman cavalry, Martin came upon a beggar shivering in the cold. He cut his cloak in half and gave half to the beggar. That night he had a dream of Jesus wearing his cloak, and when he awoke his cloak was whole again. Martin declared himself a soldier of Christ, quit the army, and took holy orders.
 
 ### 2.8.4: In Which Jean Valjean Has Quite the Air of Having Read Austin Castillejo
+
 #### Donougher: In Which It Seems Jean Valjean Might Well Have Read Austin Castillejo
+
+##### the monk Austin Castillejo … Charles V … La Plombes … the monastery of San Yuste:
+It is recorded that the emperor Charles V (1500–58) developed a passion for a beautiful young woman, Eliodora de Plombes, from Ratisbon (Regensburg), who became his mistress at Cambrai in 1544; so enamoured of each other were they that she visited him, dressed as a man, while he was on military campaign (Gregorio Leti, *Vita dell’ Invittissimo Imperadore Carlo V*, 1700, vol. 3, pp. 157–60). In 1556 Charles abdicated, and retired to the monastery of San Yuste in Extremadura, Spain. Cristóbal de Castillejo (1491–1556) was a Spanish poet and monk, who served as secretary to Charles V’s brother Ferdinand. Austin Castillejo is probably an invention of Hugo.
+
 #### Rose/Madden: In Which Jean Valjean Looks as Though He Has Read Austin Castillejo
 
+##### If the monk Austin Castillejo … get her out again:
+At the height of his power, Charles V (1500–58), Holy Roman Emperor (1530–58) and King of Spain (1516–56), controlled Austria and much of Germany, the Low Countries, the Franche-Comté, much of Italy, and the Spanish possessions in the Americas. After his abdication in 1556 due to ill health—his Spanish possessions went to his son, Philip II of Spain, his German titles to his brother—Charles lived at the Spanish monastery of San Yuste, near Extremadura, Spain. The anecdote about a mistress named La Plombes, as well as its source, Austin Castillejo, are inventions of Hugo.
+
 ### 2.8.5: It Is Not Necessary to Be Drunk in Order to Be Immortal
+
 #### Donougher: To Be Immortal It Is Not Enough to Be a Drunkard
+
+##### Perronet:
+Jean-Rodolphe Perronet (1708–94) was an architect and structural engineer who designed many stone bridges all over France, including the Pont Louis XVI, now Pont de la Concorde, in Paris, as well as Paris’s main sewer.
+
+##### Au Bon Coing:
+The word for ‘quince’, coing, is pronounced exactly the same as the word for ‘corner’, coin.
+
 #### Rose/Madden:  It’s Not Enough to Be a Drunk to Be Immortal
 
+##### the dome of the Invalides:
+i.e., the golden dome of the Hôtel des Invalides.
+
+##### Montparnasse Cemetery:
+a small cemetery near today’s Montparnasse train station, much smaller than the sprawling Père-Lachaise on the eastern edge of the city.
+
+##### “For the philosophers … the Supreme Being”:
+The deist *philosophes* described God in non-Christian terms, as did Robespierre, who invented the cult of the Supreme Being, l’Être suprême, to combat the atheism of certain revolutionaries while remaining distinct from the Catholic Church.
+
+##### “You’re a peasant, I’m a Parisian”:
+In French, especially in the nineteenth century, *peasant* (*paysan*) had less of a class connotation than simply meaning someone from the country, though the Parisian gravedigger is certainly supercilious.
+
+##### “a porter at the Prytanée”:
+A Jesuit college in the town of La Flèche from 1604, the Prytanée school became a military school in 1762, was closed during the Revolution and reopened by Napoléon. The gravedigger’s father must have been an ambitious doorman to have had money to lose in the stock market.
+
+##### “cooks in the Croix-Rouge”:
+i.e., the servants of the neighbourhood known as the Croix-Rouge, just west of the church of Saint-Sulpice.
+
 ### 2.8.6: Between Four Planks
+
 #### Donougher: Inside the Wooden Box
+
+##### *Qui dormiunt … Requiescat in pace*:
+From the office for the burial of the dead in the *Missel de Paris*: ‘Those that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.’ ‘Out of the depths.’ ‘Eternal rest give unto her, O Lord.’ ‘And let perpetual light shine upon her.’ ‘May she rest in peace.’
+
 #### Rose/Madden: Between Four Planks
 
+##### *“Qui dormiunt … semper”*:
+the call of the priest and the response of the altar boy constituting the Latin burial rite of the Catholic Church: “Those who sleep in the dirt shall awaken, some in eternal life, some in shame that they shall see forever.”
+
+##### *“De profundis”*:
+“From the depths,” Psalm 130: “From the depths I cried out to you, O Lord.”
+
+##### *“Requiem … Domine”*:
+“Give him eternal rest, O Lord.”
+
+##### *“Et lux … ei”*:
+“And let an eternal light illuminate him.”
+
+##### *“Requiescat in pace”*:
+“Rest in peace.”
+
 ### 2.8.7: In Which Will Be Found the Origin of the Saying: Don’t Lose the Card
+
 #### Donougher: In Which We Find the Origin of the Saying ‘Ne Pas Perdre la Carte’
+
+##### Ne Pas Perdre la Carte:
+Literally, ‘don’t lose the card’, i.e. ‘don’t lose the lead (or initiative)’, as in a card game, or as here, ‘don’t lose your pass [carte]’.
+
+##### Three one-hundred-sou coins:
+From the adoption of a decimalized currency in 1795 until the sou was withdrawn from circulation in 1947, one sou was worth five centimes.
+
+##### ‘step on your foot’:
+A game that schoolchildren play to get warm (*Dictionnaire de l’Académie française*, 1835).
+
 #### Rose/Madden: In Which We Find the Origins of the Saying: Don’t Lose Your Pass
+No footnotes
 
 ### 2.8.8: A Successful Interrogatory
+
 #### Donougher: A Successful Interview
+
+##### Monsieur de Latil:
+Jean-Baptiste de Latil (1761–1839), archbishop of Chartres (1817) and of Reims (1824), was made cardinal in 1826. As archbishop of Reims, in 1825 he conducted the coronation of Charles X, who before succeeding to the throne as brother to the king (Louis XVIII) was known as ‘Monsieur’.
+
+##### Leo XII:
+Annibale della Genga (1760–1829) was elected pope in 1823. Before then, he was briefly papal nuncio in Paris.
+
+##### *Illustrated London News*:
+A weekly illustrated newspaper founded by Herbert Ingram (1811–60), first published 14 May 1842. From 1971 it was no longer able to survive as a weekly and eventually ceased publication in 2003.
+
 #### Rose/Madden: A Successful Interrogation
 
+##### Monsieur de Latil … brother to the king:
+Before his brother Louis XVIII died, making him Charles X, the Comte d’Artois was known as “Monsieur,” according to the Bourbon tradition. As his confessor, Jean-Baptiste de Latil (1761–1839) was promoted by the new king to the archbishopric of Rheims just in time to officiate at the coronation.
+
+##### Leo XII:
+Annibale della Genga succeeded Pius VII as pope in 1823.
+
 ### 2.8.9: Cloistered
+
 #### Donougher: Cloistered
+
+##### royalist banknote of ’93 … Chouan counter-revolutionary:
+Opposition to the Revolution broke out in western France in the Vendée region and in Brittany from 1793, triggered by a levy of conscripts for the Republican army, which rallied peasant support for the royalist Catholic cause. In Brittany the counter-revolutionaries were known as the Chouans. Jean-Nicolas Stofflet (1751–96), major-general of the so-called Armée Catholique et Royale de Vendée, was captured and executed in 1796. This civil war is the subject of Hugo’s novel *Quatre-vingt-treize* (’93), published in 1874. It was also the subject of the first novel, entitled *Les Chouans* (1829), in Balzac’s *Human Comedy* cycle.
+
 #### Rose/Madden: Enclosure
+
+##### royalist paper money of ’93:
+Anti-revolutionary activity was particularly strong in the west of France, in Bretagne and the Vendée region, which gave its name to the movement and its military forces, the Vendéens, or, as they called themselves, l’Armée Catholique et Royale de la France. Jean Nicolas Stofflet (1753–96), one of the leaders of the Vendéen movement, was captured and shot by government troops in 1796.
+
+##### assignat from La Vendée:
+The Vendéens issued assignats, paper money, in imitation of the Revolutionary government. Revolutionary assignats devalued quickly and those of the Vendée even faster.
+
+##### the Chouan party:
+Allies of the Vendéens, the Chouan rebels took their name from the word for *owl* in the Breton dialect. Beginning in 1791, Chouan insurgents began a guerrilla war against the government. They outlasted the Vendéens, making a last effort at insurrection as late as 1799. Hugo’s last novel, *Ninety-three*, tells the story of a Chouan faction at war with the armies of the Convention.
+
+##### lacerated by discipline:
+i.e., by the scourge with which certain religious practised self-mortification.
