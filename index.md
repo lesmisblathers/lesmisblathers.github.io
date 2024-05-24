@@ -13,3 +13,6 @@ layout: home
 ### Translator Prefaces
 [Norman Denny](/dennypreface/)<br/>
 [Julie Rose](/rosepreface)<br/>
+
+### Other
+[Bonapartist Colony Book](/texas/)
