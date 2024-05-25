@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: post
 title: "The Story of Champ d'Asile"
 ---
-## Fascimile Edition Preface by Wilson M. Hudson
+## Facsimile Edition Preface
+by Wilson M. Hudson, 1969
 ### The Book Club of Texas
 *The Story of Champ d'Asile* was the seventh, final, and possibly most beautiful selection published by The Book Club of Texas. Despite the fact that publications of the Club were limited to only three hundred copies, the books won widespread acclaim for their design and production. Of the seven selections, three (the 1931, 1932, and 1933 choices) were named among the Fifty Books of the Year—a coveted honor awarded for quality of design, printing, paper, and binding. No other book club can boast such a record of designing and producing beautiful books.
 
