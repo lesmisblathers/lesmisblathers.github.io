@@ -2,6 +2,12 @@
 layout: post
 title: "The Story of Champ d'Asile"
 ---
+<p align=center><a href="/texas/">↑ Table of Contents</a></p>
+<p style="text-align:left;">
+    <span style="float:right;">
+        <a href="/texas/02-english-preface.html">English Edition Preface →</a>
+    </span>
+</p>
 ## Facsimile Edition Preface
 by Wilson M. Hudson, 1969
 ### The Book Club of Texas
@@ -94,3 +100,10 @@ Translators are always open to criticism, particularly in matters of exactness a
 Wilson M. Hudson<br/>
 Austin, Texas<br/>
 July 20, 1969
+
+<p align=center><a href="/texas/">↑ Table of Contents</a></p>
+<p style="text-align:left;">
+    <span style="float:right;">
+        <a href="/texas/02-english-preface.html">English Edition Preface →</a>
+    </span>
+</p>

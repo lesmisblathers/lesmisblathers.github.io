@@ -2,8 +2,16 @@
 layout: post
 title: "The Story of Champ d'Asile"
 ---
+<p align=center><a href="/texas/">↑ Table of Contents</a></p>
+<p style="text-align:left;">
+    <a href="/texas/01-intro.html">← Facsimile Edition Preface</a>
+    <span style="float:right;">
+        <a href="/texas/03-original-preface.html"><em>The Heroine of Texas</em> Preface →</a>
+    </span>
+</p>
+
 ## English Edition Preface
-by Frances Ratchford, 1936
+by Frances Ratchford, 193<br/>
 
 ### Preface
 <p align=center><em>Affectionately inscribed to Mattie Austin Hatcher, one time Archivist of the University of Texas, who first directed my attention to this story</em></p>
@@ -116,3 +124,11 @@ Austin, Texas<br/>
 October 7, 1936<br/>
 
 *NOTE: The publications concerning the Champ d'Asile colony vary among themselves in many particulars, and all show departures from authentic documents. The accounts of the colony consulted for this summary are: Girard, Just: "The Adventures of a French Captain," translated by Lady Blanche Murphy (largely fiction); Hartmann et Millard: "Le Texas ou Notice Historique sur Champ d'Asile"; "Le Champ d'Asile a Texas ou Notice Curius et Interesante, par C—— D——“; ”Le Champ d'Asile, Tableau Topographique et historique du Texas par L.F. L'H"; and "L'Heroïne du Texas, ou voyage de Madame \*\*\* aux États-Unis et au Mexique par M. G … n F … n"; Reeves, Jesse S.: The Napoleonic Exiles in America; and miscellaneous materials in the Bibliotheque Nationale and Archives du Ministere des Affaires Etrangères.*
+
+<p align=center><a href="/texas/">↑ Table of Contents</a></p>
+<p style="text-align:left;">
+    <a href="/texas/01-intro.html">← Facsimile Edition Preface</a>
+    <span style="float:right;">
+        <a href="/texas/03-original-preface.html"><em>The Heroine of Texas</em> Preface →</a>
+    </span>
+</p>

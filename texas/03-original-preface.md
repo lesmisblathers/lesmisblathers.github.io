@@ -2,6 +2,11 @@
 layout: post
 title: "The Story of Champ d'Asile"
 ---
+<p align=center><a href="/texas/">↑ Table of Contents</a></p>
+<p style="text-align:left;">
+    <a href="/texas/02-english-preface.html">← English Edition Preface</a>
+</p>
+
 ## *The Heroine of Texas*
 by M. G...n F......n, 1819
 
@@ -24,3 +29,8 @@ As to the claims which historians of Texas—present or to be—could make, they
 Can fruitlessly waste ink and paper.”<br/></em>
 
 I come back to the question in hand. It shall perhaps be urged against me that I have enlarged too much on the loves of Edmund and Ernestine; I answer that these developments seemed necessary to me, and that having omitted nothing of all that happened in Texas from the arrival of the French refugees in Champ d'Asile to their departure, I thought that the first duty of an historian was to portray in all their beauty and heroism the graces, glory and virtue of the exiles, and that this was the surest means of commending myself, as well as my work, to the indulgence of the readers.
+
+<p align=center><a href="/texas/">↑ Table of Contents</a></p>
+<p style="text-align:left;">
+    <a href="/texas/02-english-preface.html">← English Edition Preface</a>
+</p>
