@@ -2,7 +2,9 @@
 layout: post
 title: "The Story of Champ d'Asile"
 ---
-## English Edition Preface by Frances Ratchford
+## English Edition Preface
+by Frances Ratchford, 1936
+
 ### Preface
 <p align=center><em>Affectionately inscribed to Mattie Austin Hatcher, one time Archivist of the University of Texas, who first directed my attention to this story</em></p>
 

@@ -2,8 +2,10 @@
 layout: post
 title: "The Story of Champ d'Asile"
 ---
-## *The Heroine of Texas* by M. G...n F......n
-L'Heroïne du Texas, ou voyage de Madame \*\*\* aux États-Unis et au Mexique
+## *The Heroine of Texas*
+by M. G...n F......n, 1819
+
+*L'Heroïne du Texas*, ou voyage de Madame \*\*\* aux États-Unis et au Mexique
 
 ### Editor's Preface
 This work, whatever be the judgment which may be formed of it, is not a *novel*. The facts set down here are true, except that *Ernestine* and *Edmund* are not the names of my hero and heroine; I have thought it best to change them.
