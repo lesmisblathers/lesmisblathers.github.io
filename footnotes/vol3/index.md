@@ -9,7 +9,7 @@ title: "Combined Footnotes, Volume 3"
 ##### parvulus:
 Latin for 'small', meaning here 'child'.
 ##### the gamin:
-Before his consecration by Hugo in the character of Gavroche, the Parisian gamin emerges as a social archetype, both celebrated and deplored by writers and illustrators, from 1830 and the July Revolution onwards. (See Jean-Jacques Yvorel, 'De Delacroix à Poulbot, l'image du gamin de Paris', *Revue d'histoire de l'enfance 'irrégulière'*, no. 4 (2002), pp. 39–72, [http://rhei.revues.org/index52.html]
+Before his consecration by Hugo in the character of Gavroche, the Parisian gamin emerges as a social archetype, both celebrated and deplored by writers and illustrators, from 1830 and the July Revolution onwards. (See Jean-Jacques Yvorel, 'De Delacroix à Poulbot, l'image du gamin de Paris', *Revue d'histoire de l'enfance 'irrégulière'*, no. 4 (2002), pp. 39–72, [http://rhei.revues.org/index52.html](http://rhei.revues.org/index52.html)
 ##### Homuncio:
 The term *homuncio*, 'a little man', was used by the later Roman comic playwright Terence (c.190–158 BC). Lewis and Short, *A Latin Dictionary*, 1879, also gives references to use of the word by Suetonius and Juvenal, but none by Plautus (c.254–184 BC).
 
