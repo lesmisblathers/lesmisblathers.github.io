@@ -1,0 +1,286 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Edmund Meets Ernestine - The Story of Champ d&#x27;Asile</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../01-facsimile.html">Facsimile Edition Preface</a></li><li class="chapter-item expanded affix "><a href="../02-orig.html">Original English Edition Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Books</li><li class="chapter-item expanded "><a href="../03-heroine/contents.html"><strong aria-hidden="true">1.</strong> The Heroine of Texas</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../03-heroine/preface.html"><strong aria-hidden="true">1.1.</strong> Editor's Preface</a></li><li class="chapter-item expanded "><a href="../03-heroine/introduction.html"><strong aria-hidden="true">1.2.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="../03-heroine/meeting.html" class="active"><strong aria-hidden="true">1.3.</strong> Edmund Meets Ernestine</a></li><li class="chapter-item expanded "><a href="../03-heroine/again.html"><strong aria-hidden="true">1.4.</strong> Edmund Sees Ernestine Again</a></li><li class="chapter-item expanded "><a href="../03-heroine/marriage.html"><strong aria-hidden="true">1.5.</strong> Marriage Is Discussed</a></li><li class="chapter-item expanded "><a href="../03-heroine/proposal.html"><strong aria-hidden="true">1.6.</strong> Edmund Proposes</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Story of Champ d&#x27;Asile</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="edmund-meets-ernestine"><a class="header" href="#edmund-meets-ernestine">Edmund Meets Ernestine</a></h1>
+<p>Let us listen to Edmund:</p>
+<p>I was in barracks at P—— with my regiment. For a long time my recreation lay in careful attention to my duty and in companionship with small groups of my comrades, walking, going to plays, and readings. It chanced one day that I met a friend who was spending several days with his parents in the city where we were. I had known him in his regiment, for we had been together in barracks, and a certain similarity in disposition drew us together. We even wrote to each other frequently. He was very glad to see me, and I shared his pleasure. He made me promise to come to see him. I assured him I would certainly take advantage of his invitation; after he had given me his address we separated.</p>
+<p>Several days passed before I was able to go to his home, for drilling and reviews prevented me, and I felt put out about it without exactly knowing why. Finally one morning I left my quarters at a suitable hour for making calls, and a cab soon took me to the neighborhood where my friend lived.
+I entered a house of rather handsome exterior and was met by a servant who opened the door and showed me to the person I sought. As soon as he saw me, he came forward and reproached me for what he called my forgetfulness, for, in his opinion, I had waited too long to return his visit.
+I tried to excuse myself, and we went upstairs to his apartment. After we talked some time of what had happened to us both since last we met, he suggested that he introduce me to his parents, who, without actually knowing me, thought of me as their son's friend for it seems he had been rather kind in his remarks of me to them.</p>
+<p>We then came down and found his father and mother waiting in the parlor for lunch to be announced. When my friend told them who I was, indulgent smiles and the most flattering words were their response. They invited me to have lunch with them, and I accepted. Scarcely had we. seated ourselves in the dining-room when my friend's mother said to the servant in attendance:</p>
+<p>"Will you ask my daughter to come down?" and the man left the room.</p>
+<p>A few moments later I saw my friend's sister enter. I glanced at her, then how can I describe what I felt? Imagine a divine being who bows with as much grace as modesty who comes to embrace her father, mother and brother, and to wish them good day in such a delightfully sweet and harmonious voice that I felt emotion take full possession of all my senses.</p>
+<p>I had begun by doing full justice to the meal, and was most favorably disposed towards it, but suddenly my appetite disappeared; and I could no longer think of anything but of the person who had just shed into my soul a radiance which I could not as yet define.</p>
+<p>May I try to describe Ernestine for it was by this name her mother called her in offering her some dish? Can you imagine a young woman of rich proportions, of the most regular beauty, whose complexion was far whiter than the lily and more delicately pink than the rose? She had the most beautiful eyes, and the artless arrangement of her heavy hair, coiled carelessly upon her head, but enhanced her charm; a fresh mouth, set with two rows of pearls; two small white hands which beautified everything they happened to touch. All of this gives you but a faint idea of Ernestine.</p>
+<p>Although I was so taken with her that I could attend to nothing else, I yet hoped my attitude did not appear to be one of affectation; and when my friend urged me to eat, drawing me momentarily out of my contemplation, I continued with my food, still unable to remove my eyes from her who had become my idol, whom I loved, whom I adored with a love and admiration which she merited.</p>
+<p>When my friend's parents asked me several questions I answered, and they seemed satisfied.</p>
+<p>Ernestine, who up until this moment had not so much as glanced in my direction, now deliberately favored me with a look. She appeared a thousand times more beautiful.</p>
+<p>Her mother told her to serve us, which she did; and when the time came for me to take the plate she handed me, I hastened to cover with my hand the spot her fingers had touched. I imagined that I was pressing Ernestine's hand and a delicious sensation crept over me.</p>
+<p>Some of my readers doubtless will find me sentimental; and in truth lam, for such is my nature; it is my good fortune, and to those critics I might say: "Ah! if you had but known Ernestine."</p>
+<p>A few words spoken by Ernestine's mother enlivened the conversation during the meal which, although fairly long, was surely drawing to a close. My friend answered his mother, the father took part, and soon we all joined in.</p>
+<p>Ernestine gave voice to several reflections which told me her mind and her powers of discernment were consistent with her charm, and that such thoughts could not be better expressed, nor in more careful terms.
+When we arose from the table, everyone was for going into the garden. I dared not offer my hand to Ernestine, but as I presented it to her mother, Ernestine's father said to her, smilingly:</p>
+<p>"Come, my dear, let me be your escort, since neither of these young gentlemen is gallant enough to offer you his arm."</p>
+<p>At that, as he gave her his arm, she returned his show of affection, and we all, including my friend, went into the garden.</p>
+<p>The spot we were rambling over was indeed a delightful one. On the right I saw a little flower bed surrounded by trellises where could be seen an arbor with a plot of grass.</p>
+<p>My friend said to me: "This is Ernestine's garden; it is she who tends it, who waters these flowers; the roses, the violets, the mignonette; all that you see owes its freshness and its beauty to her."</p>
+<p>I wanted to make some answer but with a lover's timidity I dared not raise my voice.</p>
+<p>It can be imagined how delighted I was to be upon ground Ernestine so often trod, to inhale the perfume of the flowers which she herself cultivated.</p>
+<p>We walked along the borders, and since I had a slight knowledge of botany, I could but speak of it. At this Ernestine began to question me and, oh, delight! I hastened to answer her, but not without the liveliest emotion.</p>
+<p>How happy I was that she seemed to agree with me!</p>
+<p>She asked us to be seated, adding with a most charming smile that she did the honors there. Taking her mother's arm she said: "Come, mother, sit in my place." I examined Ernestine's nook and saw that the branches of the rose-trees and other hedges had been rounded over her head, and that holly-hocks grew about the arbor whose beauty Ernestine was wont to enhance with her own loveliness.</p>
+<p>I sat down on the grass which every day she set her foot upon, and I was still happier.</p>
+<p>We were all five there, Ernestine between her parents, I next to her brother, talking of flowers which Ernestine loved so much.</p>
+<p>She saw a pink leaning awry upon its stem and she hastened to sprinkle it. I had the opportunity to notice that the most beautiful foot also belonged to the most beautiful of women. What perfection! Oh, Ernestine! What a supernatural being you looked to my eyes.</p>
+<p>Now today that you are mine, you are all the more so—you are mine and I know not how to believe my good fortune! What have I done to deserve it?</p>
+<p>After a few moments we quitted Ernestine's arbor to have a look about the garden. Soon the ladies left us to make their toilets, for they were going out.</p>
+<p>Before leaving they bowed to us, and Ernestine's mother invited me to come to see them.</p>
+<p>"You are my son's friend," she said to me kindly, "and so the house is open to you." I thanked her, and they left us.</p>
+<p>I followed Ernestine with my eyes, beholding with delight her elegant figure, and the simple white dress she wore without other ornaments. She had suppressed everything more striking. When I lost sight of her, I felt as if I could see her still.</p>
+<p>Her brother said to me, “I am going out, my dear Edmund, and if you have no plans, won't you come with me? I have to speak with a certain person, and afterward we will walk." I accepted, and he went to get his hat and cane.</p>
+<p>His father said to me, "You haven't yours," and we walked in the direction of the house.</p>
+<p>My friend was waiting. His father renewed the invitation which had already been extended to me, and I, promising to take advantage of the permission just granted, departed with the son.</p>
+<p>When we had done our errand and paid several visits, we set out for a walk. I was dying to speak of Ernestine, but dared not as yet broach the subject, when my friend relieved my embarrassment by saying, "Well, you knew me but not my family. What do you say of my parents, how do you like my sister?"</p>
+<p>"I can only congratulate you on belonging to them," was my answer.</p>
+<p>"Oh, my friend, if you knew what a happy combination of goodness, virtues and lovable qualities there are combined in those dear persons whom we have just left!"</p>
+<p>"To judge from all I have seen in my friend," I added, "there are few families which possess to a greater degree all that makes up the charm of life."</p>
+<p>"You are right," he said, "and I am going to let you be the judge."</p>
+<p>You can imagine with what interest I waited to hear what he was about to tell me, for necessarily Ernestine's name would come up in the conversation, and, moreover, he himself was much like her. His voice, though masculine, was much like hers, and though he was already my friend, he was to become still closer to me.</p>
+<p>“I like to speak of my parents, " he began. "You have seen my father—he is an excellent man, wise without pretense; nothing is strange to his mind, for he can discuss everything with a rare insight. He is a good husband, a good father, and twenty-five years of married life have in no wise diminished his love for my mother, who is, moreover, his friend. My sister and I are his only riches, his fortune meaning nothing to him except in so far as he can make people happy through its use. My mother is like my father; their life together is the perfect reflection of a happy day, and since I have known them, not even the smallest cloud has darkened their union. The will of one is always the desire of the other; they are an example of congeniality of disposition and spirit which it would be difficult to match.</p>
+<p>"My sister possesses all the characteristics I admire in my parents. I say nothing of her beauty, for one has only to see her to realize it; her talents and her learning are equal to her charms of which she is neither vain nor proud, and if the same blood did not course in our veins, I should have asked nothing better than to spend my life in adoring her. Fortunate a thousand and one times, my dear Edmund, the man who will prove worthy to be her husband, and who will be able to stir her heart; for although she is possessed of an exquisite sensitiveness, it will not be the matter of a moment to win her love."</p>
+<p>What a delight it was to me to hear the one loved, whose perfections I had already divined, so praised. My friend did not speak for a moment, though I still gave ear. We went on a few steps in a silence which I finally broke in fear and embarrassment.</p>
+<p>"Your sister, my friend, must be the object of universal desires and reverence; has she, perhaps, made her choice?"</p>
+<p>"No! My parents, who are rather hard to please when it comes to choosing their friends, have casual acquaintances and go in society, but are intimate with no one; besides, my mother is my sister's closest friend; they are inseparable. If an unfamiliar sentiment were to move her heart, I am sure she would have no other confidant than her and my father, who idolizes his daughter. They love her more than they do me, though the tenderness of my parents for their son is marked; she merits this preference, and I am not jealous of it. Besides how could one dare be envious of Ernestine? How could one dare to compare himself to my good, my excel-lent, my wonderful sister?"</p>
+<p>"You are right," I said in tones of enthusiasm. "How fortunate you are to be her brother, to see her every hour!"</p>
+<p>"Heavens!" he said smiling to me, "How you do take fire, dear Edmund!" and he regarded me intently. "Don't go falling in love with my sister, for I cannot answer for her undertaking your cure; yet I do not wonder that you should, since you have seen her."</p>
+<p>Our walk was at an end, for he was to return to his parents, and when we parted he made me promise to come back to see them.</p>
+<p>"You have been invited by everyone; come, and I shall always find a new pleasure in being with you."</p>
+<p>He pressed my hand and turned away. I followed him with my glance, finding something of Ernestine in the whole of his person; but I soon lost sight of him and felt myself alone in the world.</p>
+<p>l abandoned myself to my dreams, Ernestine alone occupying my thoughts: retracing in memory all that her brother had told me of her, all that I had seen myself, I made vows and gave myself up to desires which doubtless were foolish but the land of dreams is the domain of lovers and poets.
+I returned home absorbed in these reflections. When night came I could not resist the temptation to draw near to Ernestine, that I might breathe the same air with her. I changed my clothes, put on a coat, pulled my round hat down over my eyes, and sped to the neighborhood where Ernestine dwelled.</p>
+<p>Everything was calm and peaceful as I approached her house with darkness favoring me. The shutters were closed, and I stationed myself opposite against the wall where I could see lights in the rooms. Soon the sound of a harp was heard, playing a prelude, and then a voice, as sweet as it was melodious, intoned some words I could not distinguish.</p>
+<p>But my beating heart told me without doubt that it was Ernestine who was singing and accompanying herself, and I stayed until I no longer heard anything. Then I returned to my lodging, more smitten than ever, wishing passionately for the dawn of day, that I might go back to be near Ernestine once more.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../03-heroine/introduction.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../03-heroine/again.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../03-heroine/introduction.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../03-heroine/again.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

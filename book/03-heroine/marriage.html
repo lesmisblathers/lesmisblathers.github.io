@@ -1,0 +1,296 @@
+<!DOCTYPE HTML>
+<html lang="en" class="light" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Marriage Is Discussed - The Story of Champ d&#x27;Asile</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+
+    </head>
+    <body class="sidebar-visible no-js">
+    <div id="body-container">
+        <!-- Provide site root to javascript -->
+        <script>
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('light')
+            html.classList.add(theme);
+            var body = document.querySelector('body');
+            body.classList.remove('no-js')
+            body.classList.add('js');
+        </script>
+
+        <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            var body = document.querySelector('body');
+            var sidebar = null;
+            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+            }
+            sidebar_toggle.checked = sidebar === 'visible';
+            body.classList.remove('sidebar-visible');
+            body.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="../01-facsimile.html">Facsimile Edition Preface</a></li><li class="chapter-item expanded affix "><a href="../02-orig.html">Original English Edition Preface</a></li><li class="chapter-item expanded affix "><li class="part-title">Books</li><li class="chapter-item expanded "><a href="../03-heroine/contents.html"><strong aria-hidden="true">1.</strong> The Heroine of Texas</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../03-heroine/preface.html"><strong aria-hidden="true">1.1.</strong> Editor's Preface</a></li><li class="chapter-item expanded "><a href="../03-heroine/introduction.html"><strong aria-hidden="true">1.2.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="../03-heroine/meeting.html"><strong aria-hidden="true">1.3.</strong> Edmund Meets Ernestine</a></li><li class="chapter-item expanded "><a href="../03-heroine/again.html"><strong aria-hidden="true">1.4.</strong> Edmund Sees Ernestine Again</a></li><li class="chapter-item expanded "><a href="../03-heroine/marriage.html" class="active"><strong aria-hidden="true">1.5.</strong> Marriage Is Discussed</a></li><li class="chapter-item expanded "><a href="../03-heroine/proposal.html"><strong aria-hidden="true">1.6.</strong> Edmund Proposes</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <!-- Track and set sidebar scroll position -->
+        <script>
+            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
+            sidebarScrollbox.addEventListener('click', function(e) {
+                if (e.target.tagName === 'A') {
+                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
+                }
+            }, { passive: true });
+            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
+            sessionStorage.removeItem('sidebar-scroll');
+            if (sidebarScrollTop) {
+                // preserve sidebar scroll position when navigating via links within sidebar
+                sidebarScrollbox.scrollTop = sidebarScrollTop;
+            } else {
+                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
+                var activeSection = document.querySelector('#sidebar .active');
+                if (activeSection) {
+                    activeSection.scrollIntoView({ block: 'center' });
+                }
+            }
+        </script>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </label>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Story of Champ d&#x27;Asile</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="marriage-is-discussed"><a class="header" href="#marriage-is-discussed">Marriage Is Discussed</a></h1>
+<p>"What! I shall see her every day!" I said to myself as I walked along, and I repeated it a hundred times before I reached my lodgings. Once there, I thought of all I had to fear or hope for. I loved for always, but did Ernestine share my passion? And, would her parents resign her to me? Her brother, it is true, was my friend.</p>
+<p>Immediately a terrible and cruel thought came to tear at my heart and deprive me of all hope, for, I said, "He seems to be interested in me; but it is perhaps only through a sort of pity, a sort of humoring of a sick person, that he has lent an ear to my love. I shall see him tomorrow, and what will he have to say to me?" What a problem! I wanted to be with him, yet I dreaded his very presence. It was in this ebb and flow of ideas that the hours dragged past. Oh, love, how sweet are all thy pleasures: but how bitter are thy pains, how cruel thy torments! To make matters worse, Dormeuil kept me waiting. When he knocked I let him in and scanned his face to divine if he were going to tell me something disastrous; his greeting reassured me.</p>
+<p>"Well, dear Edmund, how is your heart?" was his first question. "If your face is any indication, you did not sleep very well. Just think, you have known my sister only a few days, and already you are developing symptoms of real love; how on earth would it be if you had been in love for several years?—you would succumb. You assuredly do not, as yet, have to be sorry for yourself; if the one you love has promised you nothing, she at least has not refused you. I have not come to console you, my friend, to tell you to possess your soul in patience, that you will end by ruining your beauty. Neither do you hear me flattering you. You are thought of in my family, I am sure, only as an honest man who is good company; moreover no one at home has spoken to me of you, and I have been careful not to say a single word. You will come to see us today—perhaps each passing hour will better your position. Oh, I know that lovers are not very patient; that they are quick to take alarm; but also it takes but little to calm their fears. I suggest then that you get more of a hold on yourself, and though my sister, above all women, deserves to be loved, that is no reason for losing your head. What would they think of you if it was known that you are so weak? Friendship is forgiving, you know, and I shall bury in forgetfulness what I have just been a witness to. If Ernestine were to learn of it, you would certainly have no success with her. Come, my dear Edmund, be a man, and try to conquer your love—virtuous as it may be—even though she who inspires it is entirely worthy."</p>
+<p>I had listened to Dormeuil without interrupting him, for felt the justice of his remarks. I was in love with Ernestine, and I thought I was right, without, however, being able to blame him.</p>
+<p>"Thank you for your advice, my dear Dormeuil; it springs from interest and the sincerest attachment, and I must answer by explaining myself frankly; in opening my heart to you without reserve. I love your sister, you know, and henceforth nothing can change me, whatever my fate may be. To be happy, to attain the only blessing I desire, I shall use only such means as you yourself may indicate. You are my friend—now be my aide. I do not ask you to help me; I know that before I dare raise my eyes to Ernestine to speak to her of love, I must have her parents and her own permission; if I win it, I have nothing else to ask; if it is refused me, I shall, at least, have nothing to reproach myself for. I should, doubtless, in that event, complain of my destiny; but I would be at peace with honor, and so less unhappy!"</p>
+<p>Dormeuil answered quickly: "One who holds such sentiments deserves happiness. Speak to my parents, to my sister, let them know you. Everything leads me to believe you will not be repulsed, and if you are favorably received, you may be certain that I shall do all within my power for you, considering all interests. Think about all that, dear Edmund; take several days to be sure that you are making progress in the minds of Ernestine and my parents; use the resources of your mind to please them; follow the impulses of your honest heart, which will not lead you astray. That is enough on that score. If you have nothing better to do, dress, and we will go out; and while you are waiting for the hour when you can come to the house, we will take a walk."</p>
+<p>I accepted the offer, was quickly ready, and we set out. We met several officers of the regiment, who went along with us. In due time we separated, and my friend and I were soon in the house which had become my universe.</p>
+<p>I was received as usual. I thought, however, I noticed more freedom, more cordiality in my welcome; Ernestine herself treated me with less indifference and said, when she saw me with her brother: "There are the two Inseparables." Then, assuming a little pout, which made her still prettier, she reproached her brother for his neglect since I had been coming to the house, threatening that she would be angry with him if it continued.</p>
+<p>I answered that I could not forgive myself if I had been the cause of such a misfortune.</p>
+<p>"Do not worry, my dear Edmund," Dormeuil said to me. "It would be the first time in her life for Ernestine to exhibit anger. You do not know her as yet, and besides, it is easy to judge for yourself if it is possible that such features can show anything but goodness of heart."</p>
+<p>I approved my friend's judgment. M. and Madame Dormeuil smiled, and Ernestine said to her brother: "Will you hush? Sir, you know I do not like praise; besides, you make me blush at your words, and M. Edmund would end by accusing you of partiality."</p>
+<p>I wanted to reply to this, but Ernestine got up and said: "We should never finish with this, and I am not sorry that luncheon will end this conversation."</p>
+<p>When M. and Madame Dormeuil followed Ernestine, we all did likewise, and by chance, I found myself beside my idol. They treated me as if I were a member of the household.</p>
+<p>"Make yourself at home," M. Dormeuil said to me, "for you are, so to speak, our regular guest," at which a little dialogue sprang up between us.</p>
+<p>"I do not know how to accept such kindness."</p>
+<p>"From the very first you inspired the greatest confidence in us; and, besides, your intimacy with my son, who is very hard to please in the choice of his friends and acquaintances, put me entirely at rest, for you must know that we do not open our doors to everyone. We know how to be content with each other, and strangers are not necessary to us. You have proved an exception to the rule, M. Edmund, as you know, and I foresee that we shall have reason to congratulate ourselves on a preference which you deserve."</p>
+<p>"I shall try to justify that good opinion. Everything urges me that way and makes it a duty."</p>
+<p>"Are your parents still living?"</p>
+<p>At this question, an expression of pain must have crossed my face, and altered it perceptibly.</p>
+<p>"What's the matter?" asked Ernestine.</p>
+<p>"Nothing, Mademoiselle. Your father has just reminded me of what I lost in my parents, and I am sad."</p>
+<p>"A cruel thing it is, not to be able to embrace one's parents every day."</p>
+<p>M. Dormeuil was quick to say: "I am indeed sorry to have revived your grief; but it does you honor, and I am persuaded that you were a good son, and with that precious quality, one always has many others. How old are you, sir?"</p>
+<p>"Twenty-eight."</p>
+<p>"You should think of marrying, for I am sure that you would make your wife happy."</p>
+<p>"I intend to follow my father's example. To form those bonds, a man must find the right woman, and often the one upon whom we look with love, who attracts and deserves our choice, cannot belong to us. It is much easier to love than to be loved."</p>
+<p>“I am aware of that, but you have all that is necessary to your success. What is your fortune?"</p>
+<p>"Forty thousand francs income."</p>
+<p>"That can smooth out money difficulties."</p>
+<p>"Yes, sir, but that is not all; when one consults only the material side, happiness is not always present."</p>
+<p>I was not displeased that M. Dormeuil had brought this subject up, and I saw that everyone was very attentive. Ernestine had a certain preoccupied air, and the younger Dormeuil looked at me half serious, half smiling, with a glance whose import only I could fathom.</p>
+<p>M. Dormeuil went on: "Your observation is true; but when one is independent, one may find something that imparts a new value to his independence; and in the class of society in which you move, where you must look for a wife, there are young women who will make excellent mothers of families and most respectable wives."</p>
+<p>"Certainly," added Madame Dormeuil, who until that moment had said nothing.</p>
+<p>"Besides, sir," I went on, "for me to think of marriage would perhaps be unwise, for I am a soldier of rank, and since I have chosen the career of arms, I must follow it. should have to leave my wife; and, in the event of war breaking out again, such a separation would expose her to the cruellest uncertainties."</p>
+<p>"Every calling has its advantages and disadvantages," said M. Dormeuil. "All that is compensated for in the life one leads. It is true that soldiers run great dangers; but it is also true that glory has its charms, for it elevates the soul and is a valuable incentive to men, and, upon my word, one does well to make sacrifices to it. Then, it must be admitted that women love warriors, for they have as much strength and courage as we have. And love of the kind a man would inspire in a woman must always give heed to the voice of honor; she would never counsel the one she loves to anything which might reflect upon honor. It must be said in their favor that women are perfect in this respect; they will always find in me a partisan and an apologist, for I am their knight against everything. Isn't that true, Ernestine?"</p>
+<p>"Yes, Papa," she answered, "and I do not regret it."</p>
+<p>"I am always right, with you."</p>
+<p>"Consequently you are a spoiled child, very spoiled," said her brother, "but you deserve to be. Edmund, don't think she has taken advantage of the weakness we have for her. She is, really, next to my mother, the best of women; and if I were not her brother, I would have accomplished the impossible in order to become her husband."</p>
+<p>I was bold enough to add: "Many men would be of the same mind, but that is a good fortune to which not everyone can aspire."</p>
+<p>Dormeuil answered: "Not everyone, no; but men can be found who are worthy of this preference."</p>
+<p>Ernestine, looking at both of us and smiling with infinite charm, said: "Gentlemen, will you please stop concerning yourselves with my marriage. If by chance someone sets eyes on me who is so inclined, he will speak of it, and I shall know it; if I like him, I will call my little council together, and we will then come to a decision. If you will hear me, let's have done with this and go into the parlor. I want to have music. I received some new pieces yesterday which I should like to try, and if M. Edmund is willing we shall attempt them."</p>
+<p>"Mademoiselle, never was there anything more agreeable."</p>
+<p>Everyone rose, and M. Dormeuil, clapping me on the shoulder, said: "Come, my friend—for I regard you as such—come play the violin while you are awaiting your marriage."</p>
+<p>Everything was soon arranged. The music we were to try was Italian, by one of the best composers. Ernestine began; her light fingers, scarcely touching the keys, drew from the piano harmonies that sank into the soul. The instrument I had was excellent, and I commenced a solo, at which I surpassed myself. I was a changed mortal, for I was near Ernestine and could see her. When I finished, she said to me, "Ah, M. Edmund, how well you played that! Again please."</p>
+<p>"Yes, again, again!" repeated the gallery.</p>
+<p>I began again, Ernestine following with her eyes the movement of my bow. She, being an excellent musician, understood its different positions. I finished and let my hand fall.</p>
+<p>"That's delightful," said she, taking mine in her own. I seized her beautiful hand, and raising it a little, I said, bending low: "Do you permit me, Mademoiselle?"</p>
+<p>M. Dormeuil did not give her time to answer, "Yes, the encore merits that favor."</p>
+<p>I pressed her hand with my lips, and I thought she trembled slightly. 0, sweet and unlooked-for happiness, how precious thou wast to me! The memory of thee still makes my heart beat faster. There are impressions which time cannot efface. Ernestine, I have been your husband for a long time, and I still experience those delightful sensations, for they are as real as at the moment I have just described.</p>
+<p>I was asked if I had any voice, to which I answered, "A little." The younger Dormeuil got up and, looking about in his sister's music, drew out <em>The Timid Lover</em>, which he put on the rack. I could not retreat now, and as I glanced over the melody, Ernestine said she would accompany me.</p>
+<p>"You will lend my voice a charm which otherwise it does not possess. " But my friend interrupted with, "Come, modest singer, begin!" And without appearing to do so intentionally, I sought to portray the fears and confusion of a lover who does not make an avowal, yet loves madly.</p>
+<p>"That is very good; it is astonishing. You sing with a deal of taste," said M. and Madame Dormeuil.</p>
+<p>"Ah! I made you a real present when I introduced Edmund to you, and you will thank me for it one day; you do not really know him as yet, for he has merit and you will see that he will get along in life," and he laughed.</p>
+<p>Ernestine thoughtfully strummed a few notes on the piano, as if far away; M. and Madame Dormeuil complimented me, while I regarded in the mirror the reflection of Ernestine's lovely face. She arose, and glancing about with a look that seemed to take in the situation, went up to her mother and said, "Mama, let's go down into the garden," and we left.</p>
+<p>As for me, my heart was aflame from the contact of my lips with Ernestine's hand. Once in the garden the flowers and the hedges occupied our attention. There was at the bottom, a little summer-house which I had not seen; it was Ernestine's work-room, and when we went in I found the walls fairly covered with pictures. I noticed her portrait drawn by herself, as well as those of her parents in which the resemblance was striking; all were of a delectable fineness.</p>
+<p>"Do you draw, M. Edmund?" she said to me, while my eyes were fixed on her adored likeness.</p>
+<p>"Yes, Mademoiselle, a little."</p>
+<p>"Let's see what he can do," said the younger Dormeuil.</p>
+<p>"Yes, let's," added the father; and, although I protested, they put a pencil in my hand, and I sat down. There was paper beneath my fingers, and the portrait of Ernestine before my eyes. I seized at once the opportunity and sketched in the features which were already engraved upon my heart. Love steadied my hand, guided my pencil; and the eyes fixed upon me soon saw a striking likeness.</p>
+<p>"In truth, my dear Edmund, you can do anything," the father said to me. "Ernestine, what do you say to his work?" At this I rose and offered it to her. She took it, blushing a little.</p>
+<p>"Thank you, it is very good; but you might have chosen another model."</p>
+<p>"Ah, Mademoiselle," I replied, "what other could have been worthy of the choice, I ask you." And everyone, laughing, agreed with me.</p>
+<p>I should have much liked to keep the precious sketch, but that would have been an indiscretion, and I did not even ask it as I watched Ernestine roll it up and hold it in her hand.</p>
+<p>We left the summer-house and continued our walk in the garden, I near to M. Dormeuil, who addressed me.</p>
+<p>"I see with pleasure, M. Edmund, that you are possessed of talents and knowledge; they are the fruits of your love for the arts and sciences, and prove, to your credit, that you did not consume your youth in futile occupations and dissipation. I am astonished that you should have attained to such a degree of perfection, since you are a soldier."</p>
+<p>"Sir, the arts and sciences always held an irresistible attraction for me; and, as such pursuits leave in their wake neither regrets nor remorse, I abandoned myself entirely to them."</p>
+<p>Ernestine did not speak; but as she walked I admired the elegance and grace of her body, her foot which seemed scarcely to press the earth, for in vain did I seek the imprint of her steps. Each instant I discovered a new charm in the object of my love which thus, to my delight, became more violent. When we reached her borders, she stepped in, pulled some flowers and made a bouquet of them. Her brother asked her for a rose, which she gave him, fastening it in his buttonhole.</p>
+<p>"Everyone must have a flower," he said to her, and she gave one to her father, her mother and, at last, to me. How happy I was! I possessed something that had been hers. I thanked her, and we returned to the house, speaking of an afternoon jaunt which I was to join. M. and Madame Dormeuil and Ernestine were to go in the carriage; Dormeuil and I would ride horseback; thus the party was arranged to the satisfaction of all. I had to return to my quarters for my spurs, and my friend went with me so that I would be back more promptly. I was not sorry of his company, since I had so many things to tell him. I bowed to the ladies and we went out.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../03-heroine/again.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next prefetch" href="../03-heroine/proposal.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../03-heroine/again.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next prefetch" href="../03-heroine/proposal.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
+
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </div>
+    </body>
+</html>

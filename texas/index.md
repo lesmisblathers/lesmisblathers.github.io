@@ -8,4 +8,4 @@ Containing English translations of:<br/>
 
 [Facsimile Edition Preface](/texas/01-intro.html)<br/>
 [English Edition Preface](/texas/02-english-preface.html)<br/>
-[*L'Héroïne du Texas* Preface](/texas/03-original-preface.html)<br/>
+[*The Heroine of Texas* Preface](/texas/03-original-preface.html)<br/>
