@@ -671,7 +671,7 @@ Donougher: *Oreilles de chien* (literally, ‘dog’s ears’) or *chien barbet*
 Madden: The *oreilles de chien* hairstyle, worn long and framing the face on each side, was favoured by the young dandies known as *Incroyables* in the 1790s.
 
 #### the faubourg Saint-Germain … the Marais:
-The faubourg Saint-Germain, the left bank neighbourhood around the boulevard Saint-Germain, was the aristocratic neighbourhood of choice from the mid-eighteenth through the nineteenth centuries. The Marais, built around the place des Vosges, had been the most fashionable address in the seventeenth century; by the July Monarchy, it suggested a sort of faded gentility.
+Madden: The faubourg Saint-Germain, the left bank neighbourhood around the boulevard Saint-Germain, was the aristocratic neighbourhood of choice from the mid-eighteenth through the nineteenth centuries. The Marais, built around the place des Vosges, had been the most fashionable address in the seventeenth century; by the July Monarchy, it suggested a sort of faded gentility.
 
 ### 3.2.8: Two Do Not Make a Pair
 
