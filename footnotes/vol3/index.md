@@ -504,7 +504,6 @@ Donougher: In his *Reflections on the Revolution in France* the Anglo-Irish poli
 
 Madden: The conservative, traditionalist Edmund Burke supported American independence but was resolutely hostile to the French Revolution.
 
-
 ### 3.1.13: Little Gavroche
 
 #### About eight or nine years after the events recounted in the second part of this story:
