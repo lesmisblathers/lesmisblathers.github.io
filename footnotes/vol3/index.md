@@ -620,10 +620,10 @@ Donougher: The first time would have been 1793, the year of Louis XVI’s execut
 ### 3.2.5: Basque and Nicolette
 
 #### turning virtually the whole amount into an annuity:
-i.e. [Gillenormand] purchased a life annuity, a *rente viagère*, that would last his lifetime but leave very little for his heirs.
+Madden: i.e. [Gillenormand] purchased a life annuity, a *rente viagère*, that would last his lifetime but leave very little for his heirs.
 
 #### “national property”:
-Beginning in 1790, the properties of *émigrés*, the Catholic Church, and eventually anyone accused of betraying the nation were confiscated and sold to provide revenue for the state.
+Madden: Beginning in 1790, the properties of *émigrés*, the Catholic Church, and eventually anyone accused of betraying the nation were confiscated and sold to provide revenue for the state.
 
 #### consolidated third of the public debt / *tiers consolidé*:
 Donougher: By a law of September 1797 the public debt was reduced to one-third and termed ‘consolidated’, and for the other two-thirds of the debt bonds were issued that immediately became almost worthless, being exchanged in 1800 at 1 per cent of their face value.
