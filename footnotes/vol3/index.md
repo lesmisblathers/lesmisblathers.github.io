@@ -533,3 +533,172 @@ thus, in 1831 or 1832. The July Revolution has in the interim deposed the Bourbo
 
 ##### the boulevard, the Cirque, the Porte Saint-Martin:
 Gavroche, the theatregoer, cab fetcher, and errand runner, haunts the elegant district of theatres like the Porte Saint-Martin and the Cirque around the *grands boulevards* on the right bank.
+
+## Book 2: The Great Bourgeois
+
+### 3.2.1: Ninety Years and Thirty-Two Teeth
+
+#### the Temple:
+Madden: The onetime fortress of the Knights Templar, the Temple was part of the Marais neighbourhood, as was the place des Vosges, home of the Hugo family from 1832 to 1848 and today the site of the Victor Hugo Museum. The last remnants of the Temple were destroyed over the course of the nineteenth century.
+
+#### the new Tivoli quartier:
+Madden: Also called the *quartier de l’Europe*, for the place de l’Europe, the name Tivoli comes from the Tivoli Gardens, which once occupied the area around today’s Gare Saint-Lazare.
+
+#### a true and complete bourgeois:
+Madden: the *grande bourgeoisie*, the wealthy Parisians who lived off private fortunes and were quite content, in the idealized case of Monsieur Gillenormand, with their status in the Second Order.
+
+#### *a sensible fellow* and *Nature:
+Madden: With *sensibilité* and *Nature*, some of the vocabulary, if not the spirit, of Rousseau seems to have entered into Monsieur Gillenormand’s vocabulary.
+
+#### “The Opéra *danseuses* are rose-pink cannibals”:
+Madden: the image of dancers, who were, like actresses, considered part of the demimonde. The verb *manger*, “to eat,” was used to describe the way they devoured their lovers’ fortunes, a literary tradition that ran from *Manon Lescaut* to Zola’s *Nana*. Monsieur Gillenormand longs to be their victim once again.
+
+#### “The Caribbeans”:
+Madden: from the indigenous tribe that inhabited the islands of the Caribbean Sea; i.e., the “natives” or “savages” of European imagination.
+
+### 3.2.2: Like Master, Like House
+
+#### a boudoir:
+Madden: not, as is often thought, a bedroom, but a small sitting room, traditionally the site of adulterous assignations. Boudoirs are usually associated with women.
+
+#### Monsieur de Vivonne:
+Donougher: The brother of Louis XIV’s mistress Madame de Montespan, Louis-Victor de Rochechouart, later Duc de Vivonne (1636–88), was in charge of the galley fleet from 1669 until his death. Prisoners serving on the galleys were allowed to use skills they might have – and a significant number were textile artisans – to earn money working in port during the winter months when the galleys were not sailing.
+
+Madden: The duc de Vivonne, later duc de Rochechouart, was a great favourite of Louis XIV, who made him Général des Galères, essentially head of the French navy, because of both his military service and the fact that he was the brother of the royal mistress, Madame de Montespan.
+
+#### the man of the court … and the man of the robe:
+Madden: a distinction between the *noblesse de cour*, or *d’épée*, and the *noblesse de robe*, the class of magistrates whose offices could be purchased until 1789. Before dedicating his fortune to the acquisition. of mistresses, Monsieur Gillenormand could easily have purchased the second sort of nobility, but he is proud of his own place in the bygone social order.
+
+#### Jordaens:
+Donougher: The Flemish Baroque painter Jacob Jordaens (1593–1678).
+
+Madden: Jacob Jordaens, a seventeenth-century Flemish painter.
+
+#### the *incroyables*:
+Donougher: Literally, ‘incredibles’, young dandies of the Directory period, who also affected not to pronounce their rs, notably in a favourite catchphrase ‘c’est inc\[r\]oyable’ (‘it’s incredible’).
+
+Madden: Also called *muscadins*, the *Incroyables* were the male counterpart of the *merveilleuses*, whose number included Joséphine de Beauharnais, part of an extravagant and debauched high society that flourished after the fall of the puritanical Robespierre.
+
+### 3.2.3: Luc-Espirit
+
+#### La Camargo and La Sallé:
+Donougher: Two leading dancers of the early eighteenth century, Marie-Anne de Cupis de Camargo (1710–70), and Marie Sallé (*c.*1707–56), who began her career in London.
+
+Madden: Marie-Anne Camargo (1710–70) and Marie Sallé (1707–56) were dancers at the Opéra. Voltaire wrote an ode to them that began: “*Ah! Camargo, que vous êtes brillante! / Mais que Sallé, grands Dieux, est ravissante!*”
+
+#### Guimard-Guimardini-Guimardinette:
+Donougher: *Guimard*: Marie-Madeleine Guimard (1743–1816), whose career began at the age of fourteen, was the most celebrated dancer of her age.
+
+Madden: Marie-Madeleine Guimard (1743–1816), known simply as La Guimard, was one of the most celebrated *danseuses-courtisanes* of the eighteenth century, whose lovers included the prince de Soubise and the bishop of Orléans.
+
+#### Longchamp:
+Madden: The racetrack at Longchamp was a gathering place for high society from the mid-1750s on.
+
+#### her tresses in tightly curled ringlets:
+Donougher: Her hair is curled ‘en sentiments soutenus’. I am indebted to M. Alain Ducher, an expert on historical hairstyles, for his explanation: ‘Les boucles sur le cou \[se désignaient sous le nom de\] sentiments … Les sentiments soutenus sont des boucles où une grande partie de la longueur et la pointe est frisée nerveuse’ (‘Tresses on the neck were referred to by the name of *sentiments*. *Les sentiments soutenus* are tresses which along most of their length and at the tip are tightly curled’).
+
+#### Madame de Boufflers:
+Donougher: The Marquise de Boufflers (1711–87) was the mistress of King Stanislaw I of Poland.
+
+Madden: Both the marquise de Boufflers and her cousin by marriage, the comtesse de Boufflers, were leading figures in Parisian high society in the late eighteenth century.
+
+#### Corbière! Humann! Casimir Périer!:
+Donougher: Jacques-Joseph Corbière (1766–1853), parliamentary deputy and minister of the interior (1821–8); Jean-Georges Humann (1780–1842), parliamentary deputy and minister of finance (1832–4, 1834–6, 1840–2); Casimir Périer (1777–1832), parliamentary deputy, minister of the interior and prime minister (1831–2).
+
+Madden: Jacques-Joseph de Corbière was the son of a carpenter who became minister of the interior from 1821 to 1824; Georges Humann was, like Casimir Périer (see here), a banker and politician; Humann served as minister of finance several times under the July Monarchy, the first time in 1832. For the old-fashioned Monsieur Gillenormand, a bourgeois minister is a ludicrous notion.
+
+#### Luc-Esprit:
+Madden: i.e., Saint Luke the Evangelist, and *esprit*, “spirit,” as in Saint-Esprit, the Holy Spirit. *Esprit* also means “wit,” especially in the libertine eighteenth century so dear to Monsieur Gillenormand.
+
+### 3.2.3: A Centenarian Aspirant
+
+#### duc de Nivernais … duc de Nevers:
+Donougher:
+Louis-Jules Mancini-Mazarini, Duc de Nivernais (1716–98), was a politician, serving as France’s ambassador to Rome, Berlin and London, and a man of letters elected to the Academy in 1742.
+
+Madden: Louis-Jules Mancini-Mazarini (1716–98), the last duc de Nivernais, was the grandson of the duc de Nevers. Monsieur Gillenormand apparently finds the older title more impressive.
+
+#### blue sash:
+Donougher: The blue sash – *le cordon bleu* – is that worn by the Knights of the Order of the Holy Spirit, an exclusive body of privileged individuals (and the term *cordon bleu* came by transference to apply to excellence in the culinary field, first appearing in the title of a cookery book in 1827).
+
+Madden: the *cordon bleu* of the Order of the Saint-Esprit, the highest heraldic decoration of the French monarchy.
+
+#### Catherine II … partitioning Poland:
+Donougher: Donougher: The signatories to the first partition of Poland in 1772 were Russia (ruled by Catherine the Great), Prussia and Austria.
+
+Madden: In spite of her reputation as an “enlightened despot,” Catherine the Great participated in the partitioning of Poland in 1772 and 1792 and the final absorption of Poland into Russia, Prussia, and Austria in 1795.
+
+#### The gold elixir … Bestuchef’s yellow dye … Lamotte’s drops:
+Donougher: The elixir, thought to be a tincture of gold and not only to have remedial powers – as a cure for syphilis – but also to prolong life, was a solution of ferric chloride in alcohol. The Russian count Alexis Bestuchef-Rumin was the first to discover this concoction in 1725, but its secret then fell into the hands of General Lamotte, who produced a version of it in Paris, for which he was awarded a pension by Louis XV. Around 1780 the then holders of the secrets of the preparation presented the recipe to Catherine the Great, who paid them 3,000 roubles and ordered the publication of the tincture’s composition.
+
+Madden: the “gold elixir from Bestuchef” and “Lamotte’s drops” were believed to be cures for the “catastrophes of love,” i.e., venereal disease.
+
+#### ninety-three a second time:
+Donougher: The first time would have been 1793, the year of Louis XVI’s execution (January) and the beginning of the Terror (September).
+
+### 3.2.5: Basque and Nicolette
+
+#### turning virtually the whole amount into an annuity:
+i.e. [Gillenormand] purchased a life annuity, a *rente viagère*, that would last his lifetime but leave very little for his heirs.
+
+#### “national property”:
+Beginning in 1790, the properties of *émigrés*, the Catholic Church, and eventually anyone accused of betraying the nation were confiscated and sold to provide revenue for the state.
+
+#### consolidated third of the public debt / *tiers consolidé*:
+Donougher: By a law of September 1797 the public debt was reduced to one-third and termed ‘consolidated’, and for the other two-thirds of the debt bonds were issued that immediately became almost worthless, being exchanged in 1800 at 1 per cent of their face value.
+
+Madden: In 1797, the Directory government, faced with a huge public debt, declared that all outstanding government securities would be paid out only at one third of their value. Like the rue Quincampoix, the traditional location of bankers in ancien régime France, such vulgar matters of finance are beneath Monsieur Gillenormand’s attention.
+
+#### Rue Quincampoix:
+Donougher: The Scottish economist John Law (1671–1729), appointed controller-general of finances by Louis XV, in 1716 established in Rue Quincampoix the Banque Générale, which developed the use of paper money. Law’s career ended, and fortunes were lost, with the collapse of the bank during the Mississippi Bubble of 1720.
+
+#### Nimois … Picard:
+Madden: i.e., from the region around Nîmes, Picardie, the Franche-Comté, or Poitou.
+
+#### incapable of running twenty paces; but, as he had been born at Bayonne, M. Gillenormand called him Basque:
+Madden: The city of Bayonne is in the eastern part of the Pyrenees range, on the edge of the Basque country.
+
+Donougher: The name is inappropriate because a popular expression equates a Basque with speed. *Aller/courir comme un Basque*, ‘to go/run like a Basque’, means ‘to move very quickly’.
+
+#### *cordon bleu:*
+Madden: here meaning a master chef.
+
+### 3.2.6: In Which Magnon and Her Two Children Are Seen
+
+#### Monsieur le duc d’Angoulême:
+Madden: illegitimate son (1573–1650) of Charles IX (born 1550, reigned 1560–74). Such antiquated gossip was relatively well known among the readers of historical memoirs like Monsieur Gillenormand and Victor Hugo.
+
+#### Monsieur Virginal … Cardinal Sourdis:
+Donougher: Virginal, Marquis d’Alluye (1584–1602), died without issue by his wife Catherine Hurault. His elder brother François (1574–1628), made cardinal by Pope Clement VIII in 1598, became archbishop of Bordeaux the following year.
+
+#### knight of Malta:
+Madden: The crusading order of the Knights Hospitaller of Saint John of Jerusalem were given the island of Malta in 1560. In the eighteenth century, the military-religious order was a convenient honorific to bestow on younger (and bastard) sons, thus limiting the number of eligible heirs to diminishing estates.
+
+#### *Sylvae sint consule dignae*:
+Donougher: Virgil, *Eclogue* 4, line 3: ‘Si canimus silvas, silvae sint consule dignae’ (‘If we are to sing of woods, let them be woods worthy of a consul’).
+
+Madden: a pun based on a verse from Virgil’s *Bucolics:* ”Even the woods are worthy of consul.”
+
+#### a soldier of fortune:
+Madden: For a traditionalist like Monsieur Gillenormand, the soldiers of the Grande Armée were little better than pirates or highwaymen.
+
+### 3.2.7: Rule: Receive No One Except in the Evening
+
+#### dog-ear style:
+Donougher: *Oreilles de chien* (literally, ‘dog’s ears’) or *chien barbet* (‘poodle’) was a hairstyle in vogue among the *incroyables* for about two years at the end of the eighteenth century, with long tresses falling over the ears and the hair pinned up behind.
+
+Madden: The *oreilles de chien* hairstyle, worn long and framing the face on each side, was favoured by the young dandies known as *Incroyables* in the 1790s.
+
+#### the faubourg Saint-Germain … the Marais:
+The faubourg Saint-Germain, the left bank neighbourhood around the boulevard Saint-Germain, was the aristocratic neighbourhood of choice from the mid-eighteenth through the nineteenth centuries. The Marais, built around the place des Vosges, had been the most fashionable address in the seventeenth century; by the July Monarchy, it suggested a sort of faded gentility.
+
+### 3.2.8: Two Do Not Make a Pair
+
+#### bigotry:
+Madden: see here; bigotry is meant in the French sense, referring to a rigid, generally conservative set of religious beliefs.
+
+#### the Confraternity of the Virgin:
+Madden: Groups such as this, quasi-religious orders for laypeople, thrived in the renewal of devout Catholicism that occurred among the French under the Restoration and especially the July Monarchy.
+
+#### Agnus Deis and the Ave Marias:
+Madden: “Lamb of God” and “Hail Mary,” prayers of the Catholic Church.
