@@ -766,7 +766,7 @@ The prince de Soubise was a member of the Rohan family, who claimed descent from
 #### Du Barry, godfather of La Vaubernier … Richelieu:
 Donougher: Jean-Baptiste du Barry (1723–94) established as a courtesan Jeanne Vaubernier (1743–93), who attracted the attentions of Armand du Plessis, Maréchal Duc de Richelieu (1696–1788), a renowned libertine. In 1768 du Barry arranged for her to be married to his brother Comte Guillaume du Barry (1732–1811) so that she could become the official mistress of Louis XV.
 
-Madden: “Godfather” could not be used more ironically. Jean du Barry was the patron and brother-in-law of Madame du Barry, née Jeanne Bécu, Vaubernier being the name of her father, a monk at the Picpus monastery in Paris. Du Barry married the beautiful young prostitute to his elder brother, the comte du Barry, in order to give her entry into high society and thus a better clientele. She eventually became the mistress of Louis XV.
+Madden: “Godfather” could not be used more ironically. Jean du Barry was the patron and brother-in-law of Madame du Barry, née Jeanne Bécu, Vaubernier being the name of her father, a monk at the Picpus monastery in Paris. Du Barry married the beautiful young [sex worker] to his elder brother, the comte du Barry, in order to give her entry into high society and thus a better clientele. She eventually became the mistress of Louis XV.
 
 Monsieur le maréchal de Richelieu was one of the celebrated *grands seigneurs* and libertines of the eighteenth century. The ducs de Richelieu were the (indirect) descendants and heirs of the cardinal de Richelieu.
 
