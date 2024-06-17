@@ -761,14 +761,14 @@ Donougher: Jeanne-Antoinette Poisson, Madame de Pompadour (1721–64), was Louis
 
 Madden: Louis XV had made his mistress’s brother, Abel Poisson, the marquis de Marigny.
 
-The prince de Soubise was a member of the Rohan family, who claimed descent from the ancient kings of Brittany. He was the father-in-law (and cousin) of the prince de Guéménée, whose bankruptcy in 1782 was still another scandal for the court aristocracy.
+Madden: The prince de Soubise was a member of the Rohan family, who claimed descent from the ancient kings of Brittany. He was the father-in-law (and cousin) of the prince de Guéménée, whose bankruptcy in 1782 was still another scandal for the court aristocracy.
 
 #### Du Barry, godfather of La Vaubernier … Richelieu:
 Donougher: Jean-Baptiste du Barry (1723–94) established as a courtesan Jeanne Vaubernier (1743–93), who attracted the attentions of Armand du Plessis, Maréchal Duc de Richelieu (1696–1788), a renowned libertine. In 1768 du Barry arranged for her to be married to his brother Comte Guillaume du Barry (1732–1811) so that she could become the official mistress of Louis XV.
 
 Madden: “Godfather” could not be used more ironically. Jean du Barry was the patron and brother-in-law of Madame du Barry, née Jeanne Bécu, Vaubernier being the name of her father, a monk at the Picpus monastery in Paris. Du Barry married the beautiful young [sex worker] to his elder brother, the comte du Barry, in order to give her entry into high society and thus a better clientele. She eventually became the mistress of Louis XV.
 
-Monsieur le maréchal de Richelieu was one of the celebrated *grands seigneurs* and libertines of the eighteenth century. The ducs de Richelieu were the (indirect) descendants and heirs of the cardinal de Richelieu.
+Madden: Monsieur le maréchal de Richelieu was one of the celebrated *grands seigneurs* and libertines of the eighteenth century. The ducs de Richelieu were the (indirect) descendants and heirs of the cardinal de Richelieu.
 
 #### Mercury … Prince de Guéménée … A thief:
 Donougher: Henri de Rohan, Prince de Guéménée (1745–1809), son-in-law of the Prince de Soubise, declared bankruptcy in 1782, owing the colossal sum of 33 million francs. The Greek god Hermes (Mercury in the Roman pantheon) is characterized in classical literature as a thief, associated in particular with the theft of Apollo’s oxen (‘of many shifts, blandly cunning, a robber, a cattle driver, a bringer of dreams, a watcher by night, a thief at the gates’ – *Homeric Hymn IV, To Hermes*, lines 13–15). He is also the patron of (among others) thieves.
@@ -794,3 +794,361 @@ Madden: Monsieur Gillenormand, and Hugo, take their inspiration from Chateaubria
 Donougher: After the defeat of Napoleon at Waterloo and the capitulation of Paris in July 1815, the army under the command of General Louis-Nicolas Davout (1770–1823) withdrew to the Loire region and was often referred to by royalists as ‘the brigands of the Loire’.
 
 Madden: After Waterloo and Napoléon’s abdication, the soldiers loyal to him retreated beyond the Loire River before officially surrendering.
+
+### 3.3.2: One of the Red Spectres of That Epoch
+
+#### that beautiful stone bridge:
+Donougher: A medieval construction originally of twenty-five arches of which only eight were still standing in 1830, the stone bridge of Vernon was replaced in 1860 by a new stone bridge, the Pont Napoléon, renamed the Pont Clemenceau in 1930. This bridge was destroyed in 1940, and after a series of temporary replacements a new concrete-built Pont Clemenceau was inaugurated in 1954.
+
+#### Vernon:
+Madden: a small town on the Seine in Normandy, about forty miles from Paris. Colonel Baron Pontmercy’s exile has certain parallels with that of General Count Hugo, although the author’s father lived in Blois, on the banks of the Loire, and the woman he lived with was his mistress, not an old servant.
+
+#### Soulange-Bodin:
+Donougher: Étienne Soulange-Bodin (1774–1846) was a French horticulturalist, who created a botanical garden of some 170 acres at Fromont, about fifteen miles south-east of Paris. He was a pioneer in breeding hybrid magnolias and has given his name to the *Magnolia X soulangeana*.
+
+Madden: Étienne Soulange-Bodin (1774–1846) made great advances in botany.
+
+#### Georges Pontmercy:
+Madden: There are many indirect parallels between the careers of Marius’s father and Victor Hugo’s. Both were simple soldiers who rose through the ranks through battlefield promotions. Both fought in Germany and then in Italy, but General Hugo remained in Italy, where he eventually became Joseph Bonaparte’s aide-de-camp before following *le roi Joseph* to Spain in 1808, remaining there until 1813. In 1814, General Hugo was sent to command the fortified town of Thionville, where he held out against the allies even after Napoléon had surrendered and embarked for Elba. During the Hundred Days, Napoléon sent him back to Thionville, which he again held after the final abdication. It was only in November 1815, some five months after Napoléon had been shipped off to Saint Helena, that General Hugo surrendered.
+
+#### Saintonge regiment:
+Donougher: The Saintonge regiment fought in the American Revolutionary War as part of the French expeditionary force sent to support the Americans. Its two battalions were absorbed into brigade formations in 1794 and 1796.
+
+#### *Speyer, Worms, Neustadt, Turckheim, Alzey and Mainz … Andernach … Marchiennes … Mont-Palissel*:
+Donougher: Engagements in the Rhineland and in northern France during the French Revolutionary Wars of 1792–7.
+
+Madden: battles of the Revolutionary armies in the early 1790s. Pontmercy’s military career follows Napoléon to Waterloo, making it somewhat more glamorous than General Hugo’s, which was spent mostly in the Napoleonic quagmire in Spain.
+
+#### Houchard’s rear guard … Audernach:
+Donougher: General Jean-Nicolas Houchard (1738–1793), a soldier of humble origins, rose through the ranks to a position of command that exceeded his capabilities. Appointed commander-in-chief of the Army of the North in 1793, during the French Revolutionary Wars, he was arrested on charges of cowardice for his failure to pursue the enemy after winning the battle of Hondschoote in September 1793. Despite the many scars of battle that he bore, he was found guilty by the Revolutionary Tribunal and sent to the guillotine.
+
+Madden: General Jean-Nicolas Houchard (1740–1793) was guillotined in November 1793, after attempting a strategic retreat to Audernach that turned into a rout of French armies by the forces of the prince of Hesse.
+
+#### the Col di Tenda with Joubert:
+Donougher: General Barthélemy-Catherine Joubert (1769–99): ‘In 1791 \[Joubert\] enrolled as a volunteer, and served in all the lower ranks, from that of an ordinary grenadier. Having been made an infantry lieutenant, he was charged in September 1793 with the defence of a redoubt on the Col di Tenda: surrounded by five hundred Piedmontese, it was only after a spirited resistance that he was taken prisoner’ (Louis-Gabriel Michaud, *Biographie Universelle*, 1843). Joubert was killed at the battle of Novi (15 August 1799).
+
+Madden: Barthélemy Catherine Joubert (1769–99), Napoléon’s successor commanding the Army of Italy, was defeated by the Austrians and their Russian allies before being killed at the battle of Novi in August 1799.
+
+#### Berthier’s … gunner, trooper and grenadier … Lodi:
+Donougher: Louis-Alexandre Berthier (1753–1815) was Napoleon’s chief of staff, serving him in that post from 1794. The words are from a letter of 11 May 1796 written by Napoleon to the Directory, the day after the battle of Lodi, when the bridge held by the Austrians was taken by the French.
+
+Madden: Prince Louis-Alexandre Berthier (1753–1815) was Napoléon’s chief of staff and closest confidant. Lodi was a significant victory (May 1796) in establishing General Bonaparte’s reputation as the heroic commander of the Army of Italy.
+
+#### the red, white, and blue:
+Madden: i.e., the tricolour flag that was still the symbol of the Consulate.
+
+#### Malher … Günzburg:
+Donougher: Jean-Pierre Firmin Malher (1761–1808) was general of division at the battle of Günzburg, in October 1805, where the French succeeded in capturing from the Austrians the bridge over the Danube.
+
+#### Wertingen … Maupetit:
+Donougher: Colonel Pierre Maupetit distinguished himself as described at the battle of Wertingen on 8 October 1805, and although reported in the army bulletin to have been mortally wounded, he survived. He was named Commander of the Legion of Honour at Austerlitz (2 December 1805), promoted to general of brigade in 1806 after the battle of Jena, and made a baron of the Empire in 1808; he died in 1811.
+
+Madden: an early French victory in the 1805 campaign that culminated in the defeat of Austria and Russia at Austerlitz.
+
+#### the 4th Line:
+Donougher: The Russian Horse Guards captured from the 4th Line the only French colour that was lost at Austerlitz.
+
+#### Wurmser taken prisoner in Mantua … Mack in Ulm:
+Madden: three Austrian generals forced to surrender to French armies: Wurmser at Mantua in 1797; Mélas in Alexandria in June 1800; and Mack at Ulm, in Germany, in 1805, a prelude to Napoléon’s victory at Austerlitz.
+
+#### Mortier … Hamburg:
+Donougher: Édouard-Adolphe Mortier (1768–1835) served in the French Revolutionary Wars and was one of the first marshals Napoleon created. He led the occupation of Hamburg on 19 November 1806. Having served under Louis-Philippe as French ambassador to Russia, as minister of war and prime minister, he was killed in Fieschi’s attempt on Louis-Philippe’s life (see note p. 1386 on *the Fieschi conspiracy*).
+
+#### Eylau … Louis Hugo:
+Donougher: Hugo’s paternal uncle Louis (1777–1853) was awarded the Legion of Honour for his part in the battle of Eylau, fought against the Russians in East Prussia in February 1807. His defence of the cemetery is told in Victor Hugo’s poem ‘Le Cimetière d’Eylau’, published in the second series of his epic cycle *La Légende des Siècles*, on which he began work in 1862 and which was published in 1877.
+
+Madden: a hard-won victory over the Russians and Prussians (February 1807); it was Eylau and even more so the victory at Friedland the following June that led Czar Alexander to accept negotiations, leading to the meeting of the two emperors at Tilsit in July.
+
+Madden: Hugo’s poem “Le Cimetière d’Eylau” tells the story of [Louis Hugo’s] heroic stance.
+
+#### Moscow, then the Beresina:
+Madden: The scorched-earth tactic of the Russians made the taking of Moscow (September 1812) a Pyrrhic victory. Forced to retreat, the already weakened Grande Armée was trapped, on November 26, between a pursuing Russian force and the Beresina River, where the ice proved too weak to support the planned passage of the army. As the engineering corps raced to fashion a bridge, more than 10,000 French troops were killed, either by drowning or by Cossacks.
+
+####  Lützen, Bautzen … Gelenhausen:
+Madden: battles of the 1813 campaign in Germany, all victories except for the battle of Leipzig (October 16–19), also known as the Battle of Nations, which forced Napoléon to retreat to French territory for the last time.
+
+####  Montmirail, Château-Thierry … Laon:
+Madden: battles of the defensive “French Campaign” as Napoléon’s armies fell back in the face of the allied advance toward Paris. As with his résumé of the German campaign, Hugo ends his list of Pyrrhic victories with a defeat, that of the battle of Laon on March 10.
+
+#### Arnay-le-Duc:
+Donougher: This perhaps should be Bar-le-Duc, some 130 miles east of Paris, close to St-Dizier, where Napoleon won his last victory on 26 March 1814. Hugo may be referring to events that took place near by at what is referred to as the second battle of Fère-Champenoise on 25 March 1814, in which some 3,500 young and inexperienced National Guardsmen were killed making a heroic stand under General Michel-Marie Pacthod (1764–1830), whose arm was shattered in the fighting. Arnay-le-Duc is 155 miles south-east of Paris, in Burgundy, and not on the route of the retreating army.
+
+#### Eight days before the capitulation:
+Madden: General Marmont signed an armistice with the Allies at 2 A.M. on March 31, 1814; allied armies entered Paris later that day, while Napoléon retreated to Fontainebleau. On April 3, the imperial legislature pronounced Napoléon’s removal as emperor; on April 4, he abdicated, under the condition that his four-year-old son be recognized as Emperor Napoléon II, under the regency of Empress Marie-Louise; the Allies refused his conditions; on April 6, Napoléon abdicated unconditionally while his senate, under the leadership of Talleyrand, voted a proclamation recognizing Louis XVIII as king of the French. Pontmercy’s refusal to surrender recalls General Hugo’s holdout at Thionville.
+
+#### half pay:
+Madden: One of the great blunders of the first Restoration was, in 1814, to place large numbers of officers on half pay (*demi-solde*), a quasi-official retirement with inadequate pension. This policy made the army far more receptive to Napoléon’s return from Elba.
+
+#### King Louis XVIII … recognized neither … title as baron:
+Madden: Like Pontmercy’s, the title granted to General Hugo (count of Siguenza and Sifuentes) was never officially registered in Paris and was thus unrecognized by the Restoration.
+
+#### Sir Hudson Lowe:
+Madden: governor of Saint Helena, the final villain of the Napoleonic saga.
+
+#### Flaminius:
+Donougher: The third-century Roman consul Gaius Flaminius was killed at the battle of Lake Trasimene in 217 BC, when the great Carthaginian general Hannibal (247–183 BC) ambushed and destroyed the Roman army during the Second Punic War (218–202 BC), which began on the Iberian peninsula where the Romans may have taken some Carthaginians prisoner.
+
+#### The greatest families are forced to do it:
+Madden: Napoléon aggressively encouraged marriages between the old nobility of the faubourg Saint-Germain and the new nobility of his marshals, generals, and colonels.
+
+#### the legacy from Mademoiselle Gillenormand:
+Madden: French law closely governed questions of inheritance.
+
+#### hiding behind a pillar:
+Madden: When their parents had a falling-out, the very young Victor Hugo would hide behind a pillar at Saint-Sulpice in order to see his future wife, Adèle Foucher, attending mass in the company of her mother.
+
+#### St George’s Day:
+[Marius’s] father’s name-day.
+
+### 3.3.3: Requiescant
+
+#### Requiescant:
+Donougher: Part of the liturgical formula *Requiescant in pace* (‘May they rest in peace’).
+
+#### monorhymed odes:
+Donougher: Odes in which all the lines have the same end-rhyme.
+
+#### d’Espinouse:
+Donougher: In response to a letter he had received from the Marquis Charles-Louis-Alexandre de Coriolis d’Espinouse (1770–1841) Hugo wrote a poem entitled ‘Écrit en 1846’ (Written in 1846), published in his collection *Les Contemplations* of 1856: ‘Marquis, je m’en souviens, vous veniez chez ma mère, / Vous me faisiez parfois réciter ma grammaire …’ (‘Marquis, I remember, you used to visit my mother, / You sometimes made me recite my grammar …’).
+
+#### the man best versed in ‘proportionate politeness’:
+Donougher: An allusion to Saint-Simon’s descriptions in his *Mémoires* of the theologian Fénelon: ‘a politeness that, while being all-embracing, was always measured and proportionate’, vol. 9, ch. 12 (1711); and ‘an insinuating but noble and proportionate politeness’, vol. 11, ch. 22 (1715).
+
+#### the salon of Madame de T——:
+Madden: this crowded salon is something of a reflection of the atmosphere the adolescent Victor Hugo grew up in. Madame Hugo liked to blame her failed marriage on her royalist principles, and if the company she kept was far less grand than Madame de T——’s guests (Beauffremont, Clermont-Tonnerre, and la Luzerne are some of the great names of the old aristocracy), the Revolution and Empire were vilified by Hugo’s mother and her friends. While most of the baroness’s guests are real people, only those who played some larger role in history or Hugo’s life are discussed here. As the title of the chapter makes clear, Madame de T—— and her guests are living relics of another time.
+
+#### Trestaillon:
+Madden: leader of a violent royalist reaction—*the Terreur blanche*—in the south of France (see here).
+
+#### the ‘unfindable’ kind:
+Donougher: The ultra-royalist Chamber of Deputies elected in August 1815 was referred to by Louis XVIII as ‘introuvable’ (‘unfindable’), meaning that he could not have found a more royalist Chamber if he had tried. When the extremism of the ‘introuvable’ Chamber became a threat to the survival of the monarchy, the Assembly was dissolved by the king, in September 1816, and new elections returned more moderates.
+
+### the famous right-wing taunter:
+Donougher: Charles Nicolas Cornet-Dincourt (1773–1852) in 1816 proposed suspending the freedom of the press entirely, and restoring unsold assets to the Church.
+
+#### The bailiff of Ferrette … on his way to Monsieur de Talleyrand’s:
+Donougher: The county of Ferrette in Alsace came under the jurisdiction of Austria in 1324 and was ruled by a royal official known as the *bailli* (‘bailiff’) de Ferrette. In *La Muse du Département*, set in 1820s and 30s, Balzac writes of the bailiff that he was said to be ‘l’homme le plus courageux de l’Europe parce qu’il osait marcher sur ses deux jambes’ (‘the bravest man in Europe for daring to walk on his legs’); and that he was accused ‘de mettre du plomb dans ses souliers, pour ne pas être emporté par le vent’ (‘of putting lead in his shoes to save himself from being blown away’).
+
+Madden: Talleyrand, a rich European celebrity, had a house that was a gathering place for those elements of Parisian high society who were less ideological than Madame de T—— and her guests. For an old libertine like the bailiff of Ferrette, Talleyrand’s house would have been far more agreeable.
+
+#### the comte d’Artois:
+Madden: In his pre-Revolutionary youth, the future Charles X had been the only Bourbon of his generation to uphold the family tradition of libertinage. Time and the death of his favourite mistress led him back to the Church.
+
+#### Aristotle … Campaspe … La Guimard:
+Donougher: The story arose in the thirteenth century that when the philosopher Aristotle remonstrated with his pupil Alexander the Great for allowing himself to be distracted from more important things by his mistress, she took her revenge by using her charms to make Aristotle fall in love with her, to the point where he allowed her to ride on his back. When challenged about his behaviour, the philosopher replied that he had proved precept by example: if a man of his age and wisdom could be made a fool of by a woman, how much more dangerous must she be to a young man? While Pliny the Elder wrote in his *Natural History* that Campaspe was a favourite mistress of Alexander’s, the woman who seduced Aristotle is more usually given the name Phyllis. George Sarton in an article published in 1930 (‘Aristotle and Phyllis’, *Isis*, vol. 14, no. 1, p. 13) cites a reference to a French parlour game called *le cheval d’Aristote* (‘Aristotle’s horse’), in which as a forfeit a man is obliged to crawl around the room on all fours with one of the ladies on his back.
+
+Madden: According to a medieval legend, the Athenian courtesan Campaspe, or Phyllis, the mistress of Alexander the Great, seduced Aristotle and, as proof of his love, demanded that he allow her to ride his back while he crawled on all fours. For medieval moralists, this was a warning of the perfidy of woman, the dangers of desires of the flesh, and the arrogance of human intellect. “La Guimard” refers to one of the famous courtesans of the eighteenth century (see here).
+
+#### Abbé Halma … La Foudre:
+Donougher: Nicolas Halma (1755–1828), scholar and translator, notably of the Greek astronomer Ptolemy’s *Almageste* (1813). *La Foudre* was a royalist newspaper, founded in 1820 by Emmanuel Théaulon (1787–1841), who had earlier founded another royalist paper, *Le Nain Rose* – whose name perhaps suggested to Hugo the name Monsieur Larose.
+
+#### the abbé Frayssinous:
+Donougher: Abbé Denis de Frayssinous (1765–1841), bishop of Hermopolis, in 1822 was elected to the Academy and appointed grand master of the university. In 1824 he became minister of public education and ecclesiastical affairs, and delivered the funeral oration for Louis XVIII. In Flaubert’s *Madame Bovary* (pt 1, ch. 6) we read: ‘Le soir, avant la prière, on faisait dans l’étude une lecture religieuse. C’était, pendant la semaine, quelque résumé d’Histoire sainte ou les *Conférences* de l’abbé Frayssinous …’ (‘In the evening, before prayers, there would be a religious reading in the study. During the week it would be a commentary on some biblical story or Abbé Frayssinous’s *Lectures …*’).
+
+Madden: Denis-Antoine-Luc Frayssinous (1765–1841), an intimate of Charles X.
+
+#### the illustrious Liberian basilica:
+Donougher: The Basilica of Sta Maria Maggiore in Rome, called ‘Liberian’ after its original founder, Pope Liberius (352–66).
+
+#### advocate of the saints:
+Madden: In the “trials” that determine if a candidate is fit for sainthood, the advocate of the saints pleads the case of the nominee, while the devil’s advocate offers the counterevidence.
+
+#### master of requests:
+Donougher: Occupying a high-level position dating back to the Middle Ages, a *maître des requêtes* is a judicial officer whose role originally was to examine petitions (*requêtes*) to the Royal Household. In post-Revolutionary France masters of requests are members of the Council of State, which provides the government with legal advice.
+
+#### *Le Conservateur* … Chateaubriand:
+Donougher: A royalist newspaper published from October 1818 to March 1820, with which Chateaubriand was closely associated.
+
+Madden: *Le Conservateur* was the Ultra newspaper Chateaubriand contributed to when he was dismissed from Louis XVIII’s government in 1816, which in turn inspired the young and still royalist Hugo brothers to found *Le Conservateur littéraire* in 1818.
+
+#### hating the Encyclopaedia:
+Donougher: Compiled and edited by Denis Diderot and Jean d’Alembert (1718–83), the *Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers* (Encyclopaedia, or Classified Dictionary of the Sciences, Arts and Trades) consisted of 28 volumes and contained over 70,000 entries and over 3,000 illustrations. Published over the years 1751–72 and expanded by successive editors, it was intended to be a comprehensive corpus of world knowledge to be made available to the reading public and to future generations. With signed contributions by some of the greatest minds of the age, it represents one the highest achievements of the Enlightenment.
+
+Madden: Diderot’s *Encyclopédie* of 1751–72.
+
+#### one of the Forty:
+Donougher: The forty members of the Academy included Jean-Armand de Roquelaure (1721–1818), elected in 1771. He was bishop of Senlis from 1754 to 1801; the see of Senlis was then suppressed and absorbed into the see of Beauvais.
+
+#### *Vibraye … Talaru … Herbouville … Dambray … Valentinois*:
+Donougher: Anne-Victor-Denis Hurault, Marquis de Vibraye (1767–1843); Louis-Justin-Marie, Marquis de Talaru (1769–1850); Charles-Joseph-Fortuné, Marquis de Herbouville (1756–1829); Charles-Henri, Vicomte Dambray (1760–1829). The title of Duc de Valentinois, awarded to the Grimaldi house of Monaco by Louis XIII in 1642, was held during 1777–1814 by Honoré IV of Monaco (1758–1819).
+
+#### White—legitimist—Paris society:
+Madden: i.e., commited to the Bourbons.
+
+#### Chateaubriand … Père Duchesne:
+Madden: As with Louis XVIII’s “Jacobinism,” the conservative but constitutional monarchist Chateaubriand can be compared to the violently revolutionary *Père Duchesne* (see here) only by almost fanatical ultra-royalists.
+
+#### Comte Beugnot:
+Donougher: Jacques-Claude Beugnot (1761–1835) was elected to the Legislative Assembly for 1791–2 and 1816–20.
+
+Madden: Jacques-Claude Beugnot (1761–1835) came from an old family of the robe nobility but served both the Napoleonic and Restoration governments.
+
+#### The “noble” salons of today … to their credit:
+Madden: Hugo is apparently referring to the Paris of 1860–62, when the futility of royalism made those who adhered to it admirable, while “‘noble’ salons” did nothing to oppose the tyranny of Louis-Napoléon.
+
+#### the duchesses de Longueville and de Chevreuse:
+Madden: heroines of the Fronde, the period of aristocratic rebellion against Cardinal Mazarin, who animate the memoirs of the ducs de La Rochefoucauld and Saint-Simon.
+
+#### besmirched by the usurper:
+Madden: The “usurper” is, of course, Napoléon, who required his courtiers to address him as “Your Majesty” and “Sire.”
+
+#### Methuselah informed Epimenides:
+Donougher: The third-century-AD biographer of the Greek philosophers Diogenes Laertius tells us that Epimenides of Knossos fell asleep for fifty-seven years, and when he awoke after what he thought was a short nap he was bewildered by the changes that had taken place in the meantime.
+
+Madden: Methuselah lived for 967 years, according to the book of Genesis, while in Greek legend, Epimenides fell asleep in a cave for fifty-seven years.
+
+#### The time … since Koblenz:
+Donougher: Many of the royalist émigrés who fled France after the Revolution gathered in Koblenz in the Rhineland, where Louis XVI’s brothers the Comte de Provence (the future Louis XVIII) and the Comte d’Artois (later Charles X) had taken up residence, and where the Prince de Condé commanded an émigré army. In 1794 Koblenz fell to the Revolutionary army in the French Revolutionary Wars.
+
+Madden: the German city where royalist émigrés organized an ultimately unsuccessful counterrevolutionary invasion of France.
+
+#### the advent of Monsieur de Villèle:
+Madden: The appointment of Villèle to the post of prime minister was seen as a triumph for the Ultras, even if he eventually proved too pragmatic for the Right.
+
+#### revenants:
+literally, “those who have returned”; this is also the French word for ghosts.
+
+#### *ci-devants*:
+Madden: The term used to describe “former” noblemen during the Revolution, *ci-devant* came to refer to those aristocrats who clung to the traditions of the ancien régime.
+
+#### the nobility of the Crusades:
+Madden: The ideal of the French aristocracy under the ancien régime, when custom dictated that only those who could prove four hundred years of noble ancestry could be presented at court. In the eighteenth century, some notoriously creative geneaologies were used to gain access to court.
+
+#### Fontenoy … Marengo:
+Madden: battles of the ancien régime and the Empire, respectively.
+
+#### the sword of Fontenoy:
+Donougher: The battle of Fontenoy was a pre-Revolutionary French victory in 1745 during the War of the Austrian Succession (1740–48).
+
+#### called Bonaparte ‘Scapin’:
+Donougher: A pre-Revolutionary bishop, Napoleon’s chaplain, later bishop of Poitiers, then archbishop of Malines and in 1812 Napoleon’s ambassador to Warsaw, Abbé de Pradt (1759–1837) in the preface to his post-Restoration *Histoire de l’Ambassade dans le Grand-Duché de Varsovie* (History of the Embassy to the Grand-Duchy of Warsaw; Paris, 1815) associates Napoleon with the trickster in Molière’s comedy *Les Fourberies de Scapin* (Scapin’s Tricks) by referring to him as a man who appears as ‘une espèce de Jupiter-Scapin qui n’avait pas encore paru sur la scène du monde’ (‘a kind of Jupiter-Scapin never before seen on the world stage’).
+
+#### Monsieur de Martainville:
+Donougher: A playwright and journalist of no great distinction, Alphonse Martainville (1776–1830) in 1819 founded the ultra-conservative newspaper *Le Drapeau Blanc*.
+
+Madden: a royalist playwright and actor (1776–1830) who is best remembered as the founder of the Ultra newspaper *Le Drapeau blanc*.
+
+#### Fiévée:
+Donougher: A journalist of ultra-royalist opinions, Joseph Fiévée (1767–1839) was also the author of a very successful novel of royalist sentiment, *La Dot de Suzette* (Suzette’s Dowry), adapted for the stage within months of publication (1798).
+
+Madden: Joseph Fiévée was a journalist who tacked his sails to the prevailing wind, switching from Bonapartism to royalism in 1815.
+
+#### Monsieur Agier:
+Donougher: An ardent ultra-royalist in 1816, François-Marie Agier (1780–1848) gradually moved to a more liberal position, and as vice-president of the Chamber of Deputies in 1828 led a group, regarded as defectors by the ultras, that controlled the majority.
+
+Madden: Agier was the leader of a large faction of conservatives in the Chamber of Deputies.
+
+#### Colnet:
+Donougher: The journalist and satirist Charles Colnet du Ravel (1768–1832) was an outspoken critic of Napoleon in the many articles that he wrote for a number of journals, and his bookshop, known as his *caverne*, became a meeting-place for other writers who shared his political opinions.
+
+#### Monsieur le Marquis de Buonaparté:
+Donougher: The Jesuit Père Jean-Nicolas Loriquet (1767–1845) was accused of having made this reference to Napoleon in a school textbook that presented an anti-Revolutionary view of French history. There is no evidence that the phrase was ever included in his text, but Loriquet and the Jesuits were discredited as educators as a result of the accusation.
+
+#### doctrinaires:
+Donougher: The name by which the political party of constitutional monarchists became known.
+
+#### After the fifth of September … the eighth of July:
+Donougher: The Terror was instituted by a decree of 5 September 1793 authorizing the Revolutionary government to eliminate its enemies.
+
+Donougher: The restoration of the Bourbon monarchy dates from 8 July 1815 when Louis XVIII made his entry into Paris.
+
+Madden: an apparent reference to a decree of the Convention on September 5, 1793, which authorized the arrest of “suspects” practically on the whim of Revolutionary authorities, making noble status a virtual crime in itself. July 8, 1815, was the day Louis XVIII returned to Paris after Waterloo. In terms of both numbers and official persecutions, it is a gross exaggeration to compare the *Terreur blanche* to the *Terreur rouge* of 1793–94.
+
+#### Monsieur de Vaublanc:
+Donougher: Vaublanc, who had been a well rewarded supporter of Napoleon, enthusiastically welcomed the return of the monarchy and was appointed minister of the interior in September 1815.
+
+Madden: minister of the interior to Louis XVIII.
+
+#### Bouvines:
+Donougher: Philippe II (1165–1223) won a decisive victory for France at the battle of Bouvines in 1214.
+
+#### The Congregation:
+Donougher: A religious association for clergy and laity; revived in 1814 by the Jesuit Pierre Ronsin (1771–1846) for the defence of Catholicism, the Congregation came to be closely allied with the royalist cause and politically influential.
+
+Madden: The Chevaliers de la Foi, or Knights of Faith, a mostly aristocratic group committed first to the Church and second to politics, became an almost mythical force in the popular political imagination under the Restoration. The Congregation plays a large role in Stendhal’s *Le Rouge et le noir*—far larger, probably, than it ever played in fact.
+
+### 3.3.4: End of the Brigand
+No footnotes
+
+### 3.3.5: The Utility of Going to Mass, in Order to Become a Revolutionist
+No footnotes
+
+### 3.3.6: The Consequences of Having Met a Warden
+
+#### the *Moniteur:*
+Madden: the quasi-official newspaper of virtually every French government from 1789 to 1901. Bonaparte was especially conscious of the usefulness of such an outlet.
+
+#### the *Mémorial de Sainte-Hélène:*
+Donougher: A journal published in 1823 concerning the private life and conversations of Napoleon as recorded by Emmanuel, Comte de las Cases (1766–1842), who accompanied Napoleon to St Helena and remained there with him until 1816. Las Cases wrote, under the pseudonym Lesage, a historical atlas first published in England in 1801.
+
+Madden: Emmanuel de Las Cases served as an officer in the Napoleonic armies before following Napoléon to Saint Helena. Although ordered by the British to leave after a year, Las Cases had sufficient time to interview Napoléon and gather the notes he would use in composing the *Mémorial*, a hagiographic account of the Napoleonic epic. A huge success from the moment of its publication, the *Mémorial* was one of the most important factors in shaping Napoléon’s legend in the 1820s.
+
+#### the bulletins of the Grande Armée:
+Madden: The bulletins were official accounts of the actions of Napoléon’s army. A key tool of imperial propaganda, the bulletins were sometimes praised for their writing; Hugo’s “Homeric stanzas” more likely refers to the content than the style. The bulletins were recognized as propaganda at the time; the saying “to lie like the bulletins” became common among soldiers.
+
+#### Mirabeau … Danton:
+Madden: some of the greatest figures of the Revolution. Mirabeau (1749–91) was the famous orator who dominated the Constituent Assembly. Pierre Vergniaud (1753–93) was one of the leading figures of the Girondist faction, moderate republicans who were eclipsed by the more radical Jacobins. Vergniaud was among those executed after the Jacobins triumphed in the spring of 1793. On Saint-Just, see here. Robespierre, the leader of the Jacobins, was overthrown in the coup of 9 Thermidor, July 28, 1794. On Desmoulins, see here. On Danton, see here.
+
+#### Vergniaud:
+Donougher: A brilliant defence lawyer who became leader of the moderate Republican Girondist faction, Pierre Vergniaud (1753–93) was the last of the twenty-one Girondists to be guillotined in October 1793.
+
+#### his own sisters’ lover:
+Donougher: A defamatory rumour that circulated among anti-Bonapartists.
+
+Madden: such was the royalist propaganda against Napoléon, that he and his brothers committed incest with their sisters.
+
+#### the [charlatan/ham actor] who took lessons from Talma:
+Donougher: Napoleon took a great interest in the theatre and was a particular admirer of the actor Talma, reportedly offering him advice on how men of power in the great tragedies should move on stage. The rumour that Napoleon was taking lessons in deportment from Talma is reflected in a cartoon of 1814 in which Napoleon is caricatured aping poses struck by the tragedian.
+
+Madden: “ham actor” refers to the rumours that Napoléon had been taught how to perform in public by the actor Talma (see here).
+
+#### poisoner of Jaffa:
+Donougher: Contemporary rumours, much disputed, had it that when Napoleon withdrew from Jaffa in 1799 after the abortive Syrian campaign, he gave the order that wounded and plague-infected French troops should be administered fatal overdoses of opium, an allegation for which Walter Scott in his *Life of Napoleon Buonaparte* (1827) found ‘insufficient evidence’.
+
+Madden: The legend of the “poisoner of Jaffa” refers to the Egyptian campaign of 1798–99. Napoléon supposedly poisoned the well at a camp in Jaffa (Haifa) in order to eliminate sick soldiers who were slowing his retreat after encountering an overwhelming Turkish force.
+
+#### Charlemagne … the Committee of Public Safety:
+Madden: some of the most powerful rulers of France. Charlemagne (ca. 750–814), the first Holy Roman emperor, is claimed by the French as a king. Louis XI (born 1423, reigned 1461–83), the Spider King, patiently and ruthlessly consolidated royal power in the wake of the Hundred Years’ War. Hugo helped promote the legend of Louis XI in *Notre-Dame de Paris*. Henri IV was the first Bourbon king and the grandfather of Louis XIV (born 1638, reigned 1643–1715). Cardinal de Richelieu (1585–1642), the loyal and ruthless prime minister of Louis XIII, worked to strengthen the monarchy. The Committee of Public Safety was the executive component of the Convention, the means through which Robespierre ruled the country.
+
+#### *Baron Marius Pontmercy:*
+Madden: Like Marius, it was only after his father’s death in 1829 that Hugo began to use the title of “Baron Hugo,” to which he was entitled according to the strict rules of the imperial nobility, his elder brothers being the comte (Abel) and vicomte (Edmond) Hugo.
+
+#### Géronte’s gaiety:
+Donougher: The stock character of the old man in the comic tradition, as represented for instance in Molière’s *Le Médecin Malgré Lui* (1666) or *Les Fourberies de Scapin* (1671).
+
+Madden: The name Géronte was traditionally used for the character of the patriarch in French theatre, including by Molière.
+
+#### the melancholy Werther:
+Donougher: An allusion to the Romantic hero of Goethe’s confessional novel *The Sorrows of Young Werther* (1774).
+
+Madden: Werther was the classic Romantic hero of Goethe’s *The Sorrows of Young Werther*, a brooding youth in love with an unattainable woman.
+
+### 3.3.7: Some Petticoat
+
+#### a good-looking officer:
+Madden: With his moustache, his “girl’s waist,” and his decorative sabre, Lieutenant Théodule is a classic dandy of the era.
+
+#### on top:
+Madden: The cheapest seats on a public coach were those on the top deck, the roof of the carriage itself, which had no protection from the elements.
+
+#### Théodule:
+Madden: Théodule, which can suggest “one who praises God,” is a name well suited to please Mademoiselle Gillenormand, even if the young officer would prefer the more fashionable “Alfred.”
+
+#### Argus snored all night:
+Donougher: The hundred-eyed giant, whom the jealous goddess Juno appoints to guard her rival in love Io (see note p. 1375 on *Io … Pissevache*), is lulled to sleep by Mercury and then beheaded in order to release Jupiter’s paramour from his watchfulness (Ovid, *Metamorphoses*, bk I, lines 622–722).
+
+Madden: Argus was the hundred-eyed, all-seeing demigod of Greek mythology.
+
+### 3.3.8: Marble Against Granite
+
+#### rogues, cutthroats, red caps, thieves:
+Madden: the royalists’ image of the revolutionaries; on red caps, [see here](#notes_001.html#p1b1ch10en21).
+
+#### Louis XVIII had been dead four years:
+Madden: Louis XVIII died in 1824.
+
+#### the duc de Berry:
+Madden: the royalist martyr assassinated in 1820; [see here](#notes_001.html#p1b3ch1en35).
+
+#### sixty pistoles:
+Madden: a coin worth ten livres, or francs. The word was rarely used in the nineteenth century.
