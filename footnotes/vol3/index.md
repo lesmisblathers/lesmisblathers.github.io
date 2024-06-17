@@ -739,10 +739,6 @@ Donougher translation:<br/>
 Ah! it’ll come! it’ll come! it’ll come!<br/>
 Bonapartists from lamp-posts strung!<br/>
 
-Rose translation:<br/>
-Ah! It’ll be all right! it’ll be all right! it’ll be all right!<br/>
-Let the Buonapartists string from the lampposts!<br/>
-
 Donougher: *Ça ira* is an idiomatic expression meaning ‘Things will work out’ or ‘We’ll get there.’ It was supposedly Benjamin Franklin’s answer when asked in Paris how the American War of Independence was going. The refrain of this Revolutionary song – ‘Ah! ça ira! ça ira! ça ira! / Les aristocrates à la lanterne!’ (the salon members substitute the word ‘Bonapartists’ for ‘aristocrats’) – was so popular that it was sung as the refrain of another Revolutionary song, the ‘Carmagnole’. Both songs were banned in 1799 when Napoleon became first consul.
 
 Madden: a popular and violent revolutionary song that celebrated the hanging of aristocrats from the lampposts of Paris. The denizens of Madame de T——’s salon have replaced the aristocrats with “Buonapartists” in their lyrics.
