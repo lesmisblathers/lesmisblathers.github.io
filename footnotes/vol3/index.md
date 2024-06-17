@@ -707,7 +707,7 @@ Madden: Compared to his family and the ultra-royalists, Louis XVIII, who deemed 
 #### Monsieur, later Charles X:
 Madden: Monsieur, the comte d’Artois, was far more conservative than his elder brother, and his succession to the throne in 1824 was seen by the Ultras as a chance to turn back the historical clock.
 
-#### “the federates”:
+#### the federates:
 Donougher: The National Guardsmen from the provinces, summoned by the Legislative Assembly in 1792 to celebrate the storming of the Bastille at the Festival of Federation (those from Marseille bringing the ‘Marseillaise’ with them to Paris), were referred to as ‘the federates’. They went on to storm the Tuileries on 10 August.
 
 Madden: the name given volunteers for the regional National Guards in the early years of the Revolution. It was the federates of Marseilles who first sang the “Marseillaise,” which these lyrics parody.
@@ -752,7 +752,7 @@ Donougher: The brutal murder, in March 1817, of the retired prosecutor Antoine-B
 
 Madden: In 1817, Antoine-Bernadin Fualdès, a former public prosecutor (*procureur impérial*) under the Napoleonic government, was brutally murdered in Rodez. Two men named Bastide and Jausion were arrested, convicted, and executed in Toulouse in 1818. The sensational case was closely followed throughout France.
 
-#### “the brothers and friends”:
+#### the brothers and friends:
 Madden: a mocking allusion to the Revolutionary ideal of *fraternité*.
 
 #### the comte de Lamothe-Valois … the necklace affair … strange amnesties:
