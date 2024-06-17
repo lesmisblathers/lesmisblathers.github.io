@@ -458,7 +458,7 @@ Donougher: Author of *Observations on Yellow Fever, Made at Cadiz in* 1819, Dr A
 
 Madden: Dr. Mazet was one of a group of French physicians who travelled to Barcelona in 1821 in order to study and help fight an epidemic of yellow fever; Mazet died after contracting the disease himself. Hugo's 1822 poem "Le Dévouement" was inspired by Mazet and the other members of the humanitarian expedition.
 
-#### Mirabeau:
+#### a rostrum under Mirabeau’s feet and a crater under the feet of Robespierre:
 Donougher: Rejected by his fellow aristocrats as a potential delegate to the Estates General in 1788, Mirabeau (1749--91) with his great oratorial and pamphleteering skills was elected as a commoner to the Third Estate and elected president of the National Assembly three months before he died. Buried in the Panthéon, his remains were removed when it became known he had colluded with the king in a failed attempt to establish a constitutional monarchy.
 
 Madden: After a decidedly ambiguous early life, Honoré-Gabriel Riqueti, comte de Mirabeau, became one of the heroes of the Revolution due to his powerful speeches to the National Assembly. Robespierre was doomed when he became tyrant in the name of republicanism.
@@ -683,3 +683,118 @@ Madden: Groups such as this, quasi-religious orders for laypeople, thrived in th
 
 #### Agnus Deis and the Ave Marias:
 Madden: “Lamb of God” and “Hail Mary,” prayers of the Catholic Church.
+
+## Book 3: The Grandfather and the Grandson
+
+### 3.3.1: An Ancient Salon
+
+#### Monsieur de Bonald and even Monsieur Bengy-Puy-Vallée:
+Madden: two paragons of ultra-royalism under the Restoration. The vicomte de Bonald (1754–1840) was an influential writer and legislator; Monsieur Bengy-Puy-Vallée was rather more obscure, and there may be some irony in the pairing of these two names.
+
+Donougher: Louis de Bonald (1754–1840), appointed minister in 1822 and made a peer in 1823, was a critic of the Enlightenment and an advocate of aristocratic institutions.
+
+Donougher: A friend of de Bonald, Philippe Bengy-Puy-Vallée (1743–1823), of noble descent, served in the pre-Revolutionary army, fled France as an émigré, then returned under the Consulate.
+
+#### la baronne de T——:
+Madden: There is no obvious model for the baroness, but ambassadorships, particularly to a capital as important as Berlin, were typically given only to the highest nobility under the ancien régime.
+
+#### a very mixed bag:
+Madden: i.e., the Restoration court, which included members of the imperial aristocracy.
+
+#### the Jacobinism of Louis XVIII:
+Madden: Compared to his family and the ultra-royalists, Louis XVIII, who deemed 1814 the nineteenth year of his reign, was considered a moderate for his conciliatory pragmatism. Hugo barely exaggerates the attitude of the Ultras.
+
+#### Monsieur, later Charles X:
+Madden: Monsieur, the comte d’Artois, was far more conservative than his elder brother, and his succession to the throne in 1824 was seen by the Ultras as a chance to turn back the historical clock.
+
+#### “the federates”:
+Donougher: The National Guardsmen from the provinces, summoned by the Legislative Assembly in 1792 to celebrate the storming of the Bastille at the Festival of Federation (those from Marseille bringing the ‘Marseillaise’ with them to Paris), were referred to as ‘the federates’. They went on to storm the Tuileries on 10 August.
+
+Madden: the name given volunteers for the regional National Guards in the early years of the Revolution. It was the federates of Marseilles who first sang the “Marseillaise,” which these lyrics parody.
+
+#### the Dessolles ministry … Deserre:
+Madden: The marquis de Dessolles was president of the Council of Ministers (prime minister) from 1817 to 1819; Élie Decazes, who had become the favourite of Louis XVIII—who called him “*mon cher fils*”—was minister of the interior; and George Deserre was minister of justice. All three were moderately liberal politicians.
+
+#### In order to re-establish … must be changed.
+Pour raffermir le trône ébranlé sur sa base,<br/>
+Il faut changer de sol, et de serre et de case.<br/>
+
+Donougher translation:<br/>
+To restore the shaken throne to a firmer footing,<br/>
+Requires a change ‘de sol [Dessolles], et de serre [Deserre] et de case [Decazes]’.<br/>
+Footnote: ‘Of soil, and of glasshouse and of dwelling’.
+
+#### Damas, Sabran, Gouvion-Saint-Cyr:
+Donougher: ‘Sabrant’ (‘sabring’) being a homophone of ‘Sabran’: ‘Damas *sabring* Gouvion St-Cyr’.
+
+Donougher: After a military career Ange Hyacinthe Maxence de Damas de Cormaillon, Baron de Damas (1785–1862) served briefly under the Restoration as minister of war and minister of foreign affairs; Comte Elzéar-Louis-Zozime de Sabran (1764–1847) served in the émigré army and in 1814 was made a general by Louis XVIII; Laurent de Gouvion St-Cyr (1764–1830) distinguished himself in the Napoleonic Wars but his opposition to Napoleon becoming emperor delayed his promotion to marshal. He served as minister of war under the Restoration and was made marquis in 1817.
+
+Madden: The marquis de Gouvion-Saint-Cyr (1764–1830) and the baron de Damas (1785–1862) were both aristocrats who served in the imperial armies and then the Restoration government, Damas succeeding Saint-Cyr as minister of war under Louis XVIII. The inclusion of Sabran in this list is not clear.
+
+#### Ça ira:
+Ah ! ça ira ! ça ira ! ça ira !<br/>
+Les buonapartist’ à la lanterne !<br/>
+
+Donougher translation:<br/>
+Ah! it’ll come! it’ll come! it’ll come!<br/>
+Bonapartists from lamp-posts strung!<br/>
+
+Rose translation:<br/>
+Ah! It’ll be all right! it’ll be all right! it’ll be all right!<br/>
+Let the Buonapartists string from the lampposts!<br/>
+
+Donougher: *Ça ira* is an idiomatic expression meaning ‘Things will work out’ or ‘We’ll get there.’ It was supposedly Benjamin Franklin’s answer when asked in Paris how the American War of Independence was going. The refrain of this Revolutionary song – ‘Ah! ça ira! ça ira! ça ira! / Les aristocrates à la lanterne!’ (the salon members substitute the word ‘Bonapartists’ for ‘aristocrats’) – was so popular that it was sung as the refrain of another Revolutionary song, the ‘Carmagnole’. Both songs were banned in 1799 when Napoleon became first consul.
+
+Madden: a popular and violent revolutionary song that celebrated the hanging of aristocrats from the lampposts of Paris. The denizens of Madame de T——’s salon have replaced the aristocrats with “Buonapartists” in their lyrics.
+
+#### Fualdès affair:
+Donougher: The brutal murder, in March 1817, of the retired prosecutor Antoine-Bernardin Fualdès (born 1761) and the subsequent trials – the first was declared a mistrial on a legal technicality – created a sensation and were covered widely in the press, both in France and abroad. Indicative of the huge interest is Mary Shelley’s request, in a letter from Italy dated 30 April 1818 addressed to Thomas Love Peacock, for a publication about the trial to be sent out to her (*The Letters of Thomas Love Peacock: 1792*–*1827*, ed. Nicholas A. Joukovsky, Oxford: Oxford University Press, 2001, p. 132). Charles Bastide-Gramont (godson of Fualdès), Joseph Jausion and Jean-Baptiste Collard were executed for the murder. The whole affair remains contentious.
+
+Madden: In 1817, Antoine-Bernadin Fualdès, a former public prosecutor (*procureur impérial*) under the Napoleonic government, was brutally murdered in Rodez. Two men named Bastide and Jausion were arrested, convicted, and executed in Toulouse in 1818. The sensational case was closely followed throughout France.
+
+#### “the brothers and friends”:
+Madden: a mocking allusion to the Revolutionary ideal of *fraternité*.
+
+#### the comte de Lamothe-Valois … the necklace affair … strange amnesties:
+Donougher: The involvement of the Comte de Lamothe-Valois (or more usually La Motte; 1755–1831) in the necklace affair, a fraud perpetrated by his wife, who arranged the forging of Marie-Antoinette’s signature in order to acquire a diamond necklace for herself – and which was exploited by anti-royalists to discredit the queen – should have made him anathema to this royalist salon.
+
+Madden: Antoine-Nicolas Lamothe, or Lamotte, a fraudulent count who married Jeanne de Valois-Saint-Rémy (1756–91), the descendant of a bastard of the Valois dynasty. The comte de Lamothe-Valois and his wife had been the principal orchestrators of the “Necklace Affair,” an ancien régime scandal that had badly damaged the public image of the royal family, hence the “strange amnesties.”
+
+#### Marigny … La Pompadour … Prince de Soubise:
+Donougher: Jeanne-Antoinette Poisson, Madame de Pompadour (1721–64), was Louis XV’s mistress from 1745 until her death. Her brother Abel became Marquis de Marigny in 1754. The Prince de Soubise, Charles de Rohan (1715–87), was a protégé of Madame de Pompadour, and through her influence was given command of an army during the Seven Years War (1756–63); he suffered a humiliating defeat at the battle of Rossbach in 1757.
+
+Madden: Louis XV had made his mistress’s brother, Abel Poisson, the marquis de Marigny.
+
+Madden: The prince de Soubise was a member of the Rohan family, who claimed descent from the ancient kings of Brittany. He was the father-in-law (and cousin) of the prince de Guéménée, whose bankruptcy in 1782 was still another scandal for the court aristocracy.
+
+#### Du Barry, godfather of La Vaubernier … Richelieu:
+Donougher: Jean-Baptiste du Barry (1723–94) established as a courtesan Jeanne Vaubernier (1743–93), who attracted the attentions of Armand du Plessis, Maréchal Duc de Richelieu (1696–1788), a renowned libertine. In 1768 du Barry arranged for her to be married to his brother Comte Guillaume du Barry (1732–1811) so that she could become the official mistress of Louis XV.
+
+Madden: “Godfather” could not be used more ironically. Jean du Barry was the patron and brother-in-law of Madame du Barry, née Jeanne Bécu, Vaubernier being the name of her father, a monk at the Picpus monastery in Paris. Du Barry married the beautiful young prostitute to his elder brother, the comte du Barry, in order to give her entry into high society and thus a better clientele. She eventually became the mistress of Louis XV.
+
+Madden: Monsieur le maréchal de Richelieu was one of the celebrated *grands seigneurs* and libertines of the eighteenth century. The ducs de Richelieu were the (indirect) descendants and heirs of the cardinal de Richelieu.
+
+#### Mercury … Prince de Guéménée … A thief:
+Donougher: Henri de Rohan, Prince de Guéménée (1745–1809), son-in-law of the Prince de Soubise, declared bankruptcy in 1782, owing the colossal sum of 33 million francs. The Greek god Hermes (Mercury in the Roman pantheon) is characterized in classical literature as a thief, associated in particular with the theft of Apollo’s oxen (‘of many shifts, blandly cunning, a robber, a cattle driver, a bringer of dreams, a watcher by night, a thief at the gates’ – *Homeric Hymn IV, To Hermes*, lines 13–15). He is also the patron of (among others) thieves.
+
+Madden: Hermes in Greek mythology, the messenger god was also a thief and a prankster.
+
+#### the Valois name:
+Donougher: This de Lamothe acquired by his marriage to Jeanne de Valois-St-Rémy (1756–91). The House of Valois was a cadet branch of the French royal family that unexpectedly succeeded to the throne in 1328 – the crisis over the succession precipitated the Hundred Years War (1337–1543) between England and France – and reigned until 1589.
+
+#### Count von Ruppin:
+Donougher: The Hohenzollern dynasty first acquired the title ‘Margrave of Brandenburg’ in 1415, and early on took over the smaller fiefdom of Ruppin. They were granted the title ‘king’ in Prussia in 1701, and only in 1772 did Frederick II adopt the title ‘King of Prussia’. When travelling, Frederick the Great occasionally made use of the title Count von Ruppin.
+
+#### the king of Prussia … marquis de Brandenburg:
+Madden: By tradition, monarchs travelling in foreign lands used assumed names in order to facilitate protocol—Louis XVIIII in exile was known as the comte de Lille. Louis XVIII, the alleged Jacobin, considered himself the scion of the oldest dynasty in Europe and first among equals with other monarchs, and thus alienated the rulers of the countries that had restored him to his throne with his “refined impertinence”—when Czar Alexander I arrived for a meeting, Louis never asked him to sit down. Marquis (margrave) de Brandenburg was the ancient title of the Hohenzollerns before they became electors and then kings of Prussia.
+
+#### *Courrier français:*
+Madden: a liberal-leaning newspaper (several newspapers of various political stripes have been published with that title).
+
+#### Monsieur de Talleyrand:
+Madden: Monsieur Gillenormand, and Hugo, take their inspiration from Chateaubriand, who, having seen the clubfooted Talleyrand and Fouché arriving for an audience with Louis XVIII after Waterloo, later wrote, “And then Vice entered, supported by Crime, M. de Talleyrand leaning on the arm of M. Fouché.”
+
+#### brigand of the Loire:
+Donougher: After the defeat of Napoleon at Waterloo and the capitulation of Paris in July 1815, the army under the command of General Louis-Nicolas Davout (1770–1823) withdrew to the Loire region and was often referred to by royalists as ‘the brigands of the Loire’.
+
+Madden: After Waterloo and Napoléon’s abdication, the soldiers loyal to him retreated beyond the Loire River before officially surrendering.
