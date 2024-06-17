@@ -689,11 +689,11 @@ Madden: “Lamb of God” and “Hail Mary,” prayers of the Catholic Church.
 ### 3.3.1: An Ancient Salon
 
 #### Monsieur de Bonald and even Monsieur Bengy-Puy-Vallée:
-Madden: two paragons of ultra-royalism under the Restoration. The vicomte de Bonald (1754–1840) was an influential writer and legislator; Monsieur Bengy-Puy-Vallée was rather more obscure, and there may be some irony in the pairing of these two names.
-
 Donougher: Louis de Bonald (1754–1840), appointed minister in 1822 and made a peer in 1823, was a critic of the Enlightenment and an advocate of aristocratic institutions.
 
-Donougher: A friend of de Bonald, Philippe Bengy-Puy-Vallée (1743–1823), of noble descent, served in the pre-Revolutionary army, fled France as an émigré, then returned under the Consulate.
+A friend of de Bonald, Philippe Bengy-Puy-Vallée (1743–1823), of noble descent, served in the pre-Revolutionary army, fled France as an émigré, then returned under the Consulate.
+
+Madden: two paragons of ultra-royalism under the Restoration. The vicomte de Bonald (1754–1840) was an influential writer and legislator; Monsieur Bengy-Puy-Vallée was rather more obscure, and there may be some irony in the pairing of these two names.
 
 #### la baronne de T——:
 Madden: There is no obvious model for the baroness, but ambassadorships, particularly to a capital as important as Berlin, were typically given only to the highest nobility under the ancien régime.
@@ -761,14 +761,14 @@ Donougher: Jeanne-Antoinette Poisson, Madame de Pompadour (1721–64), was Louis
 
 Madden: Louis XV had made his mistress’s brother, Abel Poisson, the marquis de Marigny.
 
-Madden: The prince de Soubise was a member of the Rohan family, who claimed descent from the ancient kings of Brittany. He was the father-in-law (and cousin) of the prince de Guéménée, whose bankruptcy in 1782 was still another scandal for the court aristocracy.
+The prince de Soubise was a member of the Rohan family, who claimed descent from the ancient kings of Brittany. He was the father-in-law (and cousin) of the prince de Guéménée, whose bankruptcy in 1782 was still another scandal for the court aristocracy.
 
 #### Du Barry, godfather of La Vaubernier … Richelieu:
 Donougher: Jean-Baptiste du Barry (1723–94) established as a courtesan Jeanne Vaubernier (1743–93), who attracted the attentions of Armand du Plessis, Maréchal Duc de Richelieu (1696–1788), a renowned libertine. In 1768 du Barry arranged for her to be married to his brother Comte Guillaume du Barry (1732–1811) so that she could become the official mistress of Louis XV.
 
 Madden: “Godfather” could not be used more ironically. Jean du Barry was the patron and brother-in-law of Madame du Barry, née Jeanne Bécu, Vaubernier being the name of her father, a monk at the Picpus monastery in Paris. Du Barry married the beautiful young prostitute to his elder brother, the comte du Barry, in order to give her entry into high society and thus a better clientele. She eventually became the mistress of Louis XV.
 
-Madden: Monsieur le maréchal de Richelieu was one of the celebrated *grands seigneurs* and libertines of the eighteenth century. The ducs de Richelieu were the (indirect) descendants and heirs of the cardinal de Richelieu.
+Monsieur le maréchal de Richelieu was one of the celebrated *grands seigneurs* and libertines of the eighteenth century. The ducs de Richelieu were the (indirect) descendants and heirs of the cardinal de Richelieu.
 
 #### Mercury … Prince de Guéménée … A thief:
 Donougher: Henri de Rohan, Prince de Guéménée (1745–1809), son-in-law of the Prince de Soubise, declared bankruptcy in 1782, owing the colossal sum of 33 million francs. The Greek god Hermes (Mercury in the Roman pantheon) is characterized in classical literature as a thief, associated in particular with the theft of Apollo’s oxen (‘of many shifts, blandly cunning, a robber, a cattle driver, a bringer of dreams, a watcher by night, a thief at the gates’ – *Homeric Hymn IV, To Hermes*, lines 13–15). He is also the patron of (among others) thieves.
