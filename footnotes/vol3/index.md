@@ -1152,3 +1152,203 @@ Madden: the royalist martyr assassinated in 1820; [see here](#notes_001.html#p1b
 
 #### sixty pistoles:
 Madden: a coin worth ten livres, or francs. The word was rarely used in the nineteenth century.
+
+### 3.4.1: A Group Which Barely Missed Becoming Historic
+
+#### Tugenbund:
+Donougher: A Prussian nationalist movement founded in Königsberg in 1808, the Tugenbund (literally, ‘league of virtue’) was declared illegal in 1809 but continued to operate as a secret society.
+
+Madden: The Tugendbund (League of Virtue) was formed in 1808 as a response to the French domination of Germany. Its members sought to promote German nationalism and to fight Napoléon.
+
+#### Italian carbonarism:
+Donougher: The Carbonari (literally, ‘charcoal-burners’, the forest-dwelling artisans from whom the movement took its inspiration) were members of secret revolutionary nationalist societies originating in the Kingdom of Naples and Sicily in the early nineteenth century, later spreading to France.
+
+Madden: The Italian Carbonari also formed as a resistance movement in response to the rule of Joachim Murat around 1810. Carbonari groups formed in different parts of Italy, demanding greater liberalism and—in the north—combating Austrian influence. In Savoy and Naples, Carbonari succeeded in forcing the monarchs to grant constitutions. Ironically, Louis-Napoléon Bonaparte was a member of the Carbonari before becoming heir to his uncle’s throne and Hugo’s nemesis.
+
+#### Cougourde:
+Donougher: An association of liberals that arose in Aix-en-Provence and spread to other parts of France, but was short-lived. The name means ‘gourd’.
+
+Madden: The Cougourde, a secret organization of republicans, had only begun to form under the July Monarchy; like their fictional contemporaries in the Friends of the ABC, they were “at the embryo stage.”
+
+#### Friends of the ABC:
+Donougher: In French, pronounced ‘Ah-beh-seh’.
+
+#### _abaissé_:
+Donougher: Also pronounced ‘Ah-beh-seh’, and meaning ‘one brought low’.
+
+#### _Castratus ad castra_ that made an army general of Narses:
+Donougher: The Byzantine general Narses (*c.*480–574) was a eunuch, a *castratus*, who became a military leader (*ad castrum* meaning literally, ‘to the army camp’), under the emperor Justinian, conquering the Ostrogoth kingdom in Italy for Byzantium.
+
+Madden: “From castrato to the camp.” The eunuch Narses was made a general by the Byzantine emperor Justinian.
+
+#### _Barbari et Barberini_:
+Donougher: An allusion to the saying *Quod non fecerunt barbari, fecerunt Barberini* (‘What the barbarians did not do, the Barberini did’), referring to Urban VIII, Maffeo Barberini (1568–1644), who is supposed to have plundered the Pantheon for the bronze needed for the baldachin that he commissioned Bernini to create for the basilica of St Peter.
+
+Madden: “What the barbarians didn’t take, the Barbarini will”; in the seventeenth century, the aristocratic Roman Barbarini family appropriated a number of antiquities for their palace.
+
+#### _Fueros y Fuegos_:
+Donougher: Spanish: Literally, ‘Charters’ (guaranteeing local rights and privileges) ‘and Fires’.
+
+Madden: “Rights and hearths!” was the motto of Spanish liberals in the revolt of 1823.
+
+#### _Tu es Petrus et super hanc petram_:
+Donougher: ‘Thou art Peter \[*Petrus*\], and upon this rock \[*petra*\] I will build my church’, Matthew 16:18.
+
+Madden: *Tu es Petrus … hanc Petrum:* Jesus’ words to Peter: “You are Peter and on this rock I shall build my Church” (see here).
+
+#### Les Halles … Café Musain:
+Madden: The great Halles of Paris were still the site of the central market. Corinthe was one of the independent city-states of ancient Greece. The place Saint-Michel was not the modern square on the left bank of the Seine but on the site of today’s place Edmond Rostand, just outside the Luxembourg gardens.
+
+#### the main ones:
+Madden: The nine Friends of the ABC are generally seen as reflections of different aspects of Victor Hugo.
+
+#### Antinous:
+Donougher: Of renowned beauty, Antinous (*c.*111–30) was the favourite of the Roman emperor Hadrian (76–138). After the youth, believed to have been his lover, died, Hadrian deified him, and his image abounded in statuary and on coins.
+
+Madden: The lover of the Roman emperor Hadrian, Antinous is one of the classic images of male beauty from antiquity.
+
+#### Gracchus … Saint-Just:
+Madden: The Gracchi were two brothers who served as tribunes in Rome; both sought to reform land ownership in favour of the poor, and both were persecuted by the patrician class. The youthful Saint-Just (see here) was a leader of the Revolution who was executed before his thirtieth birthday.
+
+#### Evadne:
+Donougher: The daughter of Poseidon by the nymph Pitane, Evadne was loved by the god Phoebus, by whom she bore a son, Iamos. Evadne was also the name of the wife who, for love of her husband Capaneus, threw herself on his funeral pyre.
+
+#### Aristogeiton … Harmodius:
+Donougher: The story of the homosexual couple Aristogeiton and Harmodius who overthrew a tyrant (they are also known as the Tyrannicides) is one of the founding myths of Athenian democracy explored in Thucydides’ *History of the Peloponnesian War* (bk VI, chs 54–9).
+
+#### Evadné’s bare breast … Harmodius:
+Madden: Hugo seems to have confused his allusions here. Evadné was a beautiful young woman loved by Apollo who rejected the god in favour of the warrior Capane; when Capane was killed in battle, Evadné threw herself on his funeral pyre. Harmodius and Aristogeiton hid their daggers in flowers during a procession in order to take revenge on Hipparch, who had seduced the sister of Harmodius.
+
+#### Ezekiel’s awesome cherub:
+Donougher: As described in the Book of Ezekiel, chs 1 and 10.
+
+Madden: The “awesome cherubim” in the Old Testament Book of Ezekiel are fierce and unearthly creatures who guard the heavens.
+
+#### Beaumarchais’s gallant Cherubino:
+Donougher: The charming young page in *The Marriage of Figaro* who is in love with the Countess Rosina.
+
+Madden: Cherubino is a charming, Puck-like character, a boy traditionally played by a young woman, in Beaumarchais’ *Marriage of Figaro*.
+
+#### *Homo et Vir:*
+Madden: two Latin words for “man.” *Vir* connotes the traditional masculine, or virile, qualities of the Roman citizen.
+
+#### Arago:
+Donougher: Physicist and astronomer, Dominique-François Arago (1786–1853) was director of the Paris Observatory.
+
+Madden: Dominique-François Arago (1786–1853) was a pioneering physicist and astronomer, director of the Paris Observatory.
+
+#### Geoffroy Saint-Hilaire:
+Donougher: At the age of only twenty-one, the naturalist Saint-Hilaire (1772–1844) was appointed professor of zoology at the Musée National d’Histoire Naturelle, and in 1809 he became professor of zoology at the University of Paris. He wrote *Philosophie Anatomique* (1818–22).
+
+Madden: Étienne Geoffroy Saint-Hilaire (1772–1844) taught zoology at the University of Paris.
+
+#### Saint-Simon with Fourier:
+Madden: see here and here
+
+#### Puységur and Deleuze:
+Donougher: Jacques de Chastenet, Marquis de Puységur (1752–1825), was a disciple of Mesmer who conducted research into hypnotic trances, what he called ‘artificial somnambulism’. The naturalist François Deleuze (1755–1835), who became librarian of the Musée National d’Histoire Naturelle, was also an advocate of the theory of animal magnetism.
+
+Madden: two proponents of magnetism; followers of Mesmer.
+
+#### issues of education:
+Madden: Hugo was a constant advocate of education reform throughout his life.
+
+#### Montfaucon’s lake:
+Donougher: Montfaucon was for centuries the site of a gallows where executed criminals were left to hang until their bodies decomposed. It was also an area of gypsum and lime quarries, which, when exhausted, were used for dumping rubbish, including waste from the nearby slaughterhouses, and thousands of square yards were filled with stinking lakes of human excrement that eventually produced fertilizer.
+
+#### *André Chénier*:
+Donougher: The poet Chénier (1762–94), who initially welcomed the Revolution, was an outspoken critic of its excesses – in 1793 he wrote an ‘Ode to Marie-Anne-Charlotte Corday’, Marat’s assassin. Arrested in March 1794, and held in St-Lazare prison, he was executed on 25 July 1794 (7 Thermidor year II), only a few days before the fall of Robespierre and the end of the Terror.
+
+Madden: a royalist journalist who was arrested and executed in 1794; his Romantic poetry was not published until 1819, after which he became a hero to Hugo’s generation.
+
+#### preferred Corneille to Racine:
+Madden: Hugo also preferred Corneille to Racine.
+
+#### *Agrippa d’Aubigné*:
+Donougher: The poet Théodore Agrippa d’Aubigné (1552–1630) was also a man of action, who fought with the Protestant army in the Wars of Religion. In 1620 his religious position eventually obliged him to leave France and take refuge in Geneva. Françoise d’Aubigné (1635–1719), the future Madame de Maintenon, mistress and then wife of Louis XIV, was his granddaughter.
+
+Madden: Agrippa d’Aubigné (1552–1630) was a Huguenot poet who drew on his knowledge of the Bible to compose poetic laments on France torn apart by the Wars of Religion.
+
+#### Greece … Italy:
+Madden: five European nations viewed as oppressed by foreigners: the Greeks and Romanians by the Ottoman Empire; the Poles by Russia; Hungary and Italy by the Austrian Hapsburgs.
+
+#### 1772:
+Madden: the first of three partitions of Poland in the eighteenth century by Russia, Prussia, and Austria (“that crime of three”). Upon the third partition, in 1795, Poland ceased to exist. At the Congress of Vienna, Czar Alexander I declared that a free Poland was a mortal threat to Russia and essentially annexed the country. Hugo called for a free Poland in one of his first speeches before the Chamber of Peers, in 1846.
+
+#### _ne varietur_:
+Donougher: Latin, meaning ‘not to be altered’, used on notarized legal documents.
+
+Madden: “without exception.”
+
+#### One of the false ideas … that particle:
+Madden: The “nobiliary particle” was not as insignificant as Hugo claims, but it was far more important after the Revolution than before and probably more important to the bourgeoisie than to the aristocracy.
+
+#### the *Minerve:*
+Madden: a conservative newspaper.
+
+#### *Chauvelin … Caumartin*:
+Donougher: An aristocrat who embraced the Revolution, Bernard-François, Marquis de Chauvelin (1766–1832), was elected under the Restoration as a deputy who voted with the extreme left. Imprisoned for several months during the Terror, Jacques Caumartin (1769–1825) served as a liberal deputy 1817–23.
+
+#### _quasi cursores_:
+Donougher: An allusion to a line from *De Rerum Natura* by the first-century-BC poet Lucretius: ‘et quasi cursores vitai lampada tradunt’ (‘and like runners they pass on the torch of life’), bk II, line 79.
+
+Madden: “like runners.”
+
+#### paladin:
+Madden: i.e., a champion, a defender.
+
+#### bloody tumult of June 1822 … funeral of the young student Lallemand:
+Donougher: In June 1820 parliamentary debate on proposed electoral changes intended to increase conservative representation by means of the ‘double vote’ (only the most highly taxed would be eligible to vote for a second college of deputies at the *département* level) led to disturbances in Paris in which the medical student Nicolas Lallemand (1787–1820) was killed by a royal guard, further heightening tensions and fuelling protests.
+
+Madden: During a demonstration against a new law concerning the voting franchise (in June 1820, not 1822), a young student named Lallemand was shot on the place du Carrousel; his funeral subsequently turned into a thousands-strong rally, with an even larger crowd joining a demonstration afterwards.
+
+#### a square cap:
+Madden: i.e., the mortarboard traditionally worn by university students.
+
+#### Monsieur Delvincourt:
+Madden: dean of the law school in Paris; see here.
+
+#### Marquis d’Avaray:
+Donougher: When Louis XVI’s brother escaped into exile in June 1791, he was escorted by François de Bésiade, Comte d’Avaray (1759–1811), whom he elevated to a dukedom in 1799 on his authority as the future Louis XVIII. Bésiade died without heirs before the restoration of the monarchy, but the title was confirmed in 1817 by Louis XVIII and reverted to his father, the Marquis d’Avaray.
+
+#### L’Aigle … Lesgle … Lesgueules:
+Donougher: After Napoleon was proclaimed emperor in 1804 he chose the eagle (*l’aigle*), with its associations with Rome and Charlemagne, as the emblem for the imperial coat of arms. He was himself referred to as *l’Aigle*, and his son was known as *l’Aiglon*, ‘the young eagle’. *L’aigle* and Lesgle are pronounced exactly the same. An animal’s mouth is a *gueule*, and the word is used in various hunting expressions, so the term *les gueules* refers to the hunting dogs.
+
+#### the stage-post office of Meaux:
+Donougher: Meaux suggests itself as an appropriate post to give him because *l’aigle de Meaux* was already a familiar designation by which the great churchman Jacques-Bénigne Bossuet, bishop of Meaux, was known (which is why Lègle de Meaux is called Bossuet by his young Revolutionary comrades).
+
+#### Bossuet:
+Madden: seventeenth-century theologian and orator; see here.
+
+#### the *malade imaginaire:*
+Madden: i.e., the hypochondriac, from the title of one of Molière’s masterpieces.
+
+#### four Ls:
+Donougher: Pronounced *ailes*, meaning ‘wings’.
+
+#### *feuillants*, royalists, doctrinaires:
+Madden: some of the different factions of the French Revolution. The *feuillants* were moderate royalists who split from the Jacobins; they were close in ideology to the *doctrinaires*, who believed in a constitutional monarchy.
+
+#### R:
+Donougher: Capital R, *grand R*, pronounced ‘Grantaire’.
+
+#### Loizerolles:
+Donougher: The lawyer Jean-Simon Aved de Loizerolles (1733–94), imprisoned during the Terror with his son the poet François-Simon (1771–1845), presented himself when his son was called to face execution, and it was he who went to the guillotine on 26 July 1794, the day before the fall of Robespierre. (It was later established that it was the father, not the son – he had been misidentified because of a copyist’s error – who had been accused of taking part in the Conspiracy of the Prisons, and therefore condemned to be executed.)
+
+Madden: According to a royalist legend, the aristocratic Loizerolles took the place of his son in a Revolutionary prison and was guillotined.
+
+#### the younger Robespierre:
+Donougher: When the Convention turned against Robespierre and he was arrested on 9 Thermidor year II (27 July 1794), Augustin Robespierre (1763–94) insisted on joining him, and the two brothers were executed the following day.
+
+#### ‘I loves the girls and I loves good wine’:
+Donougher: Two lines from a song called ‘Vive Henri IV’ (‘Long Live Henri IV’) from the three-act comedy *La Partie de Chasse de Henri* IV (Henri IV’s Hunting Party) by the dramatist and librettist Charles Collé (1709–83).
+
+#### Pollux, Patroclus, Nisus, Eudamidas, Hephaestion, Pechméja:
+Donougher: Castor and Pollux are the heavenly twins of Greek and Roman mythology. An important theme in Homer’s *Iliad* is the friendship between Achilles and Patroclus, who is killed in battle by Hector (bk XVI). In the *Aeneid* (bk IX, lines 176–446) Virgil tells of the dangerous mission that the Trojan warriors Nisus and Euryalus embark on to find Aeneas, and how, rather than make good his escape alone, Nisus chooses to die with his friend Euryalus at the hands of their enemies (a theme revisited by Byron). The story of Eudamidas, told by Lucian of Samasota (second century AD), cited by Montaigne in his essay *On Friendship* and depicted in a painting by Poussin that was much admired in the eighteenth century, is that of a man who, being poor, bequeaths in his will to his two friends Aretheus and Charixenus the legacy of taking care of his elderly mother and unmarried daughter. When Alexander the Great’s closest friend and companion from childhood Hephaestion died of a fever, classical sources tell us, Alexander was inconsolable. Jean de Pechméja (1741–85), author of *Télephe*, a classically inspired Utopian novel published in 1784, was a childhood friend of Léon Dubreuil (1743–85), doctor to the Marquis de Noailles’s household, who fell ill with a contagious disease and asked that only Pechméja should tend him. They died within a few weeks of each other, their mutual devotion hailed by contemporaries as a model of friendship.
+
+Madden: a reference to some legendary male friendships. Pollux with Castor, Patroclus with Achilles, Nisus with Euryale (in The *Iliad*), Eudamidas was the friend of Charixane in the work of the Roman poet Lucian. The modern example is Jean de Pechméja (1741–85), who was so devoted to his friend Dr. Dubrueil that he cared for the doctor through a fatal and contagious illness and died two weeks after the doctor did.
+
+#### Orestes and Pylades:
+Donougher: Another classical couple whose friendship, as represented in Aeschylus’ *Oresteia* and in plays by Euripides, has become proverbial.
+
+Madden: Orestes, son of Agamemnon, king of Mycenae, was raised with Pylades, the son of a foreign king. When Orestes returned to his homeland to avenge his father’s murder at the hands of his wife and her lover, Pylades encouraged his friend not to falter in avenging his father by killing his mother.
