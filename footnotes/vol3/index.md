@@ -591,7 +591,7 @@ Madden: Jacques-Joseph de Corbière was the son of a carpenter who became minist
 #### Luc-Esprit:
 Madden: i.e., Saint Luke the Evangelist, and *esprit*, “spirit,” as in Saint-Esprit, the Holy Spirit. *Esprit* also means “wit,” especially in the libertine eighteenth century so dear to Monsieur Gillenormand.
 
-### 3.2.3: A Centenarian Aspirant
+### 3.2.4: A Centenarian Aspirant
 
 #### duc de Nivernais … duc de Nevers:
 Donougher:
