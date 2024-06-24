@@ -2,7 +2,6 @@
 layout: home
 ---
 ### Footnotes
-[Combined footnotes (all one page)](/footnotes/) (WIP)<br/>
 [Combined footnotes, Volume 2](/footnotes/vol2) (WIP)<br/>
 [Combined footnotes, Volume 3](/footnotes/vol3) (WIP)<br/>
 [Rose/Madden footnotes](/footnotes/rose/)
@@ -15,4 +14,4 @@ layout: home
 [Julie Rose](/rosepreface)<br/>
 
 ### Other
-[Bonapartist Colony Book](/texas/)
+[The Heroine of Texas](/texas/)

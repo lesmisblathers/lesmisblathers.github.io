@@ -923,7 +923,7 @@ Madden: leader of a violent royalist reaction—*the Terreur blanche*—in the s
 #### the ‘unfindable’ kind:
 Donougher: The ultra-royalist Chamber of Deputies elected in August 1815 was referred to by Louis XVIII as ‘introuvable’ (‘unfindable’), meaning that he could not have found a more royalist Chamber if he had tried. When the extremism of the ‘introuvable’ Chamber became a threat to the survival of the monarchy, the Assembly was dissolved by the king, in September 1816, and new elections returned more moderates.
 
-### the famous right-wing taunter:
+#### the famous right-wing taunter:
 Donougher: Charles Nicolas Cornet-Dincourt (1773–1852) in 1816 proposed suspending the freedom of the press entirely, and restoring unsold assets to the Church.
 
 #### The bailiff of Ferrette … on his way to Monsieur de Talleyrand’s:
