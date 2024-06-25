@@ -1142,13 +1142,13 @@ Madden: Argus was the hundred-eyed, all-seeing demigod of Greek mythology.
 ### 3.3.8: Marble Against Granite
 
 #### rogues, cutthroats, red caps, thieves:
-Madden: the royalists’ image of the revolutionaries; on red caps, [see here](#notes_001.html#p1b1ch10en21).
+Madden: the royalists’ image of the revolutionaries; on red caps, (see here).
 
 #### Louis XVIII had been dead four years:
 Madden: Louis XVIII died in 1824.
 
 #### the duc de Berry:
-Madden: the royalist martyr assassinated in 1820; [see here](#notes_001.html#p1b3ch1en35).
+Madden: the royalist martyr assassinated in 1820; (see here).
 
 #### sixty pistoles:
 Madden: a coin worth ten livres, or francs. The word was rarely used in the nineteenth century.
@@ -1194,7 +1194,7 @@ Madden: “Rights and hearths!” was the motto of Spanish liberals in the revol
 #### _Tu es Petrus et super hanc petram_:
 Donougher: ‘Thou art Peter \[*Petrus*\], and upon this rock \[*petra*\] I will build my church’, Matthew 16:18.
 
-Madden: *Tu es Petrus … hanc Petrum:* Jesus’ words to Peter: “You are Peter and on this rock I shall build my Church” (see here).
+Madden: *Tu es Petrus … hanc Petrum:* Jesus’ words to Peter: “You are Peter and on this rock I shall build my Church” (Matthew 16:18).
 
 #### Les Halles … Café Musain:
 Madden: The great Halles of Paris were still the site of the central market. Corinthe was one of the independent city-states of ancient Greece. The place Saint-Michel was not the modern square on the left bank of the Seine but on the site of today’s place Edmond Rostand, just outside the Luxembourg gardens.
@@ -1244,6 +1244,10 @@ Madden: Étienne Geoffroy Saint-Hilaire (1772–1844) taught zoology at the Univ
 
 #### Saint-Simon with Fourier:
 Madden: see here and here
+
+> Saint-Simon: An indirect descendant of the seventeenth-century memorialist of the court of Louis XIV, the comte Henri de Saint-Simon (1760–1825) advocated social reform through industrialization and progressivism, guided by a sense of Christian fraternity. His work would inspire a utopian community after his death.
+
+> a celebrated Fourier … a Fourier the future will remember: The scientist Joseph Fourier (1768–1830) would in fact be eclipsed by the utopian socialist Charles Fourier (1772–1837), whose work would inspire the Phalanstery movement in the United States, most notably Brook Farm.
 
 #### Puységur and Deleuze:
 Donougher: Jacques de Chastenet, Marquis de Puységur (1752–1825), was a disciple of Mesmer who conducted research into hypnotic trances, what he called ‘artificial somnambulism’. The naturalist François Deleuze (1755–1835), who became librarian of the Musée National d’Histoire Naturelle, was also an advocate of the theory of animal magnetism.
@@ -1308,6 +1312,8 @@ Madden: i.e., the mortarboard traditionally worn by university students.
 #### Monsieur Delvincourt:
 Madden: dean of the law school in Paris; see here.
 
+> Étienne-Claude Delvincourt (1762–1831) was the dean of the law school and a royalist
+
 #### Marquis d’Avaray:
 Donougher: When Louis XVI’s brother escaped into exile in June 1791, he was escorted by François de Bésiade, Comte d’Avaray (1759–1811), whom he elevated to a dukedom in 1799 on his authority as the future Louis XVIII. Bésiade died without heirs before the restoration of the monarchy, but the title was confirmed in 1817 by Louis XVIII and reverted to his father, the Marquis d’Avaray.
 
@@ -1319,6 +1325,8 @@ Donougher: Meaux suggests itself as an appropriate post to give him because *l�
 
 #### Bossuet:
 Madden: seventeenth-century theologian and orator; see here.
+
+> Jacques-Bénigne Bossuet (1627–1704), bishop of Meaux, one of the leading clerics of Louis XIV’s reign. A gifted writer and orator, Bossuet was a staunch supporter of both Catholic orthodoxy and royal power. The Te Deum is a mass of thanksgiving in the Catholic Church. While Bossuet sought to bring Protestants back to the Catholic Church, the government often took more violent measures such as G—— alludes to. Dragonnades refers to a policy by which Protestants were forced to provide lodging to soldiers (specifically dragoons, the cavalry), who were tacitly encouraged to harrass their hosts into converting, often resulting in violence. More than two hundred thousand French Protestants, or Huguenots, fled France as a result of such policies.
 
 #### the *malade imaginaire:*
 Madden: i.e., the hypochondriac, from the title of one of Molière’s masterpieces.
