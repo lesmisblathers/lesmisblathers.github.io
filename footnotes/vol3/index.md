@@ -1208,7 +1208,7 @@ Donougher: Of renowned beauty, Antinous (*c.*111–30) was the favourite of the 
 Madden: The lover of the Roman emperor Hadrian, Antinous is one of the classic images of male beauty from antiquity.
 
 #### Gracchus … Saint-Just:
-Madden: The Gracchi were two brothers who served as tribunes in Rome; both sought to reform land ownership in favour of the poor, and both were persecuted by the patrician class. The youthful Saint-Just (see here) was a leader of the Revolution who was executed before his thirtieth birthday.
+Madden: The Gracchi were two brothers who served as tribunes in Rome; both sought to reform land ownership in favour of the poor, and both were persecuted by the patrician class. The youthful Saint-Just was a leader of the Revolution who was executed before his thirtieth birthday.
 
 #### Evadne:
 Donougher: The daughter of Poseidon by the nymph Pitane, Evadne was loved by the god Phoebus, by whom she bore a son, Iamos. Evadne was also the name of the wife who, for love of her husband Capaneus, threw herself on his funeral pyre.
