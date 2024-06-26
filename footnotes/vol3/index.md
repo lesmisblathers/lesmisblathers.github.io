@@ -1360,3 +1360,22 @@ Madden: a reference to some legendary male friendships. Pollux with Castor, Patr
 Donougher: Another classical couple whose friendship, as represented in Aeschylus’ *Oresteia* and in plays by Euripides, has become proverbial.
 
 Madden: Orestes, son of Agamemnon, king of Mycenae, was raised with Pylades, the son of a foreign king. When Orestes returned to his homeland to avenge his father’s murder at the hands of his wife and her lover, Pylades encouraged his friend not to falter in avenging his father by killing his mother.
+
+### 3.4.2: Blondeau’s Funeral Oration by Bossuet
+
+#### Blondeau:
+Madden: the name of a law professor in Paris in the 1830s.
+
+#### that shrewd nose that Boileau spoke of:
+Donougher: A punning allusion to Boileau’s *Art Poétique* (lines 181–2): ‘D’un trait de ce poème en bons mots si fertile, / Le Français, né malin, forma le Vaudeville’ (‘Out of one characteristic of this poem so fertile in witticisms, / The Frenchman, with his native cunning, created vaudeville’). *Né malin* (‘born shrewd’) is pronounced the same as *nez malin*, ‘shrewd nose’.
+
+#### *Erudimini qui judicatis terram:*
+Donougher: ‘Be instructed, ye judges of the earth’ (Psalm 2:10). Cited by Bossuet, bishop of Meaux, at the beginning of one of his most famous funeral orations (1670), dedicated to Henrietta Stuart, daughter of Charles I of England.
+
+Madden: “Educate yourselves, you who would judge the earth.”
+
+#### *Nasica*:
+Donougher: Latin, meaning ‘with a large or pointed nose’.
+
+#### bos disciplinae:
+Donougher: ‘Ox of discipline’, a turn of phrase evoking the *bos suetus aratro* (‘ox accustomed to the plough’) by which the seventeenth-century Bossuet, noted for his studiousness, was referred to by his contemporaries.
