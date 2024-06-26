@@ -1377,5 +1377,5 @@ Madden: “Educate yourselves, you who would judge the earth.”
 #### *Nasica*:
 Donougher: Latin, meaning ‘with a large or pointed nose’.
 
-#### bos disciplinae:
+#### *bos disciplinae*:
 Donougher: ‘Ox of discipline’, a turn of phrase evoking the *bos suetus aratro* (‘ox accustomed to the plough’) by which the seventeenth-century Bossuet, noted for his studiousness, was referred to by his contemporaries.
