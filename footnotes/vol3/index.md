@@ -1606,3 +1606,133 @@ Madden: this form of address had significant political connotations in post-Revo
 Donougher: An allusion to Juvenal’s Satire III, lines 164–5: ‘Haud facile emergunt quorum virtutibus obstat res angusta domi’ (‘It is not easy for those to rise whose straitened circumstances stand in the way of their merits’).
 
 Madden: “straitened (financial) circumstances.”
+
+## Book 5: The Excellence of Misfortune
+
+### 3.5.1: Marius Indigent
+No footnotes
+
+### 3.5.2: Marius Poor
+
+#### Rousseau’s:
+Madden: one of the cheap greasy spoons of the Latin Quarter.
+
+#### he was called Aquatic Rousseau:
+Donougher: The noun *rousseau* denotes a sea bream or a type of pigeon.
+
+### 3.5.3: Marius Grown Up
+
+#### Septembrist:
+Donougher: One who took part in the September massacres of 1792; the mob violence that broke out in a climate of fear of foreign invasion resulted in the killing of half the prison population of Paris, incarcerated royalists – men, women and children – and clergymen. The ferocious attack on the Princesse de Lamballe, friend of Marie-Antoinette and sister-in-law of the Duc d’Orléans, was particularly notorious.
+
+Madden: one of Monsieur Gillenormand’s catchall terms for a Revolutionary; it refers to the September massacres of 1792.
+
+#### Monsieur Magimel:
+Madden: a contemporary bookseller and publisher.
+
+#### He removed my cataracts:
+Donougher: In 1752 the surgeon Jacques Daviel (1696–1762) published through the Royal Academy of Surgery in Paris *A New Method of Curing Cataract by Extracting the Crystalline Lens*, describing the revolutionary procedure he had followed a few years previously and laying the foundations of the method used today.
+
+### 3.5.4: M. Mabeuf
+
+#### the Furies … the Eumenides:
+Madden: The Greeks called the Furies (the Erinyes), the goddesses of vengeance and retribution, the Eumenides because the act of speaking their names could draw their wrath.
+
+#### an Elzevir edition:
+Donougher: Louis Elzevir (1540–1617) was the first of several generations of Dutch printers and booksellers operating between 1583 and 1712 who established themselves as among the foremost publishers in Europe.
+
+#### The July Revolution:
+Donougher: Charles X succeeded his brother Louis XVIII in 1824, and became increasingly unpopular as a result of his attempts to circumvent constitutional limitations on the monarchy that culminated in the introduction, on the basis of Article 14, of the July Ordinances, suppressing the freedom of the press, dissolving the Chamber of Deputies, restricting the franchise and holding new elections (only months after elections had returned an increased liberal majority). This led to a popular uprising known as Les Trois Glorieuses (‘the three glorious days’) at the end of July 1830. Charles X fled Paris, and in his absence a political consensus was reached whereby the Duc d’Orléans, Louis-Philippe, of a cadet branch of the Bourbon family, was invited to become king.
+
+Madden: In July 1830, Charles X and his ministers attempted to push through a number of restrictive laws, most notably against freedom of the press, that provoked an uprising in Paris. Within three days (*Les Trois glorieuses*) it became clear that the government could not survive. Charles abdicated, and his son the duc d’Angoulême renounced his right to succession. An interim government offered the throne of a constitutional monarchy to Louis-Philippe d’Orléans.
+
+#### the village of Austerlitz:
+Donougher: A tiny hamlet east of Paris and close to La Salpêtrière, incorporated into the city in 1818.
+
+Madden: Now part of Paris, the village named after Napoléon’s greatest victory was then on the eastern edge of Paris, where the Gare d’Austerlitz now stands.
+
+#### ‘La belle bouda et le dragon—’:
+Donougher: ‘The beauty pouted and the dragoon—’
+
+#### ‘Buddha and the Dragon,’
+Donougher: ‘Bouddha et le Dragon’, homophones of ‘bouda et le dragon’.
+
+### 3.5.5: Poverty a Good Neighbor for Misery
+
+#### Comte Pajol:
+Donougher: A cavalry officer, Claude-Pierre Pajol (1772–1844) was several times badly wounded in the course of his distinguished and much decorated military career. He also played a decisive role in the July Revolution, and under Louis-Philippe was elevated to the peerage and awarded the Legion of Honour Grand Cross.
+
+Madden: Madden: Pierre-Claude Pajol (né Pajot) (1772–1844), a Napoleonic general and count who fought at Waterloo.
+
+#### Bellavesne … Fririon:
+Donougher: General Jacques-Nicolas Bellavesne (1770–1826), who lost a leg in an engagement with the Austrians in 1796 and subsequently ran the military academies at Fontainebleau and St-Cyr, and General François-Nicolas Fririon (1766–1840) were friends of Hugo’s mother. They were involved in hiding from the police (unsuccessfully, in the end) her lover General Lahorie after he was found guilty of conspiracy against Napoleon (*Victor Hugo raconté par un témoin de sa vie* – the biography, published in 1863, written by Hugo’s wife Adèle, ch. 6).
+
+Madden: General Bellavesne (1770–1826) lost a leg to a cannonball—Marius could not have visited him in the early years of the July Monarchy. General Baron Fririon (1766–1840) retired from combat in 1811 and was later named governor of the Hôtel des Invalides.
+
+#### a book like Job:
+Madden: God tested Job’s faith with a series of disasters.
+
+#### given to our eyes of flesh:
+Donougher: An allusion to the Book of Job 10:4: ‘Hast thou eyes of flesh? or seest thou as man seeth?’
+
+### 3.5.6: The Substitute
+#### the *Quotidienne*:
+Madden: a royalist newspaper.
+
+#### a conflict between the minister of war:
+Madden: The details of what was probably a specific incident are not clear, but there were any number of political conflicts—ranging from rallies to riots to insurrections—in Paris in the 1830s and ’40s.
+
+#### *descamisados:*
+Madden: see here.
+> literally, “shirtless ones,” i.e., the peasantry and the working class.
+
+#### *Carnot … Fouché*:
+Donougher: In 1815 the treacherous and self-serving Fouché yet again betrayed his colleagues – in particular, Carnot, the man of integrity – by colluding with the restoration of Louis XVIII. This resulted in Carnot being exiled and Fouché becoming the new minister of police. This exchange is recorded in Fouché’s own posthumously published memoirs (1824; authorship is somewhat contested).
+
+Madden: a famous exchange between Carnot (see here) and Fouché (see here) during Fouché’s brief period of influence following the Second Restoration in 1815. Fouché had persuaded the comte d’Artois and a few other Ultras that only a former Jacobin could purify France of its remaining Jacobins. Carnot was among the former colleagues of the Convention, Directory, and Empire that Fouché ordered into exile, before the Ultras procured his exile in turn.
+
+> Lazare Carnot (1753–1823) was famous for his integrity and his republican convictions; having rallied to Napoléon during the Hundred Days, he was banished by the Bourbons. Nicolas-Jean de Dieu Soult (1769–1851) was named marshal of France and duc de Dalmatie by Napoléon; minister of war during the Hundred Days, he was exiled from 1815 to 1819, and eventually enjoyed a successful political career under Louis-Philippe.
+
+> Another of the legendary figures of the era, Joseph Fouché (1763–1820) made his name as a ruthless enforcer of Revolutionary politics and policies (including overseeing the execution of more than a thousand “counterrevolutionaries” in barely three months). He ruthlessly enforced official atheism under the Convention. This reputation and a talent for espionage made Fouché the powerful minister of police for the Directoire and most of the Napoleonic empire. During the Hundred Days, Fouché played the royalists against the imperialists until deciding to side with the Bourbons. The Bourbons’ gratitude to the regicide did not last, however, and Fouché died in Trieste in 1821 after five years of exile from France. Contrary to legend, Fouché was a lay teacher in an Oratorian school and never took holy orders.
+
+#### *Hernani*:
+Donougher: Hugo’s play of 1830, which created a literary revolution – and gave rise to a celebrated ‘battle’ between rival literary factions on the opening night – by presenting a direct challenge to the old cultural establishment. In the name of the new Romantic sensibility it broke with classical theatrical traditions such as the unities of time, place and action, embracing less formal language and characteristic antitheses – the beautiful and the grotesque, the noble-hearted bandit, the pure love of a fallen woman.
+
+Madden: With tongue in cheek, Hugo mocks the reaction to his own play of 1830, which was enormously controversial for its complete break with the traditions of French theatre (hence, “not even written in French!”). The antithesis was one of Hugo’s favourite literary devices.
+
+#### the Apollo Belvedere:
+Donougher: This celebrated marble statue, dating from classical antiquity, was brought to Paris by Napoleon from Donato Bramante’s Belvedere courtyard in the Vatican; it was placed in the Louvre collection, but was among the artworks later returned to Italy and is now back in the Vatican.
+
+#### *the Venus de’ Medici*:
+Donougher: Shipped to Paris in 1803, the *Venus de’ Medici* (from the Villa Medici in Rome) was also returned to Italy after the fall of Napoleon. It is now in the Uffizi in Florence.
+
+#### Benjamin Constant:
+Madden: see here.
+
+> Benjamin Constant de Robeque (1767–1830) was born in Lausanne, Switzerland, and emigrated to France under the Directoire. Initially a supporter of Bonaparte, he became a critic of the Empire under the influence of his lover, Madame de Staël, and both were exiled in 1803. In 1815, Napoléon asked him to draft a new constitution for the Empire as a gesture to liberals. After the Bourbons returned, his political activity was limited to the opposition press. He is best remembered today for his novel Adolphe, an autobiographical account of his affair with Madame de Staël.
+
+#### Tiercelin:
+Donougher: A celebrated comic actor of the period, Tiercelin (1763–1837) excelled in playing drunkards.
+
+#### the *Drapeau blanc* … Martainville:
+Madden: see here.
+
+> Monsieur de Martainville: a royalist playwright and actor (1776–1830) who is best remembered as the founder of the Ultra newspaper *Le Drapeau blanc*.
+
+#### Sieyès:
+Donougher: Emmanuel-Joseph Sieyès (1748–1836) was a member of the Convention and of the Council of Five Hundred, member and president of the Directory and a consul; under the Empire he was a senator, then president of the Senate, and in 1809 was made a count. He lived in exile during the Restoration, returning to France in 1830.
+
+Madden: **“Sieyès”:** On the “patriot priest” Joseph Sieyès (1748–1836), see here. Sieyès was one of the most influential voices of the Revolution, from 1788 until 1799. He expected to exercise great influence over General Bonaparte after the Brumaire coup d’état but found himself ignored by the first consul. Napoléon named him senator.
+
+>  […] the abbé Emmanuel Joseph Sieyès (1748–1836), author of the famous pamphlet *Qu’est-ce que le tiers état*? (What Is the Third Estate?) was more committed to the principles of Rousseau and Locke than to the Gospel […]
+
+#### the antics … Tivoli Gardens:
+Donougher: Paul de Kock (1793–1871) wrote in his *Memoirs* (published by his son in 1873), ch. 4: ‘Il y avait aussi un grimacier. Les grimaciers étaient à la mode alors … ne le sont-ils pas toujours? Celui de Tivoli était un grimacier plaisant; il portait une perruque blanche et jouait de la trompette et du violon’ (‘There was also a man who pulled faces. Face-pullers were in vogue then – are they not always? The Tivoli face-puller was an amusing fellow. He wore a white wig and played the trumpet and violin’).
+
+#### hats like Henri IV:
+Madden: As the Empire progressed, Napoléon became more preoccupied with ceremony and stagecraft. At one point, the official Senate uniforms resembled costumes of the late Renaissance.
+
+#### like the monkeys at the tiger’s court:
+Donougher: An allusion to Hugo’s own poem ‘Fable ou Histoire’ (Fable or History) – a pastiche of La Fontaine’s ‘Le Loup devenu Berger’ (The Wolf Turned Shepherd) and ‘L’Âne vêtu de la peau du Lion’ (The Donkey Dressed in the Lion’s Skin) – included in *Les Châtiments*, a collection written in exile and published in 1853, which was directed against Napoleon III.
+
+Donougher: Hugo’s poem reads: ‘Un jour, maigre et sentant un royal appétit, / Un singe d’une peau de tigre se vêtit / … Chacun, voyant la peau, croyait au personnage. / Il s’écriait, poussant d’affreux rugissements: / Regardez, ma caverne est pleine d’ossements; / Devant moi tout recule et frémit, tout émigre, / Tout tremble; admirez-moi, voyez, je suis un tigre! / Les bêtes l’admiraient, et fuyaient à grands pas. / Un belluaire vint, le saisit dans ses bras, / Déchira cette peau comme on déchire un linge, / Mit à nu ce vainqueur, et dit: Tu n’es qu’un singe!’ (‘One day, thin and feeling a royal appetite, / A monkey dressed up in a tiger’s skin / … Everyone seeing the skin gave credence to the image. / He cried out with terrible roars, / Look, my cave is full of bones, / Everything retreats before me and quakes, everything emigrates, / Everything trembles. Admire me, look, I’m a tiger. / The animals admired him and fled. / A lion-tamer came, grabbed it in his arms, / Tore this skin asunder, as one might tear a sheet, / Stripped this conqueror naked, and said: You’re just a monkey!’).
