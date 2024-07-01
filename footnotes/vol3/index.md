@@ -1153,6 +1153,8 @@ Madden: the royalist martyr assassinated in 1820; (see here).
 #### sixty pistoles:
 Madden: a coin worth ten livres, or francs. The word was rarely used in the nineteenth century.
 
+## Book 4: Friends of the ABC
+
 ### 3.4.1: A Group Which Barely Missed Becoming Historic
 
 #### Tugenbund:
