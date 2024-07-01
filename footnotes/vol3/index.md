@@ -1379,3 +1379,230 @@ Donougher: Latin, meaning ‘with a large or pointed nose’.
 
 #### *bos disciplinae*:
 Donougher: ‘Ox of discipline’, a turn of phrase evoking the *bos suetus aratro* (‘ox accustomed to the plough’) by which the seventeenth-century Bossuet, noted for his studiousness, was referred to by his contemporaries.
+
+### 3.4.3: Marius’ Astonishments
+
+#### Bewigged tragedy:
+Madden: the classical seventeenth-century tragedies of Racine, Corneille, and their lesser brethren.
+
+#### Aeschylus:
+Madden: see here.
+
+#### Jean-Jacques and Thérèse … the foundling hospital:
+Donougher: Jean-Jacques Rousseau (1712–78), author of *The Social Contract* (1762), which laid the foundations of revolutionary ideology, related in his *Confessions* (bks VII and VIII) that he had fathered five children by his mistress Thérèse Levasseur (1721–1801) and consigned all of them to the foundling hospital: ‘Mon troisième enfant fut donc mis aux Enfants-Trouvés, ainsi que les premiers, et il en fut de même des deux suivants, car j’en ai eu cinq en tout’ (‘So my third child was put in the Foundling Hospital, as well as the first ones, and it was the same with the next two, for I had five in all’).
+
+Madden: Jean-Jacques Rousseau and his mistress, Thérèse Levasseur. The “little creatures” refers to the five children they had, all of whom, according to a legend started by Rousseau himself, were abandoned by their father at a foundling hospital.
+
+#### *Initium sapientiae*:
+Donougher:  From Psalm 111:10: ‘The fear of the Lord is *the beginning of wisdom*.’
+
+Madden: “the beginning of wisdom.”
+
+### 3.4.4: The Back Room of the Café Musain
+
+#### Argand lamp:
+Donougher: An oil lamp patented in 1780 by the Swiss physicist and chemist François-Pierre Aimé Argand (1750–1803), which provided a brighter and cheaper source of light than candles. They are called *quinquets* in France, where the pharmacist Antoine Quinquet (1745–1803) in 1783 developed and commercialized a slightly improved version.
+
+#### the Heidelberg tun:
+Donougher: Built at Heidelberg Castle in 1751 to contain wine paid in taxes to the Elector Palatine by local wine growers, it has a capacity of over 58,000 gallons. Mark Twain in *A Tramp Abroad* (Appendix B) wrote: ‘the great Heidelberg Tun … is a wine-cask as big as a cottage, and some traditions say it holds eighteen hundred thousand bottles, and other traditions say it holds eighteen hundred million barrels. I think it likely that one of these statements is a mistake, and the other is a lie. However, the mere matter of capacity is a thing of no sort of consequence, since the cask is empty, and indeed has always been empty, history says. An empty cask the size of a cathedral could excite but little emotion in me. I do not see any wisdom in building a monster cask to hoard up emptiness in, when you can get a better quality, outside, any day, free of expense.’
+
+Madden: a giant wine cask (or tun) at Heidelberg Castle, which held 58,100 gallons of wine.
+
+#### Ecclesiastes says: “All is vanity”:
+Madden: Ecclesiastes 1:1–2.
+
+#### Zero:
+Donougher: Could this be a textual error – perhaps an allusion to the Greek philosopher Zeno and his paradoxes?
+
+#### a woodlouse is a pterygibranchia:
+Donougher: The French zoologist Pierre-André Latreille (1762–1833) was a leading entomologist who made important contributions to the classification of insects, including that of the woodlouse, a crustacean in the order of isopoda. Pterygibranchia is a now defunct term for a particular subclass of isopod crustaceans, and is not to be confused with Pterobranchia, a class, established in 1877, of worm-like creatures that live on the ocean floor.
+
+#### Caligula made a horse a consul:
+Madden: Part of the legend of the mad Roman emperor Caligula, originally recorded by Suetonius, is that he hoped to make his favourite horse, Incitatus, a consul of Rome.
+
+#### Charles II knighted a Sir Loin:
+Donougher: According to folklore, Charles II is said to have given this name to an excellent cut of beef, which he knighted with a sword. A ‘baron of beef’, a term first recorded in Johnson’s *Dictionary* (1775), is a joint consisting of a double sirloin attached to the bone.
+
+Madden: The epicurean king Charles II (born 1630, reigned 1660–85) of England may have made a pun about barons of beef and sirloins, but he never knighted or ennobled any cuts of meat.
+
+#### Consul Incitatus:
+Donougher: According to Suetonius (*Lives of the Twelve Caesars*, ‘Caligula’, ch. 55), the Roman emperor Caligula (12–41) intended to make his favourite horse Incitatus a consul.
+
+#### Gros:
+Donougher: Antoine-Jean Gros (1771–1835) made his reputation with paintings celebrating the achievements of Napoleon. He became professor at the École des Beaux-Arts in 1816.
+
+#### Diogenes’ cloak:
+Donougher: The fourth-century-BC Greek philosopher Diogenes the Cynic scorned the trappings of the comfortable life and embraced an existence of ascetic simplicity, housing himself in a tub, with a cloak for sole warmth and bedding.
+
+Madden: Diogenes chose to live in abject poverty.
+
+#### Strongylion:
+Donougher: An allusion to a reference in Pliny, *Natural History*, bk XXXIV.
+
+Madden: a famous Greek sculptor of fifth-century BCE Athens.
+
+#### the battle of Pydna:
+Donougher: A decisive Roman victory over the Macedonians, fought in 168 BC.
+
+Madden:  the battle in 168 BCE at Pydna in Macedonia (now in Greece) that established Rome as a power on the Hellenic peninsula.
+
+#### Clovis’s Tolbiac:
+Donougher: When the battle of Tolbiac (496) appeared to be going against Clovis, king of the Franks, he invoked the God of the Christians and then triumphed over his German foes, for which deliverance, legend has it, he converted to Christianity.
+
+Madden: The battle at Tolbiac (ca. 500), now Zülpich in Germany, established Clovis and his Franks as the most powerful of the Germanic tribes. According to Saint Gregory of Tours, Clovis promised to convert to Christianity if he won the battle.
+
+#### *Si volet usus*:
+Donougher: ‘As usage dictates’, Horace, *Ars Poetica*, line 71.
+
+Madden: “If custom wills it.”
+
+#### Phocion, another Coligny:
+Donougher: The murder of the Huguenot leader Admiral Gaspard de Coligny (1515–72), a man of integrity and valour, marked the beginning of the St Bartholomew’s Day massacre of Protestants by Catholics in August 1572, and the subsequent exodus of Huguenots from France. The Athenian general Phocion the Good (*c*.402–318 BC), described by Plutarch as a good man devoted to the state, was falsely accused of treason, executed, and denied the rites of burial.
+
+Madden: Phocion was the elected leader (strategos) of Athens at the time of the Macedonian expansion by Philip and Alexander; he was executed for treason after he advocated cooperation with the Macedonians. Gaspard de Coligny (1519–72) was a naval hero and confidant of Henri II, and a leader of the Huguenot party under the regency of Catherine de Médicis. He was killed during the Saint Bartholomew’s Day massacre.
+
+#### Anacephorus:
+Donougher: Possibly the ancient Greek historian Ephorus (*c*.400–330 BC), who wrote a universal history.
+
+#### Pisistratus:
+Donougher: Tyrant of Athens 546–527/8 BC.
+
+Madden: an Athenian ruler popular for his economic reforms.
+
+#### Philetas:
+Donougher: The Greek poet and literary scholar (340–285 BC) of whose work only fragments survive. The story that he put lead weights in his shoes so as not to be blown away by the wind is in the *Various History* of the second–third-century Roman author Aelian.
+
+Madden: a poet and grammarian who lived ca. 500 BCE
+
+#### Silanion … Pliny:
+Donougher: A reference to the same paragraph in Pliny’s *Natural History,* bk XXXIV, in which the sculptor Strongylion is mentioned.
+
+#### Brother Jonathan:
+Donougher: A term by which the citizen of the pre-Civil War American union was known to himself and to others, as for instance in the title of a book by James Kirke Paulding published in London, 1814: *A brief and humorous history of the political peculiarities of England and America, characterised in John Bull and Brother Jonathan*.
+
+#### Time is money:
+Donougher: A concept with ancient roots, it was first phrased in this way by Benjamin Franklin in ‘Advice to a Young Tradesman’ (1748).
+
+#### Cotton is king:
+Donougher: An anachronistic reference in 1832, this was the title of a book by David Christy exposing the economics of slavery (1855). The southern American states mistakenly believed that their supply of cotton guaranteed European support in the event of war. In the words of James Henry Hammon of South Carolina, in 1858: ‘No, you dare not to make war on cotton. No power on earth dares to make war upon it. Cotton is king.’
+
+#### Voltaire admired it:
+Donougher: Voltaire admired the extraordinary development of Russia over a short period under Peter the Great, of whom he wrote a celebratory biography (1759–63). He also expressed admiration for the achievements of China in *Essai sur les moeurs et l’esprit des nations* (Essay on the Manners and Spirit of Nations), his monumental universal history (1756).
+
+#### An Alexis beheaded … a Paul strangled … numerous Nicholases and Basils poisoned:
+Donougher: Alexis (1690–1718), the eldest son of Peter the Great, was tried as a traitor, tortured, then died in prison, believed to have been beheaded. Paul I (1754–1801), eldest son and heir of Catherine the Great, was assassinated by members of his own court. He is said to have been struck with a sword, or a gold snuff-box, strangled and trampled.
+
+Madden: palace coups in Russia were the stuff of legend; many czars died mysterious deaths.
+
+#### Isabella’s dirty shift:
+Donougher: The stuff of folklore: Isabella of Castile, it is said, vowed not to change her shift until Granada was taken (the siege lasted from 1491 to 1492); alternatively, Isabella of Austria made the same vow in relation to the siege of Ostend (1601–3). There are written sources from the eighteenth century giving these stories as derivations for the word ‘isabella’ or ‘isabelline’, a pale-yellowish colour, applied particularly to the coats of horses.
+
+#### the Abattoir:
+Madden: “the slaughterhouse,” a real Parisian tavern.
+
+#### carpets … naked Cleopatra:
+Donougher: Plutarch in his *Life of Caesar* relates the story that after being expelled from Egypt Cleopatra gained access to Caesar by having herself rolled up in a ‘bedsack’ – *stromatodesmon*, often represented as a carpet.
+
+Madden: a reference to the ruse Cleopatra used to reach Julius Caesar: She had herself rolled up in a carpet, which was brought to the Roman conqueror as a gift.
+
+#### Hippocrates … Artaxerxes’ trifles:
+Donougher: According to biographical tradition, the Greek physician Hippocrates (*c.*460–*c.*370 BC) declined untold wealth and honours offered to him by Artaxerxes, king of Persia and enemy of Greece, to come and treat his subjects.
+
+Madden: he Greek physician Hippocrates refused to treat Artaxerxes, king of Persia, in spite of the latter’s offers of magnificent gifts, because the Persians were the enemies of Athens
+
+#### Echo, plaintive nymph:
+Donougher: The line ‘Écho, nymphe plaintive’ is from a song of 1810 called ‘Fleuve du Tage’ (‘The River Tagus’) by Joseph Hélitas De Meun, with music by Jean-Joseph-Benoît Pollet (1755–1823). Berlioz published an arrangement of the song in 1819. The story of the nymph and the reason for her plaintiveness is told in Ovid’s *Metamorphoses*, bk III, lines 359–401. Grantaire is picking up on the last two syllables of Bossuet’s disquisition ending in singsong legalese: ‘contrats domaniaires et domaniaux, hypothécaires et hypothécaux’ (*-écaux*, pronounced ‘echo’).
+
+#### Vaud … Gex:
+Donougher: The French occupied Vaud in south-west Switzerland in 1798. Contiguous with Vaud is the French district of Gex, the town of Gex lying some five miles west of the southern end of Lake Geneva. After the defeat of Napoleon, the Congress of Vienna debated making Gex part of the Swiss Confederation. Under the final Treaty of Paris, France had to cede the six communes of the Gex region that linked Geneva with Vaud, but retained Gex.
+
+Madden: The border between the French region of Gex and the Swiss canton of Vaud was established by treaty in 1815.
+
+#### Staub’s:
+Madden: Staub was the most fashionable tailor in Paris.
+
+#### Vignemale … Cybele:
+Donougher: The Vignemale is the highest of the French Pyrenean peaks. Cybele was worshipped by the Phrygians in Asia Minor as a mother goddess, *matar kubileya* (‘mother of the mountain’), from which the Greek name Cybele is thought to derive. The cult spread from Phrygia to Rome, and she came to be frequently depicted on Roman coins wearing a turreted city-wall head-dress.
+
+Madden: Vignemale is the highest peak in the Pyrenees; Cybele is another name for Rhea, mother of the Olympian gods.
+
+#### Pan:
+Madden: Pan is the goat god of the mountains who taught humans to play the flute.
+
+#### Io … Pissevache:
+Donougher: Io was a priestess seduced by Jupiter, who turned her into a white heifer, hoping to hide and protect her from his jealous wife. The story is told in Ovid’s *Metamorphoses* (bk I, lines 567–746). Pissevache, meaning ‘pissing cow’, hence the connection with Io, is a waterfall in the Swiss Alps. Because waters have been diverted for hydroelectric purposes, it is not quite as dramatic as it used to be when celebrated by Romantic writers, including Goethe.
+
+Madden: The nymph Io was a daughter of the river god Inachus; Pissevache is a waterfall in the French Alps.
+
+#### The 1814 Charter:
+Donougher: The charter granted (*octroyée*) by Louis XVIII to his people in 1814 was the legal foundation on which the Restoration and the constitutional monarchy were based. In the 1830 Charter, introduced after the July Revolution, the monarchy was no longer invested with this power to grant, the rights of the people being constitutionally founded.
+
+#### the famous Touquet Charter:
+Madden: see here
+> the Touquet edition of Voltaire: That particular edition of Voltaire in fact appeared in 1821; the entrepreneurial publisher also marketed a “snuffbox à la Charte” with the text of the 1814 Constitution engraved on its lid.
+
+#### François I … Louis XIV:
+Madden: Francis I died in 1547, Louis XIV in 1715.
+
+#### Desmarets:
+Donougher: Nephew of Louis XIV’s great finance minister Colbert, Nicolas Desmarets, Marquis de Maillebois (1648–1721), himself became controller-general of finances in 1708. Hugo is basing these calculations on figures given by Voltaire in *The Age of Louis XIV* (1751), ch. 30.
+
+#### The charter that turned to ashes:
+Donougher: In the French: ‘La chartre métamorphosée en flamme’, evoking the title of La Fontaine’s fable 18 (bk 2), ‘La Chatte métamorphosée en Femme’ (The Cat That Turned into a Woman), the moral of which is ‘Nature will out!’
+
+#### that French thing called *entrain*:
+Donougher:  Which might be translated as ‘spiritedness’.
+
+### 3.4.5: Enlargement of Horizon
+
+#### Bonaparte’s fatal number:
+Madden: 18 Brumaire, the coup that brought Bonaparte to power.
+
+#### Quia nominor leo:
+Donougher: ‘Because my name is lion.’ An allusion to a fable by the Roman writer Phaedrus, on which La Fontaine’s ‘La Génisse, la Chèvre et la Brebis en société avec le Lion’ (The Heifer, the Goat and the Ewe in Company with the Lion) is based (bk 1, fable 6). In the sharing of spoils the lion has uncontestable reasons for ending up with all four shares – this reason being as persuasive as any other.
+
+Madden: “because my name is lion”; from a Greek fable that portrayed the lion as king of the beasts.
+
+#### Justinian:
+Madden: The emperor Justinian (ca. 482–565) rewrote the laws of the Byzantine Empire.
+
+#### Pascal’s lightning wit:
+Madden: This wit is best represented in Pascal’s *Lettres provinciales*, which satirized the Jesuits.
+
+#### Newton’s mathematics:
+Madden: Bonaparte began his military career as an artillery officer, a position that required a great deal of mathematical precision.
+
+#### Tilsit:
+Donougher: Napoleon’s victory at the battle of Friedland in 1807, enshrined in the two Treaties of Tilsit, one made with Russia, whereby the two nations became allies, and a second securing the humiliation of Prussia, marked the apogee of his power.
+
+Madden: the first imperial summit between Napoléon and Alexander I of Russia in July 1807.
+
+#### Laplace:
+Donougher: The mathematician and astronomer Pierre-Simon, Marquis de Laplace (1749–1827), was elected to the Academy of Sciences in 1773. Napoleon was himself mathematically gifted. Laplace is supposed to have said to him, ‘General, we expected anything of you but lessons in geometry’, after Napoleon demonstrated a geometrical theorem.
+
+Madden: Pierre-Simon Laplace (1749–1827) was a mathematician, physicist, and astronomer.
+
+#### Merlin:
+Donougher: The politician and jurist Philippe-Antoine Merlin de Douai (1754–1838), who served under the Directory as minister of justice and then as one of the Directors (1797–9), was appointed councillor of state in 1806.
+
+Madden: Philippe-Antoine Merlin (1754–1838), known as Merlin de Douai for his hometown, was a Revolutionary politician known for his legal scholarship and as an orator.
+
+#### Cromwell … curtain tassel:
+Donougher: Cromwell is said to have chided his wife for sewing by the light of two candles instead of one.
+
+Madden: These two anecdotes, apparently referring to the frugality of the English and French dictators, are of unknown origin.
+
+#### If Caesar … I love my mother more:
+Donougher: ‘Si César m’avait donné / La gloire et la guerre, / Et qu’il me fallût quitter / L’amour de ma mère, / Je dirais au grand César: / Reprends ton sceptre et ton char, / J’aime mieux ma mère, ô gué! / J’aime mieux ma mère.’ This is a recognizable recasting of the song Alceste sings in Molière’s *Le Misanthrope* (Act I, sc. ii): ‘Si le roi m’avait donné / Paris sa grand’ ville / Et qu’il me fallût quitter / L’amour de ma mie / Je dirais au roi Henri / Reprenez votre Paris / J’aime mieux ma mie, ô gué! / J’aime mieux ma mie’ (‘If the king had offered me / Paris his great capital / But it meant forsaking / My sweetheart’s love / I’d tell king Henri / To keep his Paris / I love my sweetheart more, tra-la, / I love my sweetheart more’.
+
+Madden: Combeferre has apparently rewritten and politicized “J’aime mieux ma mie,” a famous love song from Molière’s *Misanthrope:* “Si César m’avait donné / La gloire et la guerre, / Et qu’il me fallût quitter / L’amour de ma mère, / Je dirais au grand César: / Reprends ton sceptre et ton char, / J’aime mieux ma mère, ô gué! / J’aime mieux ma mère.”
+
+#### citizen:
+Madden: this form of address had significant political connotations in post-Revolutionary France.
+
+### 3.4.6: Res Angusta
+
+#### *Res Angusta*:
+Donougher: An allusion to Juvenal’s Satire III, lines 164–5: ‘Haud facile emergunt quorum virtutibus obstat res angusta domi’ (‘It is not easy for those to rise whose straitened circumstances stand in the way of their merits’).
+
+Madden: “straitened (financial) circumstances.”
