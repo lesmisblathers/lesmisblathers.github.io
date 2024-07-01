@@ -1609,7 +1609,8 @@ Madden: “straitened (financial) circumstances.”
 
 ## Book 5: The Excellence of Misfortune
 
-### 3.5.1: Marius Indigent
+### 3.5.1: Marius Indigent
+
 No footnotes
 
 ### 3.5.2: Marius Poor
