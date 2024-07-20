@@ -33,12 +33,8 @@ When he first arrived, Monsieur Myriel was set up in his episcopal palace with a
 Once he had moved in, the town waited to see their bishop on the job.
 
 ---
-
 ### Footnotes
-
-[^1]: Myriel was bishop of Digne: Hugo based his bishop on Charles-François-Melchior-Bienvenu de Miollis (1753–1838), bishop of Digne from 1805 to 1831. Like his fictional counterpart, Miollis was known for the simplicity of his lifestyle and his attention to the poorest members of his diocese. Miollis also welcomed a convict named Pierre Maurin, who had spent five years in prison for stealing a loaf of bread (with aggravating circumstances). Several details of Bishop Myriel’s life are inventions of the novelist and were even criticized by conservative Catholics, who saw Myriel’s lifestyle as a rebuke of the Church, and by the surviving members of Miollis’s family.
-
-The town of Digne was also a fortuitous location for Bishop Myriel’s good works, given that _digne_ means “worthy” in French. The bishop’s name may suggest other meanings. The -iel ending recalls the traditional names of the archangels (Gabriel, Raphael, Michael, Uriel). The name also has a certain assonance with _miel_, “honey.”
+[^1]: Myriel was bishop of Digne: Hugo based his bishop on Charles-François-Melchior-Bienvenu de Miollis (1753–1838), bishop of Digne from 1805 to 1831. Like his fictional counterpart, Miollis was known for the simplicity of his lifestyle and his attention to the poorest members of his diocese. Miollis also welcomed a convict named Pierre Maurin, who had spent five years in prison for stealing a loaf of bread (with aggravating circumstances). Several details of Bishop Myriel’s life are inventions of the novelist and were even criticized by conservative Catholics, who saw Myriel’s lifestyle as a rebuke of the Church, and by the surviving members of Miollis’s family. <br/><br/> The town of Digne was also a fortuitous location for Bishop Myriel’s good works, given that _digne_ means “worthy” in French. The bishop’s name may suggest other meanings. The -iel ending recalls the traditional names of the archangels (Gabriel, Raphael, Michael, Uriel). The name also has a certain assonance with _miel_, “honey.”
 
 [^2]: _noblesse de robe_: the hereditary class of magistrates who made up the _parlements_, the law courts of ancien régime France. The robins were considered one rung below the _noblesse d’épée_, the nobility of the sword, the dukes, counts, and so on, of the old feudal-military order.
 
