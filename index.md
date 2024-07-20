@@ -18,10 +18,6 @@ layout: home
 [Julie Rose](chapter1/rose) (2007, Australia, footnotes by James Madden)<br/>
 [Christine Donougher](chapter1/donougher) (2015, UK, footnotes by herself)<br/>
 
-### chapter1
-#### [Charles Wilbour](/chapter1/wilbour)
-1862, USA
-
 ### Translator Prefaces
 [Norman Denny](/dennypreface/)<br/>
 [Julie Rose](/rosepreface)<br/>
