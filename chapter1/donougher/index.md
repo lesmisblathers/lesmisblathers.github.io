@@ -32,6 +32,8 @@ On his arrival, Monsieur Myriel was installed in the episcopal palace with the h
 
 His installation complete, the town waited to see what the bishop would do.
 
+---
+### Footnotes
 [^1]: the parliament at Aix: The Provence parliament, dating from 1501 and based in Aix-en-Provence, was the chief judiciary authority and highest court in Provence. Bastions of privilege associated with the _ancien régime_, all the provincial parliaments and the Paris parliament were abolished in the early days of the Revolution.
 
 [^2]: judicial aristocracy: Before the French Revolution the French aristocracy who owed their rank to their military service were known as the _noblesse d’épée_, ‘the nobility of the sword’, while those who were ennobled because of their judicial or administrative position were the _noblesse de robe_, ‘nobility of the robe’, or ‘gown’.
