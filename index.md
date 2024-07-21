@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Les Mis Blathers
 ---
 ### Footnotes
 [Combined footnotes, Volume 2](/footnotes/vol2) (WIP)<br/>

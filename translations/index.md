@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Translation Resources
 ---
 
 ### **Charles Wilbour** / 1862 / USA

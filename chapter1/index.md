@@ -1,8 +1,8 @@
 ---
 layout: home
+title: Chapter 1 in all translations
 ---
 
-### Chapter 1 in all translations
 [Charles Wilbour](/chapter1/wilbour) / 1862 / USA<br/>
 [Lascelles Wraxall](/chapter1/wraxall) 1862 / UK / abridged<br/>
 [Isabel Hapgood](/chapter1/hapgood) 1887 / USA<br/>
