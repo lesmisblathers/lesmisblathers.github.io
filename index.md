@@ -9,6 +9,12 @@ layout: home
 ### Comparisons
 [Rose UK vs. US editions](/rosecomparison/)
 
+### Translator's Prefaces
+[Norman Denny](/preface/denny)<br/>
+[Lee Fahnestock](preface/fma)<br/>
+[Julie Rose](/preface/rose)<br/>
+[Christine Donougher](preface/donougher)<br/>
+
 ### Chapter 1 in all translations
 [Charles Wilbour](/chapter1/wilbour) (1862, USA)<br/>
 [Lascelles Wraxall](/chapter1/wraxall) (1862, UK, abridged)<br/>
@@ -17,10 +23,6 @@ layout: home
 [Lee Fahnestock and Norman MacAfee](chapter1/fma) (1987, USA, based on Wilbour)<br/>
 [Julie Rose](chapter1/rose) (2007, Australia, footnotes by James Madden)<br/>
 [Christine Donougher](chapter1/donougher) (2015, UK, footnotes by herself)<br/>
-
-### Translator Prefaces
-[Norman Denny](/dennypreface/)<br/>
-[Julie Rose](/rosepreface)<br/>
 
 ### Other
 [The Heroine of Texas](/texas/)

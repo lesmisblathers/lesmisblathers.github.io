@@ -1,7 +1,15 @@
 ---
 layout: post
-title: Julie Rose (2007, Australia, footnotes by James Madden)
+title: Julie Rose
 ---
+### 2007, Australia, footnotes by James Madden
+
+[Rose's translation preface](/preface/rose)<br/>
+[Interview with Rose](https://atthefestival.wordpress.com/2014/05/24/literary-translations-out-of-the-enclave-and-into-the-world/), has the Lore behind her Australianisms. ([Archived link](https://archive.is/FpdA7))<br/>
+[Essay by Rose](https://pen.org.au/wp-content/uploads/2023/08/PEN_June_2009_web.pdf) about translating LM. Starts on page 6 of the PDF. ([Archived link](https://archive.is/xMjQx))
+
+---
+
 In 1815, Monsieur Charles-François-Bienvenu Myriel was bishop of Digne.[^1] He was an elderly man of about seventy-five and he had occupied the seat of Digne since 1806.
 
 There is something we might mention that has no bearing whatsoever on the tale we have to tell—not even on the background. Yet it may well serve some purpose, if only in the interests of precision, to jot down here the rumours and gossip that had circulated about him the moment he first popped up in the diocese. True or false, what is said about people often has as much bearing on their lives and especially on their destinies as what they do. Monsieur Myriel was the son of a councillor of the Aix parliament, a member of the _noblesse de robe_.[^2] They reckoned his father had put him down to inherit his position and so had married him off very early in the piece when he was only eighteen or twenty, as they used to do quite a lot in parliamentary families. Charles Myriel, married or no, had, they said, set tongues wagging. He was a good-looking young man, if on the short side, elegant, charming, and witty; he had given the best years of his life thus far to worldly pursuits and love affairs. Then the Revolution came along, events spiralled, parliamentary families were wiped out, chased away, hunted, scattered. Monsieur Charles Myriel emigrated to Italy soon after the Revolution broke out. His wife died there of the chest infection she’d had for ages. They had no children. What happened next in the destiny of Monsieur Myriel? The collapse of the old society in France, the fall of his own family, the tragic scenes of ’93,[^3] which were, perhaps, even more frightening for émigrés[^4] watching them from afar with the magnifying power of dread—did these things cause notions of renunciation and solitude to germinate in his mind? Was he, in the middle of the distractions and amorous diversions that filled his life, suddenly hit by one of those mysterious and terrible jolts that sometimes come and strike at the heart, bowling over the man public calamities couldn’t shake, threatening as these did only his existence and his fortune? No one could say; all that was known was that, when he came back from Italy, he was a priest.

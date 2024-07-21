@@ -1,0 +1,27 @@
+---
+layout: post
+title: Christine Donougher's Translation Preface
+---
+
+_Les Misérables_ is one of the great crusading novels for social reform, inspired by a deep sense of social injustice, a missionary zeal to expose that injustice, and a huge energy to advocate the benefits of righting wrong and of cultivating the fulfilment of human potential. It is addressed to all and speaks in a language intended to be understood by all. It combines rhetorical grandeur and poetic lyricism, such as might be found in parts of the Bible, with the heart-stopping suspense narrative of the action-packed mass-market thriller, and even the farcical humour of the sitcom.
+
+First published in 1862, and rooted in one of the most turbulent periods of French history, when the country occupied a central position on the world stage, it remains contemporary and universal in its message. This translation attempts to convey both that historical particularity and that contemporary relevance, that 'Frenchness' and that universality, while striving to avoid both unconvincing pastiche and modern intrusions.
+
+Central to the themes of _Les Misérables_ is the dignity of the individual. Embedded in the French language and in the French idiom, to a far greater extent than in English, is a recognition of that dignity in the way that the individual is addressed. For this reason I have retained formal titles in French: monsieur l'abbé, monsieur le président etc., and I have footnoted key moments in the text when the formal 'vous' or the informal 'tu' form of the verb are used to dramatic effect.
+
+I have also footnoted other points of linguistic significance---puns, quotations and literary references---while glosses on the historical background and other references are to be found in the endnotes.
+
+Hugo himself footnoted his own text, largely in the section devoted to 'slang, and in some instances quite extensively, presenting the slang used by the criminal fraternity as a grotesquely arcane language foreign to the ordinary French citizen. Having considered how early-nineteenth-century Parisian slang might be translated to achieve the same effect without introducing unwanted echoes of a different culture and without seeming unnecessarily contrived, I decided, in the end, that the most authentic solution was also to treat it as a foreign language, and to translate only Hugo's footnote 'translation', which is included so that readers---even those without any knowledge of French---can see the gulf between the two.
+
+Where characters speak in slang or in dialect, it is invariably signalled by Hugo; otherwise they speak in standard French, not in a substandard or class-distinctive form of the language. This seems to me central to the educative aspirations of this novel and important to preserve in the translation.
+
+A key word in _Les Misérables_ that poses particular problems for the translator is the dread prison sentence, _le bagne_. The _bagne_ was not only a place---the arsenal prison, and in particular, in the case of _Les Misérables_, the one at Toulon---but also a brutal regime of punishment. Prisoners were condemned to hard labour, kept in chains from the beginning to the end of their sentence, and subjected to extremely harsh treatment and appalling living conditions. They were housed, when the arsenal prisons first came into being in 1748, on decommissioned galleys and, later, on other vessels.
+
+Although the need for land-based accommodation at Toulon was addressed by the authorities as early as 1777, prison hulks continued to be used until the arsenal prison was finally closed down in 1873. In 1783, only thirteen years before Jean Valjean would have been sent there, sixty per cent of the prisoners were housed on the hulks. (A fascinating and detailed account of this subject, based on archive documents, is given by the Académie du Var in _Le Bagne de Toulon 1748--1873_, published by Éditions Autres Temps, 2010.)
+It is for this reason, and because of the English term's naval associations and the similarly fearsome resonance it has in the popular imagination, that I have chosen to translate _le bagne_ as 'the prison hulks'. (See also my note on the account that Jean Valjean gives of himself to the bishop of Digne, under the entry _I'm an ex-convict ... from Toulon_, p. 1312).
+
+The extent to which Hugo wove reality into his work is remarkable, lending a documentary authority to his fiction, and the endnotes will, I hope, illuminate this aspect of Hugo's writing. In this respect the resources of the internet have proved invaluable, and I am immensely grateful to the countless contributors of information to the web who have enormously facilitated the task of the translator and annotator of such a work as this. I am sure that Hugo would have greatly approved of this democratization of knowledge.
+
+I imagine, too, he would in the same spirit have embraced today's abbreviated modes of communication, if the story of an exchange of telegrams with his English publisher is to be believed. Wishing to know how sales of the translation of _Les Misérables_ were going, he is supposed to have sent the message: '?' to which came the equally pithy reply: '!'
+
+Finally, I am very grateful to Sue Phillpott for the close attention with which she copyedited my translation and for the many useful suggestions that she made, and to Stephen Ryan for his meticulous proofreading.

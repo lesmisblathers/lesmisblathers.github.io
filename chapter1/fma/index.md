@@ -1,6 +1,11 @@
 ---
 layout: post
-title: Lee Fahnestock and Norman MacAfee (1987, USA, based on Wilbour)
+title: Lee Fahnestock and Norman MacAfee
+---
+###  1987, USA, based on Wilbour
+[Translation preface](/preface/fma)<br/>
+[Translation Lore](https://translationista.com/2022/02/remembering-lee-fahnestock-1928-2022.html) from Norman MacAfee, in a tribute to Lee Fahnestock. ([Archived link](https://archive.is/vXXqp))
+
 ---
 In 1815 Monsieur Charles-François-Bienvenu Myriel was Bishop of Digne. He was then about seventy-five and had presided over the diocese of Digne since 1806.
 

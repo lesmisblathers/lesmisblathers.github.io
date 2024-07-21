@@ -1,7 +1,13 @@
 ---
 layout: post
-title: Christine Donougher (2015, UK, footnotes by herself)
+title: Christine Donougher
 ---
+### 2015, UK, footnotes by herself
+
+[Translation preface](/preface/donougher)
+
+---
+
 In 1815, Charles-François-Bienvenu Myriel was bishop of Digne. He was an old man of about seventy-five. He had been bishop of Digne since 1806.
 
 If only for the sake of being accurate in every particular, although this circumstance in no way impinges on the basic substance of what we are about to relate, it may be worth mentioning here the rumours and gossip circulating about him at the time of his arrival in the diocese. True or false, what is said about men often figures as large in their lives, and above all in the fate that befalls them, as what they do. Monsieur Myriel was the son of a councillor in the parliament at Aix[^1] – judicial aristocracy.[^2] It was reported that his father, intending that his son should inherit his position, had married him off very young, aged eighteen or twenty, a fairly common practice among parliamentary families. This marriage, it was said, did not prevent Charles Myriel from being much talked about. He was good-looking, though rather short in stature, elegant, charming, witty. His entire early life was devoted to fashionable society and amorous intrigue. The Revolution came. Events moved fast. Decimated, driven out, hunted down, the parliamentary families scattered. During the very first days of the Revolution, Monsieur Charles Myriel emigrated to Italy. There, his wife died of a chest ailment that had long afflicted her. They had no children. What then happened to Monsieur Myriel? The collapse in France of the old world, the downfall of his own family, the tragic spectacles of ’93,[^3] perhaps even more terrifying for the émigrés watching from afar with magnifying horror – did these give rise in him to thoughts of renunciation and solitude? Was he, in the midst of one of those distractions and attachments that filled his existence, suddenly dealt one of those mysterious and terrible blows that by striking at the heart sometimes fell a man who would be left unshaken by public catastrophes that strike at his way of life and his fortune? No one could have said. All anyone knew was that when he returned from Italy he was a priest.

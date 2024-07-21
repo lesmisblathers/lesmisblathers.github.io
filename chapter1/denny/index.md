@@ -1,7 +1,12 @@
 ---
 layout: post
-title: Norman Denny (1976, UK, abridged)
+title: Norman Denny
 ---
+### 1976, UK, abridged
+[Translation preface](/preface/denny)
+
+---
+
 In the year 1815 Monseigneur Charles-François-Bienvenu Myriel was Bishop of Digne. He was then about seventy-five, having held the bishopric since 1806.
 
 Although it has no direct bearing on the tale we have to tell, we must nevertheless give some account of the rumours and gossip concerning him which were in circulation when he came to occupy the diocese. What is reported of men, whether it be true or false, may play as large a part in their lives, and above all in their destiny, as the things they do. Monseigneur Myriel was the son of a counsellor of the Parliament of Aix, a member of the _noblesse de robe_. It was said of him that his father, intending him to inherit his office, had arranged for him to marry at a very early age, about eighteen or twenty, following the custom that was fairly widespread in parliamentary families. Charles Myriel, it was said, had attracted much gossip despite this marriage. He was good-looking although of small stature, elegant, graceful, and entertaining; his early life was wholly devoted to worldly matters and affairs of gallantry. Then had come the revolution, and in the rush of those events the decimated and persecuted parliamentary families had been scattered. Charles Myriel emigrated to Italy, and here his wife died of the chest complaint that had long afflicted her. There were no children. What happened after this to Monseigneur Myriel? Did the collapse of the old French social order, the downfall of his own family, the tragic events of ’93 – perhaps even more fearful to an _émigré_ witnessing them at a distance – inspire in him thoughts of renunciation and solitude? Amid the distractions and frivolities that occupied his life, did it happen that he was suddenly overtaken by one of those mysterious and awful revulsions which, striking to the heart, change the nature of a man who cannot be broken by outward disasters affecting his life and fortune? No one can say. All that is known is that when he returned from Italy he was a priest.
