@@ -2,7 +2,7 @@
 layout: post
 title: Lee Fahnestock and Norman MacAfee
 ---
-###  1987, USA, based on Wilbour
+###  1987 / USA / Based on Wilbour
 [Translation preface](/preface/fma)<br/>
 [Translation Lore](https://translationista.com/2022/02/remembering-lee-fahnestock-1928-2022.html) from Norman MacAfee, in a tribute to Lee Fahnestock. ([Archived link](https://archive.is/vXXqp))
 

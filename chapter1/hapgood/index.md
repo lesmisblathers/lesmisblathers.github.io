@@ -2,7 +2,7 @@
 layout: post
 title: Isabel Hapgood
 ---
-### 1887, USA
+### 1887 / USA
 ---
 In 1815, M. Charles-François-Bienvenu Myriel was Bishop of Digne. He was an old man of about seventy-five years of age; he had occupied the see of Digne since 1806.
 

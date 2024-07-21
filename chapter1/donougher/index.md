@@ -2,7 +2,7 @@
 layout: post
 title: Christine Donougher
 ---
-### 2015, UK, footnotes by herself
+### 2015 / UK / Footnotes by herself
 
 [Translation preface](/preface/donougher)
 

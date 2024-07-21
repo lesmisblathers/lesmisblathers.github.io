@@ -2,7 +2,7 @@
 layout: post
 title: Norman Denny
 ---
-### 1976, UK, abridged
+### 1976 / UK / abridged
 [Translation preface](/preface/denny)
 
 ---

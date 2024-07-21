@@ -2,7 +2,7 @@
 layout: post
 title: Julie Rose
 ---
-### 2007, Australia, footnotes by James Madden
+### 2007 / Australia / Footnotes by James Madden
 
 [Rose's translation preface](/preface/rose)<br/>
 [Interview with Rose](https://atthefestival.wordpress.com/2014/05/24/literary-translations-out-of-the-enclave-and-into-the-world/), has the Lore behind her Australianisms. ([Archived link](https://archive.is/FpdA7))<br/>
