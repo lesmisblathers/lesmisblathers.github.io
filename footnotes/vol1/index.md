@@ -71,3 +71,36 @@ Madden: Mousqueton was the valet of Porthos in *The Three Musketeers.*
 Donougher: Suetonius in _The Lives of the Twelve Caesars_ describes Claudius as having a majestic appearance and a bull neck (‘Claudius’, ch. 45).
 
 Madden: Hugo held the successors of Caesar Augustus, including Claudius (10 B.C.E.–54), in low esteem, as the reader will see throughout *Les Misérables*.
+
+### 1.1.13: What He Believed
+
+#### *Credo in Patrem*
+Donougher: ‘I believe in the Father’.
+
+Madden: the opening phrase of the Apostle’s Creed in Latin: “I believe in the Father …”
+
+#### *quia multum amavit*
+Donougher: An allusion to Luke 7:47, ‘Her sins, which are many, are forgiven; _for she loved much_.’
+
+Madden: an allusion to Christ’s public forgiveness of Mary Magdelene, from Luke 7:47: “Because she has loved much …”
+
+#### the Brahmans:
+Madden: in Hinduism, the Brahman spirit is the eternal and transcendent spirit underlying all life.
+
+#### text from Ecclesiastes:
+Donougher: ‘Who knoweth the spirit of a man that goeth upward, and the spirit of the beast that goeth downward to the earth?’ Ecclesiastes 3:21.
+
+Madden: Ecclesiastes 3:19–21.
+
+#### Saint Francis of Assisi
+Madden: Saint Francis (1181–1226) is traditionally associated with benevolence toward animals.
+
+#### Marcus Aurelius
+Donougher: AD 121–80, emperor of Rome from AD 161: ‘As to the animals which have no reason … do thou, since thou hast reason, and they have none, make use of them with a generous and liberal spirit’, _The Meditations of Marcus Aurelius_, VI, 23, translated by George Long, 1862.
+
+Madden: The Roman emperor Marcus Aurelius (121–180), author of the *Meditations*, is recognized as a philosopher of the Stoic tradition.
+
+#### Pope Gregory XVI
+Donougher: Bartolomeo Alberto Cappellari (1765–1846) was elected Pope Gregory XVI in 1831 on the eve of an uprising of the Papal States against papal authority; the uprising was suppressed. A reactionary who resisted reform and defended papal sovereignty and the principle of papal infallibility, Cappellari, originally a monk, was made a cardinal without having been a bishop.
+
+Madden: Pope from 1831 to 1846, the traditionalist Gregory was so opposed to modernism that he forbade the construction of railways in the Papal States. He took a similarly conservative view of politics, though it should be noted that, like Hugo, he was a vocal opponent of slavery.
