@@ -57,9 +57,92 @@ Madden: Napoléon was highly conscious of issues of rank and protocol and in arr
 
 ### 1.1.2: M. Myriel Becomes M. Welcome
 
+#### Monseigneur Henri Puget
+Madden: Bishop of Digne (1708–28) and abbot of Simore. Under the ancien régime, bishops often held one or (usually) more abbeys, which supplemented their incomes.
+
+#### Charles Brûlart de Genlis, archbishop prince of Embrun … lord bishop of Senez
+Madden: In the early Middle Ages, Embrun was a free city ruled by the archbishop, who was recognized as a prince. The title was used as a courtesy after Embrun officially became subject to the French Crown in the sixteenth century. Under the ancien régime, several bishoprics carried with them secular titles and offices—such as lord bishops and bishop barons, described below—and even political authority. As was increasingly the case in the eighteenth century, the archbishop of Genlis was from an aristocratic family; Crillon and Sabran in particular were great names of the French nobility; Antoine de Mesgrigny, Capuchin bishop of Grasse, was both a Capuchin monk and a priest, a status more common in the Middle Ages than in later eras. Philippe de Vendôme, grand prior of France, descended from César de Vendôme, an acknowledged bastard of King Henri IV and Gabrielle d’Estrées. Philippe (1655–1727), in spite of his clerical status, had a prominent military career, being named grand prior of the Knights of Malta before succeeding his elder brother as the fourth and last Duc de Vendôme. The abbey of Saint-Honoré de Lérins was one of many that provided an income to the princely warrior-monk.
+
+#### Manosque and Sisteron
+Madden: two cities in the Provence region of France, within Bishop Myriel’s diocese.
+
+####  the allowance the *département* owes him
+Donougher: The division of post-Revolutionary France into newly created administrative areas called départements came into effect in 1790.
+
+#### imperial senator
+Madden: Napoléon created the Senate in imitation of Rome, in order to give the gloss of a constitutional order to his government and as a means to honour high-ranking or prestigious citizens. Senators were provided with substantial endowments, often including country houses or châteaux, such as the “magnificent senatorial seat” mentioned here. The senator in question received his *sénatorerie* in return for supporting Bonaparte’s seizure of power in the coup d’état of the Eighteenth Brumaire of November 9, 1799—18 brumaire, year VII, according to the Revolutionary calendar still in effect—that brought Bonaparte to power. The Consulate (with Bonaparte as first consul and then consul for life) replaced the Directoire.
+
+#### Council of Five Hundred
+Madden: Under the Directoire government that followed the fall of Robespierre and the Convention, the Council of the Five Hundred was the lower and larger of the two legislative bodies, paired with the Conseil des Anciens, or Council of Elders.
+
+#### Monsieur Bigot de Préameneu
+Madden: Félix Bigot de Préameneu (1747–1825), Napoléon’s *ministre des cultes*, or minister of public worship, also one of the authors of the Napoleonic Code.
+
+#### Council of Five Hundred … 18th Brumaire … Bigot de Préameneu
+Donougher: On 9 November 1799, 18th Brumaire in the French Republican calendar, Napoleon took part in a coup against the Directory, the French Revolutionary government from November 1795 to November 1799, that led to the introduction of a new constitution under which he became first consul, invested with the powers he needed eventually to become emperor. A rump session of the Council of Five Hundred, the lower house of the bicameral legislature, the Legislative Corps, that formed part of Directory, signed the transfer of political power. Félix-Julien-Jean Bigot de Préameneu (1747–1825), a moderate during the Revolution (and saved from the guillotine by the fall of Robespierre), was a supporter of the Brumaire conspiracy, a member of the committee that prepared Napoleon’s Civil Code, and minister of public worship 1808–14. This ministry was created in 1804 to implement the 1801 Concordat with Rome, and had jurisdiction over all religious affairs in France.
+
+#### the Durance at Château-Arnoux
+Madden: The Durance River flows down through the Alps to the Rhone, crossing much of Bishop Myriel’s diocese, including the city of Château-Arnoux.
+
+#### Things were not good with Rome at that point
+Madden: After Napoléon had restored the Catholic Church to its official place in French society by the Concordat of 1801 and Pius VII had officiated at Napoléon’s coronation of December 1, 1804, the relationship between Paris and Rome steadily deteriorated [see “The arrest of the pope” footnote]. Caesar is the senator’s flattering reference to the still-new emperor of the French.
+
+#### Bienvenu
+Donougher: ‘Bienvenu’ means ‘Welcome’.
+
 ### 1.1.3: A Hard Bishopric for a Good Bishop
 
+#### Senez … once an episcopal city
+Madden: The town of Senez lost its episcopal status in the reorganization of the French church in 1790.
+
+#### the right to mow their meadows three days before everyone else
+Madden: i.e., those widows and orphans would have been allowed to sell their hay at the highest prices possible, without competition from their neighbours.
+
+#### engraved stationery
+Madden: Or *papier timbré*, stamped paper, which bore the official government stamp and was required for all legal documents. A metaphor for the expense of lawsuits.
+
 ### 1.1.4: Works Corresponding to Words
+
+#### a peerage … grandfather
+Madden: Under the Restoration, the Charter, or constitution, provided for a bicameral legislature of elected deputies in the lower house, and a Chamber of Peers, appointed by the king, with a limited number of hereditary seats.
+
+#### Saint Augustine
+Madden: Saint Augustine (354–430) was one of the Fathers of the Church.
+
+#### ultra-royalist and an ultra-Voltairean at once
+Madden: not so rare a combination, as many aristocrats before and after the Revolution superficially affected the cynical subversiveness of Voltaire while clinging to the ultra-royalist politics that ensured their position and authority.
+
+#### tax on doors and windows
+Madden: effectively a luxury tax on home owners, it was, as the bishop implies, a grossly regressive and unfair tax.
+
+#### “Eh bé! moussu, sès sagé?”
+Donougher: “Now then, monsieur, are you being sensible?”
+
+Rose's translation: “All right mate, you behavin’?”
+
+#### “Onté anaras passa?”
+Donougher: “Where have you been?”
+
+Rose’s translation: “Morning, what gives?”
+
+#### “Puerte un bouen moutu embe un bouen froumage grase.”
+Donougher: “I’ve come with a good sheep and a good creamy cheese.”
+
+Rose’s translation: A good sheep gives a good fat cheese.
+
+#### Donougher footnote on the above footnotes
+Donougher: The translations given in the footnotes are translations of the French variants that appear in the text of _Les Misères_, an earlier draft of _The Wretched_ (given in Maurice Allen’s annotated edition of _Les Misérables_ published by Gallimard, 1951, in the Bibliothèque de la Pléiade, p. 1991).
+
+#### public prosecutor
+Madden: Under the royal governments before and after the Revolution, public prosecutors were extremely powerful, especially in local governments.
+
+#### You may think you are indifferent to the death penalty
+Madden: Opposition to the death penalty was a lifelong cause of Hugo, surviving all of his political permutations. His novel *The Last Day of a Condemned Man* (1829), a first-person narrative of a man facing execution, was a powerful and eloquent condemnation of the death penalty.
+
+#### Maistre … Beccaria
+Donougher: Joseph de Maistre (1753–1821), an arch-conservative Catholic monarchist who saw the Revolution as divine punishment for the degeneration of society, was the author of a number of works, including _Les Soirées de Saint-Pétersbourg_ (St Petersburg Evenings, 1821), in which he celebrated the executioner as protector of the social order and bulwark against chaos. Cesare Beccaria (1738–94) wrote an influential treatise on the reform of criminal justice entitled _Of Crimes and Punishment_ (1764), in which he advocated the abolition of capital punishment. Hugo himself championed the abolition of the death penalty in his writings, particularly in his 1829 novel _Le Dernier jour d’un condamné_ (Last Day of a Condemned Man) and his short story ‘Claude Gueux’ (1834), and also took part in public campaigns seeking clemency for those condemned – the American John Brown, for instance, in 1859.
+
+Madden: The conservative count Joseph de Maistre (1753–1821) was one of the leading politcal theorists of legitimacy and conservatism in post-Napoleonic France; Marquis Cesare di Beccaria (1738–94) was an Italian philosopher and politician whose treatise *On Crime and Punishment* (1764) advocated penal reform and the abolition of torture and the death penalty.
 
 ### 1.1.5: Monseigneur Bienvenu Made His Cassocks Last Too Long
 
