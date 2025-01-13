@@ -11,17 +11,19 @@ Donougher: Canonized in 1665 and proclaimed Doctor of the Church in 1877, Franci
 
 Madden: As Roman Catholic bishop of Geneva, Sales (1567–1622) sought to convert Protestants back to the Catholic faith.
 
-#### cadets
+#### Every profession has its cadets
 Madden: i.e., its subalterns.
 
-#### metropolis
+#### Every metropolis has its general staff
 Madden: in the Roman Catholic Church, an archbishop’s diocese.
 
-#### subdeacon
+#### a foot in the door for a subdeacon
 Madden: Such clerical “livings” were much sought after by young clerics, although many of the abuses of clerical livings were weeded out by Revolutionary and Napoleonic reforms.
 
 #### more abbés than priests
 Madden: i.e., leaning more toward politics and the secular life than spiritual and pastoral duties; again, such cases were far more common under the ancien régime than in the nineteenth century. Ambition was certainly present in the French Church in Hugo’s time, but it tended to aim toward bishoprics and cardinal’s hats rather than the diplomatic posts and ministerial portfolios of earlier ages.
+
+Donougher: no footnote, but her translation "they are more holders of church livings than priests, more ecclesiastical dignitaries than bishops" is helpful.
 
 #### conclavist
 Madden: i.e., a member of the College of Cardinals, which meets in a papal conclave to elect a new pope.
