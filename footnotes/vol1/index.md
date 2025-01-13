@@ -64,6 +64,7 @@ Madden: During the Revolution, armies were given the names of the new *départem
 
 #### Mousqueton
 Donougher: Literally, ‘blunderbuss’, Mousqueton is the name of Porthos’s manservant in Alexandre Dumas’s _The Three Musketeers_ (1844).
+
 Madden: Mousqueton was the valet of Porthos in *The Three Musketeers.*
 
 #### Claudius’ bull neck:
