@@ -11,7 +11,7 @@ Madden: Hugo based his bishop on Charles-François-Melchior-Bienvenu de Miollis 
 
 The town of Digne was also a fortuitous location for Bishop Myriel’s good works, given that _digne_ means “worthy” in French. The bishop’s name may suggest other meanings. The -iel ending recalls the traditional names of the archangels (Gabriel, Raphael, Michael, Uriel). The name also has a certain assonance with _miel_, “honey.”
 
-#### the parliament at Aix:
+#### the parliament at Aix
 Donougher: The Provence parliament, dating from 1501 and based in Aix-en-Provence, was the chief judiciary authority and highest court in Provence. Bastions of privilege associated with the _ancien régime_, all the provincial parliaments and the Paris parliament were abolished in the early days of the Revolution.
 
 #### _noblesse de robe_
@@ -19,7 +19,7 @@ Donougher: Before the French Revolution the French aristocracy who owed their ra
 
 Madden: the hereditary class of magistrates who made up the _parlements_, the law courts of ancien régime France. The robins were considered one rung below the _noblesse d’épée_, the nobility of the sword, the dukes, counts, and so on, of the old feudal-military order.
 
-#### tragic scenes of ’93:
+#### tragic scenes of ’93
 Donougher: Louis XVI was executed on 21 January, Marie-Antoinette on 16 October. The Terror implemented by the Revolutionary government’s Committee of Public Safety began in September and continued until the fall of Robespierre in July 1794.
 
 Madden: The year 1793, the fourth year of the French Revolution, saw some of the bloodiest episodes of the era, from the trial and execution of Louis XVI in January to Marie Antoinette’s in October, as well as the beginning of the Terror. Hugo’s last novel, Quatre-vingt-treize (Ninety-three), a story of political conflict in revolutionary Brittany, was published in 1874.
@@ -155,10 +155,10 @@ Donougher: An allusion to Luke 7:47, ‘Her sins, which are many, are forgiven;�
 
 Madden: an allusion to Christ’s public forgiveness of Mary Magdelene, from Luke 7:47: “Because she has loved much …”
 
-#### the Brahmans:
+#### the Brahmans
 Madden: in Hinduism, the Brahman spirit is the eternal and transcendent spirit underlying all life.
 
-#### text from Ecclesiastes:
+#### text from Ecclesiastes
 Donougher: ‘Who knoweth the spirit of a man that goeth upward, and the spirit of the beast that goeth downward to the earth?’ Ecclesiastes 3:21.
 
 Madden: Ecclesiastes 3:19–21.
