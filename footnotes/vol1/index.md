@@ -1,9 +1,80 @@
 ---
 layout: page
-title: "Combined Footnotes, Volume 1"
+title: "Footnotes, Volume 1"
 ---
 # Volume 1: Fantine
 ## Book 1: A Just Man
+
+### 1.1.1: M. Myriel
+#### Myriel was bishop of Digne
+Madden: Hugo based his bishop on Charles-François-Melchior-Bienvenu de Miollis (1753–1838), bishop of Digne from 1805 to 1831. Like his fictional counterpart, Miollis was known for the simplicity of his lifestyle and his attention to the poorest members of his diocese. Miollis also welcomed a convict named Pierre Maurin, who had spent five years in prison for stealing a loaf of bread (with aggravating circumstances). Several details of Bishop Myriel’s life are inventions of the novelist and were even criticized by conservative Catholics, who saw Myriel’s lifestyle as a rebuke of the Church, and by the surviving members of Miollis’s family.
+
+The town of Digne was also a fortuitous location for Bishop Myriel’s good works, given that _digne_ means “worthy” in French. The bishop’s name may suggest other meanings. The -iel ending recalls the traditional names of the archangels (Gabriel, Raphael, Michael, Uriel). The name also has a certain assonance with _miel_, “honey.”
+
+#### the parliament at Aix:
+Donougher: The Provence parliament, dating from 1501 and based in Aix-en-Provence, was the chief judiciary authority and highest court in Provence. Bastions of privilege associated with the _ancien régime_, all the provincial parliaments and the Paris parliament were abolished in the early days of the Revolution.
+
+#### _noblesse de robe_
+Donougher: Before the French Revolution the French aristocracy who owed their rank to their military service were known as the _noblesse d’épée_, ‘the nobility of the sword’, while those who were ennobled because of their judicial or administrative position were the _noblesse de robe_, ‘nobility of the robe’, or ‘gown’.
+
+Madden: the hereditary class of magistrates who made up the _parlements_, the law courts of ancien régime France. The robins were considered one rung below the _noblesse d’épée_, the nobility of the sword, the dukes, counts, and so on, of the old feudal-military order.
+
+#### tragic scenes of ’93:
+Donougher: Louis XVI was executed on 21 January, Marie-Antoinette on 16 October. The Terror implemented by the Revolutionary government’s Committee of Public Safety began in September and continued until the fall of Robespierre in July 1794.
+
+Madden: The year 1793, the fourth year of the French Revolution, saw some of the bloodiest episodes of the era, from the trial and execution of Louis XVI in January to Marie Antoinette’s in October, as well as the beginning of the Terror. Hugo’s last novel, Quatre-vingt-treize (Ninety-three), a story of political conflict in revolutionary Brittany, was published in 1874.
+
+#### even more frightening for émigrés watching them from afar
+Madden: Usually taken to refer to aristocrats, the term can refer to anyone who fled France for political reasons during the Revolution.
+
+#### 1804
+Madden: In 1804, Consul for Life Napoléon Bonaparte, de facto dictator of France since 1799, became emperor of the French. The coronation of December 2 was officiated by Pope Pius VII in the cathedral of Notre-Dame de Paris.
+
+#### curé of Brignolles
+Madden: The title _curé_, curate, was used to describe almost any priest, as was the courtesy title _abbé_, abbot. Brignolles is a small town in the Provence region. The place names Hugo cites throughout the novel are mostly real, from the Midi to the Paris region later on in the story.
+
+#### the time of the coronation
+Donougher: Napoleon’s coronation as emperor took place on 2 December 1804 at the church of Notre-Dame in Paris, in a ceremony at which Pope Pius VII officiated.
+
+#### Cardinal Fesch
+Donougher: Joseph Fesch (1763–1839), an uncle of Napoleon, was named archbishop of Lyon in 1802 and created cardinal in 1803; Napoleon appointed him ambassador to Rome that same year.
+
+Madden: Joseph Fesch (1763–1839), Napoléon’s uncle—his mother’s younger half brother—was named archbishop of Lyon and ambassador to the Vatican by his nephew.
+
+#### *palabres*
+Donougher: Now commonly used in modern French to mean ‘interminable discussions’, etymologically and historically the word derives from the Spanish _palabra_ (‘word’), which entered French usage as a result of contacts with Africans who had previously traded with the Spanish. The word came to be associated with notoriously lengthy ritual gift-presentation ceremonies. Hence its southern connotations.
+
+#### the Midi
+Madden: the south of France.
+
+#### Monseigneur
+Donougher: As a simple parish priest Monsieur Myriel would have been addressed as _monsieur le curé_; as bishop he is now _Monseigneur_.
+
+Madden: literally, “my lord,” the formal title used to address bishops; the humble Myriel, unlike his housekeeper, prefers the less pompous _Monsieur_.
+
+#### imperial decree, which ranked bishops … field marshals
+Madden: Napoléon was highly conscious of issues of rank and protocol and in arranging the etiquette of his new imperial court.
+
+### 1.1.2: M. Myriel Becomes M. Welcome
+
+### 1.1.3: A Hard Bishopric for a Good Bishop
+
+### 1.1.4: Works Corresponding to Words
+
+### 1.1.5: Monseigneur Bienvenu Made His Cassocks Last Too Long
+
+### 1.1.6: Who Guarded His House for Him
+
+### 1.1.7: Cravatte
+
+### 1.1.8: Philosophy After Drinking
+
+### 1.1.9: The Brother As Depicted by the Sister
+
+### 1.1.10: The Bishop in the Presence of an Unknown Light
+
+### 1.1.11: A Restriction
+
 ### 1.1.12: The Solitude of Monseigneur Bienvenu
 
 #### Saint Francis de Sales
@@ -104,3 +175,5 @@ Madden: The Roman emperor Marcus Aurelius (121–180), author of the *Meditation
 Donougher: Bartolomeo Alberto Cappellari (1765–1846) was elected Pope Gregory XVI in 1831 on the eve of an uprising of the Papal States against papal authority; the uprising was suppressed. A reactionary who resisted reform and defended papal sovereignty and the principle of papal infallibility, Cappellari, originally a monk, was made a cardinal without having been a bishop.
 
 Madden: Pope from 1831 to 1846, the traditionalist Gregory was so opposed to modernism that he forbade the construction of railways in the Papal States. He took a similarly conservative view of politics, though it should be noted that, like Hugo, he was a vocal opponent of slavery.
+
+### 1.1.14: What He Thought
